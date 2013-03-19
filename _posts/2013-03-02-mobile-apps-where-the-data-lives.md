@@ -1,0 +1,52 @@
+---
+layout: post
+title: Mobile Apps: Where the data lives
+---
+
+At first glance, I wasn't sure how useful [a mobile app for presidential documents](http://m.gpo.gov/dcpd/#main) would be. After all, it's not too often that I am on the go and need to see the contents of the President's weekly radio address.
+
+I had found a lot of value in [the mobile version of The Plum Book](http://open.blogs.nytimes.com/2013/01/15/freeing-the-plum-book/), which provided the data for a New York Times story on presidential appointments. The data hadn't been easily accessible before the mobile app appeared, instead being trapped in PDFs.
+
+Presidential documents, on the other hand, can be the white noise of an administration, coming off the production line day after day, summarizing a visit with a foreign leader or a speech at a school or manufacturing plant. And the mobile app offered up the most recent five such documents, not exactly a treasure trove.
+
+But then I thought about [Mark Knoller](http://blog.thescoop.org/archives/2012/05/01/our-mark-knoller-problem/), again.
+
+While the Compilation of Presidential Documents (CPD), as it is officially known, isn't a comprehensive accounting of a president's time, it is a fairly good indicator of his public schedule and whereabouts. Presidents rarely travel somewhere and not make a public appearance. So I dug a little deeper into the app's code to see what it held.
+
+Quite a lot, as it turns out.
+
+### JSON Everywhere
+
+If you load the mobile app in a web browser and check out its files via the console or developer tools, you'll find [a JavaScript file](http://m.gpo.gov/dcpd/scripts/gpo-dcpd.js) among them. This file powers the app and contains references to the endpoints that carry JSON from the GPO's servers.
+
+The first line of JS, just after the initial comments, is key. Here it is:
+
+    var context="/wscpd/mobilecpd";
+    
+That's the URL segment that begins each call to a JSON endpoint, and it provided a roadmap to them. I searched the file for every time that ``context`` was mentioned, and found a series of URLs, beginning with these three:
+
+    var dateHomeUrl =context+"/home";
+	var mrURL=context+"/location/";
+	var allcategoryUrl = context+"/category";
+	
+Here's what that [first url](http://m.gpo.gov/wscpd/mobilecpd/home) looks like once you combine the original ``context`` variable and ``dateHomeUrl``:
+
+    searchResults: [{ location: "Washington, DC", index: "1", line1: "Remarks at the National Governors Association Dinner", line2: "Compilation of Presidential Documents. Addresses and Remarks. Sunday, February 24, 2013.", president: "Obama, Barack H.", eventDate: "Sunday, February 24, 2013", packageId: "DCPD-201300113" }, { location: "Washington, DC", index: "2", line1: "The President's Weekly Address", line2: "Compilation of Presidential Documents. Addresses and Remarks. Saturday, February 23, 2013.", president: "Obama, Barack H.", eventDate: "Saturday, February 23, 2013", packageId: "DCPD-201300112"},…]
+    
+In other words, lovely JSON. Since this is a mobile app, there's a maximum of five results returned over the wire, which certainly makes sense. This isn't a pure data API, after all. But that doesn't mean it can't be used to build up a data collection.
+
+### Rich Data
+
+The mobile app has several different options, each of which comes with one or more endpoints: date, location, category and search. The date endpoints aren't limited to a [single date](http://m.gpo.gov/wscpd/mobilecpd/date/2-14-2013) but include [a date range option](http://m.gpo.gov/wscpd/mobilecpd/date/2-14-2013/2-15-2013) that makes it possible to iterate through various dates or periods.
+
+The location endpoints are even richer: they offer the options of passing in [a state](http://m.gpo.gov/wscpd/mobilecpd/location/hi), [a city and state](http://m.gpo.gov/wscpd/mobilecpd/location/atlanta/ga.json), or [a city and foreign country](http://m.gpo.gov/wscpd/mobilecpd/location/cannes/france). And then there's the icing on the cake - location-based distance searches. Let's say you want to find the recent documents from locations with 50 miles of Atlanta, Ga. [You can](http://m.gpo.gov/wscpd/mobilecpd/location/33.74899540/-84.38798240/50.json). 
+
+How about a keyword search, so you can find all the documents that pertain to [the president meeting with the Los Angeles Lakers](http://m.gpo.gov/wscpd/mobilecpd/category/lakers)? Sure, why not.
+
+All of these in a mobile app. A *government* mobile app.
+
+### Sea Change
+
+If you had told me a week ago that the federal government was providing an open API for presidential documents that included searches based on location, keywords and dates, I would have been both amused and impressed at your imagination. But it exists, and part of me suspects that this is the way that government officials who support broader access to data can make it happen. Perhaps an official API and developer support is beyond the means of some agencies, but mobile apps - those are shiny, and a way for agencies to provide services for a different set of users.
+
+The CPD app isn't the most likely candidate for a mobile app, but it offers journalists a decent way to track the public schedule of the president, something that we need to get a lot better at. The geocoding of documents alone makes this data worth grabbing. That's why I wrote the [presdocs Ruby gem](http://dwillis.github.com/presdocs/). Next up: a tracker app based on the CPD (AutoKnoller, anyone?), and then back to looking for the next mobile app.
