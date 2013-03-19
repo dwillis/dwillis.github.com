@@ -4,7 +4,7 @@ title: The Information Gap
 permalink: /thefix/the-collaboration-issue/
 ---
 
-First in a series of essays humbly titled "Fixing Journalism". First posted on April 29, 2005
+_First in a series of essays humbly titled "Fixing Journalism". First posted on April 29, 2005_
 
 Sometime before I joined the Washington Post last fall, someone had the idea of installing an internal search engine that would enable people to search the contents of documents on the paper's network, including the individual network drives of reporters and editors (who could still restrict files to their own PCs). This was and still is a non-starter in the newsroom; ~~nobody wanted to make their information available~~ (the idea was discussed by managers but never presented to the newsroom in general or any reporters for approval or rejection).
 

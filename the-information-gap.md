@@ -4,7 +4,7 @@ title: The Information Gap
 permalink: /thefix/the-information-gap/
 ---
 
-__Second in a series of essays humbly titled "Fixing Journalism". First posted on May 9, 2005.__
+_Second in a series of essays humbly titled "Fixing Journalism". First posted on May 9, 2005._
 
 An email list for news researchers that I subscribe to recently featured a discussion on the kinds of skills necessary to get a job in the news library, which performs research for reporters and editors. In several of the posts, managers said that they were looking for people with CAR skills in addition to the traditional abilities of searching records and providing important background and missing information.
 
