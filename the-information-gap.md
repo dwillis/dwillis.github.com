@@ -1,7 +1,7 @@
 ---
 layout: post
 title: The Information Gap
-permalink: /thefix/:title
+permalink: /thefix/the-information-gap/
 ---
 
 __Second in a series of essays humbly titled "Fixing Journalism". First posted on May 9, 2005.__
