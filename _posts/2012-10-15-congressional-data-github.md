@@ -1,6 +1,11 @@
+---
+layout: post
+title: Congressional Data on GitHub - A Way Forward
+---
+
 Two years ago, there was a round of blog posts [touched off by Clay Johnson](http://infovegan.com/2010/07/30/github-for-data) that asked, "Why shouldn’t there be a GitHub for data?" [My own view at the time](http://blog.thescoop.org/archives/2010/07/31/a-github-for-data/) was that availability of the data wasn’t as much an issue as smart usage and documentation of it:
 
-    We need to import, prune, massage, convert. It’s how we learn.
+  We need to import, prune, massage, convert. It’s how we learn.
 
 Turns out that GitHub actually makes this easier, and I’ve had a conversion of sorts to the idea of putting data in version control systems that make it easier to view, download and report issues with data. The biggest factor in this change is the work that [Eric Mill](http://sunlightfoundation.com/people/emill/), [Joshua Tauberer](http://www.civicimpulse.com/) and I (in order of effort put forth) have done on [scrapers to collect legislative data from the Library of Congress THOMAS site](https://github.com/unitedstates/congress).
 
