@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Mobile Apps: Where the data lives
+title: Mobile Apps - Where the data lives
 ---
 
 At first glance, I wasn't sure how useful [a mobile app for presidential documents](http://m.gpo.gov/dcpd/#main) would be. After all, it's not too often that I am on the go and need to see the contents of the President's weekly radio address.
