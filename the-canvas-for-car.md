@@ -1,6 +1,6 @@
 layout: post
-title: Journalism Lost - and Found
-permalink: /thefix/journalism-lost-and-found/
+title: The Canvas for CAR
+permalink: /thefix/the-canvas-for-car/
 ---
 
 [Computer-assisted reporting](http://en.wikipedia.org/wiki/Computer-assisted_reporting) and newspapers have always been a slightly imperfect match. In general, newspapers provided more support for CAR than have radio or television stations, but as newspaper space is at a premium (and getting more expensive), those stories involving a significant amount of data usually end up leaving much of it behind. Accompanying graphics help in many ways, but they can only do so much. Even when story length isn't as much of a concern – at some magazines, for instance – the instinct is not to put a bunch of data where carefully produced words might otherwise go.
