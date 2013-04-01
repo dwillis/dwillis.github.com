@@ -1,0 +1,26 @@
+---
+layout: post
+title: No, Really, Show Us The Data
+---
+
+When it first appeared I was really excited to see [Show Us The Data](http://www.showusthedata.org/), which gave visitors a chance to list and vote for their "Most Requested Documents" that should be more readily available from the federal government. Sure enough, there were plenty of strong choices for the top 10 list. And then people starting voting, and the results were not quite what I had hoped to see. Yes, the items that comprise the [Top 10 List](http://www.openthegovernment.org/otg/TopTenReport.pdf) (irony alert! it's a PDF) are worthy documents, but some of them (the Supreme Court website?) reflect a lack of familiarity with the government information that's truly buried.
+
+What follows is my entirely subjective, data-heavy and document-light version. It's Congress-heavy, because the executive branch has done much, much better in many ways. No, really, show us the data:
+
+  1. __Congressional committee votes__. As far as I know, only commercial companies like CQ possess this information in the aggregate. Most committees publish them in committee reports - [House Judiciary](http://judiciary.house.gov/hearings/transcripts11.html) is one of the better ones - without a standard format and in such a way as to make their gathering prohibitively expensive. And yet these are some of the most telling public actions lawmakers make.
+
+  2. __Earmarks__. If you don't think the Appropriations Committees have a database of earmarks, you're naive. Of course they do – it's valuable information. Now, about sharing it in anything but an image PDF format… well, let's just say that Keith Ashdown and the folks at [Taxpayers for Common Sense](http://www.taxpayer.net/) probably aren't going away soon.
+
+  3. __Foreign Travel Reports__ (Codels). The House publishes [PDFs and text files](http://clerk.house.gov/public_disc/foreign/index.html) of this data, but they are formatted for reading, not analysis. It would not be hard to change this.
+  
+  4. [Legal Defense Funds](http://clerk.house.gov/public_disc/legal.html). It's utterly ridiculous that while House members now file their campaign reports electronically, legal defense fund reports are still filed on paper. This is a no-brainer.
+
+  5. ~~__Senate Votes in XML__~~. Go ahead, view source on [this page](http://senate.gov/legislative/LIS/roll_call_lists/roll_call_vote_cfm.cfm?congress=111&session=1&vote=00110). See where the HTML comment says "****** vote_111_1_00110.xml … "? They _already_ generate these files; but the public can't have them. They're only for the use of Senators. There's absolutely no reason the Senate cannot join the House in doing this, so why won't they? Update: [they have!](http://www.readwriteweb.com/archives/us_senate_votes_now_available_in_xml_-_bring_on_th.php)
+  
+  6. [Senior Executive Service](http://www.opm.gov/ses/facts_and_figures/index_data_trends.asp). This one is particularly egregious, in that the information on senior-level political appointees in the executive branch previously was made available in database-friendly formats, but now is only available via PDF. So OPM chose to make the information less useful.
+
+  7. __High-Level Diplomatic Visits__. Another "I can't believe it's not a database" entry. The State Department offers a [list of visits by foreign leaders](http://www.state.gov/r/pa/ho/c1792.htm) and lists of [visits by the president and secretary](http://www.state.gov/r/pa/ho/trvl/index.htm).
+  
+  8. __The CIA World Factbook__. Oh, you can [download the PDF](https://www.cia.gov/library/publications/download/), but (and I am not making this up): "the search software resides on our server and cannot be distributed with the World Factbook." Thanks!
+
+That's eight, and I can already think of some more. What's on your list? Actual federal data, please, as opposed to documents that are valuable for their full-text content. I'm sure I'm missing some that should be on here.
