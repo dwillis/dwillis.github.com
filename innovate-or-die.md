@@ -1,3 +1,4 @@
+---
 layout: post
 title: Innovate or Die
 permalink: /thefix/innovate-or-die/

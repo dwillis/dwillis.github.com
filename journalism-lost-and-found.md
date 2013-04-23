@@ -1,3 +1,4 @@
+---
 layout: post
 title: Journalism Lost - and Found
 permalink: /thefix/journalism-lost-and-found/

@@ -1,3 +1,4 @@
+---
 layout: post
 title: Putting It Out There
 permalink: /thefix/putting-it-out-there/

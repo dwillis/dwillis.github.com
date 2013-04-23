@@ -1,3 +1,4 @@
+---
 layout: post
 title: Rivers of Data
 permalink: /thefix/rivers-of-data/
