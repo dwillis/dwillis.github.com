@@ -27,7 +27,7 @@ The unspoken part there is that, if this keeps happening to enough people (and t
 
 ### Anti-Intellectualism's Roots
 
-Part of the problem is that some of these technical areas and concepts are alien to many faculty, and part of it is that it's sometimes hard to attract experts from the profession to full-time academic work. Part of it is that curriculum change is insanely harder than it should be, and that accreditation is so super important -- to other academics, at least. Part of it is the tenure system, which results disproportionate power within departments, power worth fighting to protect. And part of it is also that the academy has done a pretty terrible job of selling whatever _academic_ products it creates, as well as pulling from the best the rest of the university has to offer.
+Part of the problem is that some of these technical areas and concepts are alien to many faculty, and part of it is that it's sometimes hard to attract experts from the profession to full-time academic work. Part of it is that curriculum change is insanely harder than it should be, and that accreditation is so super important -- to other academics, at least. Part of it is the tenure system, which results in disproportionate power within departments, power worth fighting to protect. And part of it is also that the academy has done a pretty terrible job of selling whatever _academic_ products it creates, as well as pulling from the best the rest of the university has to offer.
 
 For this, some blame (but only some) can be apportioned to the audience. As Rosenstiel writes:
 
