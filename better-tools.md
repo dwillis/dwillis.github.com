@@ -4,6 +4,8 @@ title: Better Tools
 permalink: /thefix/better-tools/
 ---
 
+_Tenth in a series of essays humbly titled "Fixing Journalism". First posted on May 19, 2007._
+
 Journalists – Walt Mossberg and most of my fellow CAR geeks aside – aren't known for their early adoption of technology. You see quite a few typewriters in newsrooms, not being used, of course, but as a reminder of simpler times. They're like comfort food for folks who haven't really become adjusted to the changes in our culture and industry. They could also be considered museum pieces, which is what they really are.
 
 Given the tools reporters and editors have had to learn and then ditch a few years later – I'm thinking of [ATEX terminals](http://q.queso.com/archives/001053), "custom" editing and layout systems and the like – it's not a surprise that journalists aren't always eager to use the next best thing. Or even the pretty good thing. But the tools for reporting and analysis have improved so much and become so accessible that we are falling behind in the race for more insightful and original stories. Worse, our competition pool is growing as people equipped with cheaper and more powerful tools compile information that should be in our domain.
