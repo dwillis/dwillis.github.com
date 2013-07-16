@@ -1,0 +1,32 @@
+---
+layout: post
+title: Why Develop in the Newsroom?
+---
+
+Nearly a decade ago, I sat with a group of Python developers around a table at a Vietnamese restaurant in Washington, D.C.'s Cleveland Park neighborhood and told them what it was like to work at a newspaper.
+
+Every day, I said, we go out and collect as much information as we can about possible stories, but only some of that information actually turns into stories and only some of those stories get published. Then we wake up the next day and do it again, largely from scratch!
+
+They were horrified.
+
+News organizations are inefficient, often [far too cavalier](http://thescoop.org/thefix/the-information-gap/) about the raw materials that provide their lifeblood and can seem to lurch from story to story without a whole lot of reason. Many journalists have a bizarre fear of math and computers, and guaranteed a secret ballot, a decent portion might opt for a return to the days of typewriters and afternoon editions.
+
+But all of this hides a beautiful opportunity, an underbelly filled with ever-changing stories and challenges, and a chance to make an impact beyond the web. For some developers, especially those who are engaged with the world beyond Github, newsrooms are quite a natural fit, even if you've never thought about it.
+
+Why? Because we are storytellers. When you've solved some tricky bug in your code, what do you really want to do? Tell someone about it. So you blog, tweet or even walk over to someone else and begin the story: "You won't believe this thing I just had to deal with!"
+
+We're seekers. You find something on the web that's amazing or tragic or wonderful or confounding, and you want to share it: "Hey, you have got to see this." And then you want to find something else.
+
+Newsrooms also attract misfits, in the best possible sense of the word. You'll find people willing to ask questions until they find answers, who want to understand things and try to pry the facts out of sources, whether those sources are other people, documents or data. Finding interesting things and telling people about them is at the very heart of what we do.
+
+Here's where you come in, though: we have too many things to look at, too many places to find information and a variety of audiences to satisfy. We need the help, whether that's in [making it easier for reporters to find the news](http://thescoop.org/thefix/better-tools/) in reams of text or providing a way to [track what keeps readers coming back](http://brianabelson.com/open-news/2013/03/18/A-Metric-For-News-Apps.html). We do quite a bit of our work in the open, as you'll discover once your name is in a byline. Our users react.
+
+If you're interested in social applications, consider that newsrooms have been collecting [birth](http://tdn.com/lifestyles/announcements/births/), [wedding](http://www.nytimes.com/pages/fashion/weddings/index.html) and [death announcements](http://www.detroitnews.com/section/OBITUARIES) for years. They have been piling up information about crime, schools, elections and sports team for decades. Sure, a lot of it that data will be unstructured, or worse. But imagine being able to tell [the story of a landmark](http://projects.latimes.com/hollywood/star-walk/) in a new way, or being able to create the app that [settles all arguments about your favorite sports team](http://projects.latimes.com/lakers/).
+
+And if you're interested in contributing to our shared civic life, where we learn about the issues that define us and our future, there are few better places to be. We are not campaigners in the usual sense, but our mission is a better-informed and active citizenry, and newsrooms have a built-in platform for driving that effort. We do things that are not popular in the conventional sense but are [necessary for a free society](http://projects.nytimes.com/guantanamo) or [shed light on an important issue](http://projects.nytimes.com/toxic-waters). Newsrooms are about [war](http://apps.beta620.nytimes.com/timesmachine/1914/06/29/issue.html) and peace, [laughter](http://apps.npr.org/arrested-development/) and [pain](http://crime.chicagotribune.com/chicago/homicides) and every aspect of our world.
+
+Look, newsrooms have issues to spare. I won't pretend that many of them aren't prone to hesitation and at times resistant to new ideas. They have loads of debt, of the monetary, legacy and technical varieties. Our audience is being replaced while we publish, with few guarantees that today's readers and listeners will be there tomorrow. But newsrooms are also a gateway to a wider world and a broader understanding of who we all are together.
+
+If you have solid web development skills, chances are you're not hurting for employment opportunities. There are plenty of organizations, large and small, established and new, that want to build things for the web, tablets, phones and more. So why come develop in a newsroom? Sure, we need you. But you can be a witness to and a participant in extraordinary events.
+
+Interested? Check out the [Knight-Mozilla fellowships](http://www.mozillaopennews.org/fellowships/), which place talented developers in newsrooms that want and need your help, and consider applying.
