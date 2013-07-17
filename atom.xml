@@ -16,8 +16,8 @@ layout: nil
 
   {% for post in site.posts %}
   <entry>
-    <id>http://thescoop.org/{{ post.id }}</id>
-    <link type="text/html" rel="alternate" href="http://thescoop.org/{{ post.url }}"/>
+    <id>http://thescoop.org{{ post.id }}</id>
+    <link type="text/html" rel="alternate" href="http://thescoop.org{{ post.url }}"/>
     <title>{{ post.title | xml_escape }}</title>
     <updated>{{ post.date | date_to_xmlschema }}</updated>
     <author>
