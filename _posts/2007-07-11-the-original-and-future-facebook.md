@@ -1,0 +1,18 @@
+---
+layout: post
+title: The Original (and Future?) Facebook
+---
+
+So the people who run newspapers are probably looking at Facebook, which is enjoying traffic growth that surely has advertisers lining up to try and get a piece of that action, and saying to themselves, "Why can't we do something like this?" (Warning: irony approaching.)
+
+Many of my kindred spirits, notably [Adrian](http://www.holovaty.com/), have for quite a while now tried to drive home the point that news organizations, especially newspapers, aren't doing enough with the information they collect. There's a portion of Adrian's usual presentation on this stuff where he breaks down the details of a crime - it has a victim, a date, a location, a time, etc. - and then applies the same concept to marriages and obituaries.
+
+The basic lesson is one I've said before, but probably is worth repeating: we collect a ton of information and only think about how it will help shape a smallish blob of text in tomorrow's paper. And then we forget about it and move on.
+
+Now here's the ironic bit. If you think about it, newspaper wedding announcements and obituaries (in particular) are the original social networking application: people volunteer or even pay to have these announcements printed, they hand over personal information that could be quite interesting or relevant in other situations and they really, really like to see those announcements in the paper. They see long-lost friends or former co-workers and it brings back a surge of memories and feelings. Obits are like crack for a certain set of readers, and I dare say I'm not the only one who enjoys perusing the numerous descendants of Mayflower passengers who seem to turn up in the [New York Times Sunday Styles weddings section](http://www.nytimes.com/pages/fashion/weddings/index.html) each week.
+
+You might be thinking, "Ok, but … the bit about data? Where does that come in?" Well, imagine if you could browse weddings and obits like you browse Facebook. Just because you're no longer single or alive doesn't mean you don't retain networks and connections that people find interesting. And this has journalistic implications, too: if the newspaper in a place that hosted, say, a factory that worked with toxic materials databased its obits by cause of death, home address and employer, it might discover some patterns and trends before the public health authorities did. Or if a newspaper databased its wedding announcements it might better understand trends in social life, such as changes in the age when people marry. Most obits and wedding announcements provide employment information, family members and educational backgrounds. All of that could be used to locate people or get inside networks of former employees or school graduates.
+
+Think of it this way: have you ever asked your newsroom colleagues a question like this? "For a story, I need to talk to people who attended Lincoln High School between 1997 and 1999. Can anybody help?" Um, yes, your wedding or engagement announcements probably can. That is, if you let them.
+
+So sure, the bad news is that one of newspapers' social networking apps is for people who are no longer alive. But as any person who has ever written an obit knows, that doesn't make them less important or interesting. Any good paper wants to reflect and understand its community. Why are we throwing away information that would help us with those tasks?
