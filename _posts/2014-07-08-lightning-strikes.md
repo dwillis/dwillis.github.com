@@ -18,16 +18,16 @@ Lightning talks, a popular feature of many a conference, were almost completely 
 
 The first session in Phoenix was in a pretty standard room. There were 10 talks that year, and half of the audience consisted of the presenters. Here's the lineup:
 
-> Google Charts. Easy, Clear, Indestructable. (Ben Welsh)
-> Like Snowboard Cross, but With Data (Scott Klein)
-> The new free visualization tool (Sarah Cohen)
-> Easy peasy due diligence (Danielle Cervantes)
-> Data Manipulation or Graphics with R (Bill Alpert)
-> Essential Queries for SQL Server (Anthony DeBarros)
-> Using an API with Excel (Derek Willis)
-> Easy interactive charts with Open Flash Charts (Tim Henderson)
-> Hello, Newsroom! Build out a GIS-enabled web app in < five minutes (Brian Boyer)
-> The hidden power of Javascript (Michelle Minkoff)
+* Google Charts. Easy, Clear, Indestructable. (Ben Welsh)
+* Like Snowboard Cross, but With Data (Scott Klein)
+* The new free visualization tool (Sarah Cohen)
+* Easy peasy due diligence (Danielle Cervantes)
+* Data Manipulation or Graphics with R (Bill Alpert)
+* Essential Queries for SQL Server (Anthony DeBarros)
+* Using an API with Excel (Derek Willis)
+* Easy interactive charts with Open Flash Charts (Tim Henderson)
+* Hello, Newsroom! Build out a GIS-enabled web app in < five minutes (Brian Boyer)
+* The hidden power of Javascript (Michelle Minkoff)
 
 Picking Ben Welsh to lead off was, in hindsight, a rookie mistake on my part, but the session was pretty well-received, and we all had fun doing it (all 25-30 of us). Fast forward to earlier this year, and here was the crowd for the lightning talks in Baltimore:
 
