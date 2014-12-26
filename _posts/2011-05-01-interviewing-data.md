@@ -1,0 +1,24 @@
+---
+layout: post
+title: Interviewing Data
+---
+
+To my mother's regret, I was never the literature lover she is. And I am not remotely the writer I might have been expected to be, given that my parents both taught English, one at the high school level and the other at college. I also am not the most graceful of interviewers, as my questions tend to run on for too long instead of zeroing in on clear questions.
+
+You might ask, "How is it that you've managed to keep a job in journalism, then?"
+
+There's no single answer to that, although the majority of it would have to be everything I learned from being a member of [Investigative Reporters & Editors](http://www.ire.org/). And of that part, what I've really learned to love and work at is the other kind of interviewing. The one you don't hear much about in journalism school: interviewing data.
+
+To be fair, you really don't hear all that much about the craft of interviewing people at journalism school, either. There is the occasional class, but the way that most people I know get better at it is simply by doing. When people ask me how I can approach complete strangers and ask them detailed and occasionally personal questions, I'm quick to reply that I spent four summers delivering breakfast in bed to newlyweds in the Poconos. When you've had a naked man answer the door at 8 a.m. and tell you to put the trays down next to the tripod-mounted video camera, talking to evenly partially-clothed strangers gets pretty easy.
+
+Interviewing data takes practice, too, although I can't really find a parallel from my days waiting tables. Both kinds of interviewing have much in common: you want to be as prepared as possible so as to better evaluate the results and be able to adapt your questions to the situation. Both require you to place a solid block of skepticism, even suspicion, on your shoulders as you embark. And both, if done well, can result in an unexpected admission – something even the subject of the interview didn't really "know".
+
+This is why I continue to teach spreadsheets in classes, because they make for excellent initial interview tools. Looking at some data in a spreadsheet, you can easily size it up with basic sorting and filtering. That's kind of the "getting-to-know-you" phase of the data interview. What are the ranges of this data? What looks unusual? Just as you get first impressions upon meeting someone, you get similar feelings about data.
+
+With data you have to ask all the basic questions you do with a person, just so you know exactly what you're dealing with. Questions like: "How old are you?", "Where were you born?", "Who do you report to?" work for both people and data (although I suppose "made" is a better word than "born"). And then, once you've got a solid foundation, you ask the trickier questions, the ones that you need to really think about. The ones that, when you're planning a big interview with the subject of your investigation, you game-plan and write out as if they were lines in a soap opera.
+
+And that's where the big difference is: with data, you can ask a lot of potentially embarrassing questions, and the data won't complain, walk out or threaten to sue. You can ask variations of the same question 20 times and the data won't mind. When I say that I prefer interviewing data to people, this is why. Data will only lie to you if it's just bad data or if you misunderstand the question. Unfortunately, almost every data set is "bad" in some way. But once you find that out, you usually can deal with it.
+
+With the increased availability of information in structured forms, the skill of interviewing data is even more valuable now that it has been in the past. And yet it's still considered a niche, a specialty skill. It's odd, because what makes a good interviewer is not whether she uses a digital recorder or a pen. The technology itself is a tool. The crucial factor is the skill in being an interviewer – preparation, knowing what questions to ask and knowing when something isn't right.
+
+You wouldn't stumble into an interview with a source having done no research, no preparation. Why in the world should journalists treat data sources any differently?
