@@ -6,7 +6,7 @@ permalink: /teaching/
 
 I've been teaching data journalism, either in professional and student workshops or at universities, since the late 1990s. Many of these training have been under the auspices of [IRE](http://www.ire.org/), which has some of the best journalism training in the world (you should become a member, especially if you are a student).
 
-But I've also taught or helped teach college-level courses at Washington Adventist University, George Washington University, Northwestern University, American University, Georgetown University and West Virginia University. Teaching is in my blood; my parents are both teachers, and there are few things more important.
+But I've also taught or helped teach college-level courses at Washington Adventist University, George Washington University, Northwestern University, American University, [Georgetown University](http://dwillis.github.io/data-reporting/) and [West Virginia University](http://dwillis.github.io/wv_elections/). Teaching is in my blood; my parents are both teachers, and there are few things that are more important.
 
 Along the way, I've developed some strong feelings about how journalism is taught and learned, and have written about them from time to time. Here is a selection, in reverse chronological order:
 
