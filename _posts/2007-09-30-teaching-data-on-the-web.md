@@ -1,0 +1,16 @@
+---
+layout: post
+title: Teaching Data on the Web
+---
+
+[Matt's advice](http://web.archive.org/web/20080102163940/http://www.mattwaite.com/2007/09/30/advice-for-journalism-students/) (the latest in the series kicked off by Paul Bradshaw) is excellent: "Learn how to put data on the web." But check out the next paragraph, where he suggests some venues for accomplishing the actual learning. Notice anything missing? You know, like the journalism school?
+
+Let me begin by saying that I've been an adjunct instructor at several schools during the past seven years and enjoy it very much. So I do have a small financial interest in this question of how data skills get taught to would-be journalists. But if large private schools like George Washington University, where I currently teach a class, don't have someone on the faculty who can teach this stuff, what are the chances that most journalism students who are even interesting in taking Matt's advice will have the opportunity to do so within a journalism structure? The comic strip Bloom County once had a strip devoted to school teacher pay that ended with the fraction diddly/squat. That's about right in this situation, too.
+
+Of course, Matt's advice can still be acted upon, and probably would have some beneficial side effects for the student (meeting students from other academic disciplines being chief among them). But until and unless journalism schools show that data has any sort of importance to them, most journalism students only will be exposed to the possibilities, but not the actual process, of working with data on the Web.
+
+This is an eminently fixable problem, especially when you consider that less than 10 years ago, the number of new media faculty was pitifully small. Now we've got experienced, talented folks who teach not just the basics of online but the best ways to use digital media in a news context. Which makes it all the more odd that CAR, which has been around for several decades now, has had so few advocates in the academy.
+
+Let's face it; despite my parental background (both English majors and teachers), I'm not going to challenge anyone in a writing contest. And I'm design-impaired to the point where I still think it's cool to draw two-dimensional boxes during boring meetings. So while my journalism classes were usually interesting from an intellectual and academic point of view, they did little to actually prepare me for doing the kind of journalism I like to do. I can't be the only person to experience this. Put another way: it can't be good for journalism education if the best data-oriented journalists owe little or nothing to their journalism classes.
+
+When I went looking for an intern to do mostly technical tasks for us at washingtonpost.com, I didn't even bother with the local journalism departments. I found a computer science major instead. And that works - until the point where compsci majors realize what news organizations pay, or when they discover that either they aren't that interested in journalism, or journalism isn't much interested in them.

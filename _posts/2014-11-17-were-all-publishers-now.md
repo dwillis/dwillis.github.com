@@ -33,7 +33,7 @@ Perhaps you didn't sign up for this. You wanted to be a writer, an editor, a pho
 
 No CMS is perfect. That's why we need to use them, so we can help shape them and use them to put our best journalism in front of our readers and know how they are reading it. Choosing not to use your CMS is choosing not to be a part of that process, and unlike the past, when someone else did the publishing for all of us, it's our responsibility.
 
-Not everyone will become a power user. Not everyone needs to: any piece of software with a reasonably broad set of users will need to accomodate them. But if you never how it works, you'll never be able to make it better for yourself, your organization and ultimately your readers. You can't be a tourist visting your own workflow.
+Not everyone will become a power user. Not everyone needs to: any piece of software with a reasonably broad set of users will need to accomodate them. But if you never know how it works, you'll never be able to make it better for yourself, your organization and ultimately your readers. You can't be a tourist visting your own workflow.
 
 Here's what you can do: start using your CMS if you don't. Then, find out who works on it and tell them what you like and don't like. Chances are they would love to hear this kind of feedback. Ask questions: Why can't I do this? Would it be possible to do this other thing?
 
