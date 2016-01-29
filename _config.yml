@@ -1,3 +1,4 @@
+---
 pygments: true
-permalink: /archives/:categories/:year/:month/:day/:title/
+permalink: "/archives/:categories/:year/:month/:day/:title/"
 markdown: kramdown
