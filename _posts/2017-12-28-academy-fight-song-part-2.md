@@ -7,8 +7,7 @@ It begins, as so many things do these days, with a [tweet](https://twitter.com/j
 
 The tweet references [an academic job listing](https://ejobs.umd.edu/postings/55483) from the University of Maryland, where I have taught journalism as an adjunct, and the eye-rolling reactions of professional journalists to it. Like many job listings in the past few years, it has just the right level of "Computer Jesus" in its minimum (!) qualifications:
 
-```The successful candidate will have a passion for journalism and the watchdog role it should play in a democratic society. Research and teaching topics of interest to both schools include data analytics as applied to journalism and/or social media; fairness, accountability and transparency in algorithms; news automation; audience analytics and engagement, including those illuminating trends in politics, society or sports; data visualization; social networks; and/or digital innovation. The successful candidate will be expected to have a Ph.D. at the time of appointment.
-```
+>The successful candidate will have a passion for journalism and the watchdog role it should play in a democratic society. Research and teaching topics of interest to both schools include data analytics as applied to journalism and/or social media; fairness, accountability and transparency in algorithms; news automation; audience analytics and engagement, including those illuminating trends in politics, society or sports; data visualization; social networks; and/or digital innovation. The successful candidate will be expected to have a Ph.D. at the time of appointment.
 
 Now, let's get something out of the way: there are indeed academics who are qualified for this job, and presumably one of them will be hired to do it. My belief that the population of qualified candidates with *substantial journalism experience* is relatively small may be mistaken; I'd love to see evidence otherwise.
 
@@ -26,12 +25,11 @@ There is no good reason why the study of what used to be called "computer-assist
 
 Here's [what Meyer wrote in 1996 about journalism education](http://web.archive.org/web/20070428083511/http://www.asne.org/kiosk/editor/september/meyer.htm):
 
-```Engineering, medicine, business administration, library science - almost any profession you can name that has research committed professional schools has always generated a continuing demand for new knowledge. Every new graduating class from a school of engineering or medicine is viewed nervously by the practitioners in its field because the kids have knowledge that the old guys don't. Aging engineers wind up in administrative or sales jobs because the technology has changed faster than their ability to keep up.
+> Engineering, medicine, business administration, library science - almost any profession you can name that has  research committed professional schools has always generated a continuing demand for new knowledge. Every new graduating class from a school of engineering or medicine is viewed nervously by the practitioners in its field because the kids have knowledge that the old guys don't. Aging engineers wind up in administrative or sales jobs because the technology has changed faster than their ability to keep up.
 
-The sources of that change have been people with research degrees, many of them in universities.
+> The sources of that change have been people with research degrees, many of them in universities.
 
-Whether you are ready or not, that is happening to us, even on the craft side. New graduates who can create Web pages, digitize photographs and do electronic searching are in demand precisely because they have skills that midcareer professionals haven't had the time or interest to acquire. There is also demand for newly trained database reporters who have analytical and statistical skills never learned by their seniors.
-```
+> Whether you are ready or not, that is happening to us, even on the craft side. New graduates who can create Web pages, digitize photographs and do electronic searching are in demand precisely because they have skills that midcareer professionals haven't had the time or interest to acquire. There is also demand for newly trained database reporters who have analytical and statistical skills never learned by their seniors.
 
 The whole thing is worth a read, and then some reflection. It's not that there aren't scholars who are examining the use of new technologies or the changes that have overrun journalism in the past 20 years. But Meyer also created and critiqued techniques, like [The USA TODAY Diversity Index](http://www.academia.edu/860996/The_USA_Today_index_of_ethnic_diversity) he and Shawn McIntosh, then at the news organization, invented in 1991. His work has been deeply relevant to how we think about journalism but also how we practice it. That's a big reason why professional journalists doing data-related work hold Meyer in such high esteem.
 
@@ -49,8 +47,7 @@ The report offers multiple suggestions for changing this situation -- all of the
 
 It's instructive to look at [Martin's response](https://twitter.com/jmart181/status/943708060643676160) to a question about why a PhD requirement was necessary for that Maryland job:
 
-```Produce research that contributes to development/reputation of dept/college &  field. Research lines such as gig in question are expected to create publications thru rigor, peer review. Universities have standards for research productivity & evaluate faculty across disciplines.
-```
+> Produce research that contributes to development/reputation of dept/college &  field. Research lines such as gig in question are expected to create publications thru rigor, peer review. Universities have standards for research productivity & evaluate faculty across disciplines.
 
 All of these benefit the university, the college/department and the researcher, perhaps in that order. If the research itself has benefits for the industry or teaching, how are those valued? Professionals can rightly look at this situation and think: how does this job benefit the most aspect of journalism education most visible to them - the education of future journalists and the study of their craft? These aren't trolling questions. Professional journalists want to increase the skills of journalism students and the number of them who can do quantitative work. We wouldn't essentially volunteer our time teaching if we didn't.
 
