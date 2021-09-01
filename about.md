@@ -6,7 +6,7 @@ permalink: /about/
 
 ## About The Scoop
 
-This site is owned and operated by me, Derek Willis, and is not affiliated with nor a representation of [my current employer](https://www.propublica.org/) or any past (or future) employers. Since being launched in 1998, The Scoop has largely focused on journalism, computer-assisted reporting and web development and in 2003 I decided to make those the exclusive topics of this site. My personal site is [dwillis.net](http://dwillis.net). None of my sites speak for my employer; they contain my views only.
+This site is owned and operated by me, Derek Willis, and is not affiliated with nor a representation of [my current employer](https://merrill.umd.edu/) or any past (or future) employers. Since being launched in 1998, The Scoop has largely focused on journalism, computer-assisted reporting and web development and in 2003 I decided to make those the exclusive topics of this site. My personal site is [dwillis.net](http://dwillis.net). None of my sites speak for my employer; they contain my views only.
 
 ### What I Work On
 
