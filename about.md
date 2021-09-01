@@ -14,7 +14,7 @@ I teach data journalism at the University of Maryland's [Philip Merrill College 
 
 Most of my work is teaching others to find, acquire and use political and legislative data for journalism. That means [scraping web sites for congressional data](https://github.com/dwillis/statement), building [APIs](https://projects.propublica.org/api-docs/congress-api/) and helping my colleagues build [interactives that explore important issues](https://projects.propublica.org/represent/). Every now and then I get some [writing published](https://www.propublica.org/article/will-nancy-pelosi-open-the-floor-to-bipartisan-ideas), too.
 
-I'm also part of a Knight Foundation-funded project on election results called [OpenElections](http://blog.openelections.net/) and I sometimes teach [reporting with data](http://dwillis.github.io/data-reporting/index.html) to college students. I'm lucky enough to be able to speak at conferences and other venues about journalism, data and elections, or some combination of the three. And I helped build a college football data site and [co-wrote a paper on cricket](https://github.com/outside-edge/toss-up/blob/master/write_up/cricket.pdf).
+I'm also part of a Knight Foundation-funded project on election results called [OpenElections](http://www.openelections.net/). I'm lucky enough to be able to speak at conferences and other venues about journalism, data and elections, or some combination of the three. And I helped build a college football data site and [co-wrote a paper on cricket](https://github.com/outside-edge/toss-up/blob/master/write_up/cricket.pdf).
 
 ### About Me
 
