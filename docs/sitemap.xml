@@ -1,1523 +1,391 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://www.thescoop.org/index.html</loc>
-    <lastmod>2022-12-31T02:59:02.591Z</lastmod>
-  </url>
-  <url>
-    <loc>https://www.thescoop.org/blog/2010-07-31-a-github-for-data.html</loc>
-    <lastmod>2022-12-29T17:04:58.690Z</lastmod>
-  </url>
-  <url>
-    <loc>https://www.thescoop.org/blog/2019-03-09-the-more-important-problem.html</loc>
-    <lastmod>2022-12-29T17:18:31.984Z</lastmod>
-  </url>
-  <url>
-    <loc>https://www.thescoop.org/blog/2013-05-21-what-they-say-about-us.html</loc>
-    <lastmod>2022-12-29T17:05:00.428Z</lastmod>
-  </url>
-  <url>
-    <loc>https://www.thescoop.org/blog/2010-07-12-how-apis-help-the-newsroom.html</loc>
-    <lastmod>2022-12-29T17:05:01.143Z</lastmod>
-  </url>
-  <url>
-    <loc>https://www.thescoop.org/blog/2014-07-08-lightning-strikes.html</loc>
-    <lastmod>2022-12-29T17:05:01.636Z</lastmod>
-  </url>
-  <url>
-    <loc>https://www.thescoop.org/blog/2008-07-22-the-birth-of-quadruplets-or-understanding-the-process.html</loc>
-    <lastmod>2022-12-29T17:05:01.979Z</lastmod>
-  </url>
-  <url>
-    <loc>https://www.thescoop.org/blog/2007-02-04-why-the-web.html</loc>
-    <lastmod>2022-12-29T17:05:02.734Z</lastmod>
-  </url>
-  <url>
-    <loc>https://www.thescoop.org/blog/2007-09-30-teaching-data-on-the-web.html</loc>
-    <lastmod>2022-12-29T17:05:03.122Z</lastmod>
-  </url>
-  <url>
-    <loc>https://www.thescoop.org/blog/2013-06-04-lessons-from-data-crunched-democracy.html</loc>
-    <lastmod>2022-12-29T17:05:04.017Z</lastmod>
-  </url>
-  <url>
-    <loc>https://www.thescoop.org/blog/2012-02-04-on-legislative-data-transparency.html</loc>
-    <lastmod>2022-12-29T17:05:04.500Z</lastmod>
-  </url>
-  <url>
-    <loc>https://www.thescoop.org/blog/2009-11-09-buying-into-computational-journalism.html</loc>
-    <lastmod>2022-12-29T17:05:04.886Z</lastmod>
-  </url>
-  <url>
-    <loc>https://www.thescoop.org/blog/2007-07-11-the-original-and-future-facebook.html</loc>
-    <lastmod>2022-12-29T17:05:05.440Z</lastmod>
-  </url>
-  <url>
-    <loc>https://www.thescoop.org/blog/2012-05-01-our-mark-knoller-problem.html</loc>
-    <lastmod>2022-12-29T17:05:05.809Z</lastmod>
-  </url>
-  <url>
-    <loc>https://www.thescoop.org/blog/2009-10-28-the-fecs-disclosure-data-catalog.html</loc>
-    <lastmod>2022-12-29T17:05:06.194Z</lastmod>
-  </url>
-  <url>
-    <loc>https://www.thescoop.org/blog/2013-04-28-academy-fight-song.html</loc>
-    <lastmod>2022-12-29T17:05:06.784Z</lastmod>
-  </url>
-  <url>
-    <loc>https://www.thescoop.org/blog/2013-10-01-the-natives-arent-restless-enough.html</loc>
-    <lastmod>2022-12-29T17:05:07.308Z</lastmod>
-  </url>
-  <url>
-    <loc>https://www.thescoop.org/blog/2007-09-07-outsourcing-database-development-or-the-caspio-issue.html</loc>
-    <lastmod>2022-12-29T17:05:07.748Z</lastmod>
-  </url>
-  <url>
-    <loc>https://www.thescoop.org/blog/2011-07-27-why-teach-sql.html</loc>
-    <lastmod>2022-12-29T17:05:08.191Z</lastmod>
-  </url>
-  <url>
-    <loc>https://www.thescoop.org/blog/2012-05-13-lost-in-the-weeds.html</loc>
-    <lastmod>2022-12-29T17:05:08.599Z</lastmod>
-  </url>
-  <url>
-    <loc>https://www.thescoop.org/blog/2008-09-23-white-house-beat-feature-request.html</loc>
-    <lastmod>2022-12-29T17:05:08.935Z</lastmod>
-  </url>
-  <url>
-    <loc>https://www.thescoop.org/blog/2008-09-21-the-difference.html</loc>
-    <lastmod>2022-12-29T17:05:09.314Z</lastmod>
-  </url>
-  <url>
-    <loc>https://www.thescoop.org/blog/2008-05-24-on-bomb-throwing.html</loc>
-    <lastmod>2022-12-29T17:05:09.725Z</lastmod>
-  </url>
-  <url>
-    <loc>https://www.thescoop.org/blog/2011-08-10-in-defense-of-building-tools.html</loc>
-    <lastmod>2022-12-29T17:05:10.205Z</lastmod>
-  </url>
-  <url>
-    <loc>https://www.thescoop.org/blog/2007-06-12-finding-enterprise-reporting.html</loc>
-    <lastmod>2022-12-29T17:05:10.560Z</lastmod>
-  </url>
-  <url>
-    <loc>https://www.thescoop.org/blog/2005-05-18-xpdf-on-the-mac.html</loc>
-    <lastmod>2022-12-29T17:05:10.942Z</lastmod>
-  </url>
-  <url>
-    <loc>https://www.thescoop.org/blog/2013-08-22-teaching-hospitals-journalism-education-and-a-hatchet-job.html</loc>
-    <lastmod>2022-12-29T17:05:11.668Z</lastmod>
-  </url>
-  <url>
-    <loc>https://www.thescoop.org/blog/2015-07-29-my-favorite-things.html</loc>
-    <lastmod>2022-12-29T17:05:12.283Z</lastmod>
-  </url>
-  <url>
-    <loc>https://www.thescoop.org/blog/2010-05-11-using-the-nyt-congress-api-with-excel.html</loc>
-    <lastmod>2022-12-29T17:05:12.774Z</lastmod>
-  </url>
-  <url>
-    <loc>https://www.thescoop.org/blog/2002-03-25-the-long-bet.html</loc>
-    <lastmod>2022-12-29T17:05:13.325Z</lastmod>
-  </url>
-  <url>
-    <loc>https://www.thescoop.org/blog/2016-09-29-government-and-civic-tech.html</loc>
-    <lastmod>2022-12-29T17:05:13.783Z</lastmod>
-  </url>
-  <url>
-    <loc>https://www.thescoop.org/blog/2012-08-03-share-your-knowledge.html</loc>
-    <lastmod>2022-12-29T17:05:14.433Z</lastmod>
-  </url>
-  <url>
-    <loc>https://www.thescoop.org/blog/2014-11-17-were-all-publishers-now.html</loc>
-    <lastmod>2022-12-29T17:05:14.826Z</lastmod>
-  </url>
-  <url>
-    <loc>https://www.thescoop.org/blog/index.html</loc>
-    <lastmod>2022-12-29T17:18:39.509Z</lastmod>
-  </url>
-  <url>
-    <loc>https://www.thescoop.org/blog/2011-10-17-what-we-dont-know-about-elections.html</loc>
-    <lastmod>2022-12-29T17:05:15.621Z</lastmod>
-  </url>
-  <url>
-    <loc>https://www.thescoop.org/blog/2009-03-25-no-really-show-us-the-data.html</loc>
-    <lastmod>2022-12-29T17:05:15.956Z</lastmod>
-  </url>
-  <url>
-    <loc>https://www.thescoop.org/blog/2008-12-19-represent-and-geodjango.html</loc>
-    <lastmod>2022-12-29T17:05:16.298Z</lastmod>
-  </url>
-  <url>
-    <loc>https://www.thescoop.org/blog/2007-11-15-of-the-web-vs-on-the-web.html</loc>
-    <lastmod>2022-12-29T17:05:16.624Z</lastmod>
-  </url>
-  <url>
-    <loc>https://www.thescoop.org/blog/2013-10-09-data-journalism-student-media-edition.html</loc>
-    <lastmod>2022-12-29T17:05:16.942Z</lastmod>
-  </url>
-  <url>
-    <loc>https://www.thescoop.org/blog/2012-10-15-congressional-data-github.html</loc>
-    <lastmod>2022-12-29T17:05:17.279Z</lastmod>
-  </url>
-  <url>
-    <loc>https://www.thescoop.org/blog/2007-09-12-on-trials-software-and-otherwise.html</loc>
-    <lastmod>2022-12-29T17:05:17.597Z</lastmod>
-  </url>
-  <url>
-    <loc>https://www.thescoop.org/blog/2009-12-25-the-gift-of-data.html</loc>
-    <lastmod>2022-12-29T17:05:17.916Z</lastmod>
-  </url>
-  <url>
-    <loc>https://www.thescoop.org/blog/2008-06-19-the-future-of-news-libraries.html</loc>
-    <lastmod>2022-12-29T17:05:18.326Z</lastmod>
-  </url>
-  <url>
-    <loc>https://www.thescoop.org/blog/2013-07-02-what-good-is-dat.html</loc>
-    <lastmod>2022-12-29T17:05:18.663Z</lastmod>
-  </url>
-  <url>
-    <loc>https://www.thescoop.org/blog/2009-06-25-the-fundamental-training-need.html</loc>
-    <lastmod>2022-12-29T17:05:18.987Z</lastmod>
-  </url>
-  <url>
-    <loc>https://www.thescoop.org/blog/2013-07-16-why-develop-in-the-newsroom.html</loc>
-    <lastmod>2022-12-29T17:05:19.427Z</lastmod>
-  </url>
-  <url>
-    <loc>https://www.thescoop.org/blog/2009-06-02-the-case-against-teaching-access.html</loc>
-    <lastmod>2022-12-29T17:05:19.755Z</lastmod>
-  </url>
-  <url>
-    <loc>https://www.thescoop.org/blog/2010-09-11-how-far-weve-come.html</loc>
-    <lastmod>2022-12-29T17:05:20.097Z</lastmod>
-  </url>
-  <url>
-    <loc>https://www.thescoop.org/blog/2011-05-01-interviewing-data.html</loc>
-    <lastmod>2022-12-29T17:05:20.444Z</lastmod>
-  </url>
-  <url>
-    <loc>https://www.thescoop.org/blog/2010-09-14-hard-problems.html</loc>
-    <lastmod>2022-12-29T17:05:20.766Z</lastmod>
-  </url>
-  <url>
-    <loc>https://www.thescoop.org/blog/2012-12-26-the-data-driven-congressional-reporter.html</loc>
-    <lastmod>2022-12-29T17:05:21.116Z</lastmod>
-  </url>
-  <url>
-    <loc>https://www.thescoop.org/blog/2009-07-24-one-way-to-encourage-innovation.html</loc>
-    <lastmod>2022-12-29T17:05:21.445Z</lastmod>
-  </url>
-  <url>
-    <loc>https://www.thescoop.org/blog/2009-11-21-a-question-of-emphasis.html</loc>
-    <lastmod>2022-12-29T17:05:21.830Z</lastmod>
-  </url>
-  <url>
-    <loc>https://www.thescoop.org/blog/2010-02-18-lightning-talks-at-nicar.html</loc>
-    <lastmod>2022-12-29T17:05:22.235Z</lastmod>
-  </url>
-  <url>
-    <loc>https://www.thescoop.org/blog/2005-12-05-congressional-vote-database.html</loc>
-    <lastmod>2022-12-29T17:05:22.644Z</lastmod>
-  </url>
-  <url>
-    <loc>https://www.thescoop.org/blog/2007-07-31-django-ical-vobject.html</loc>
-    <lastmod>2022-12-29T17:05:23.012Z</lastmod>
-  </url>
-  <url>
-    <loc>https://www.thescoop.org/blog/2007-06-14-the-new-competition.html</loc>
-    <lastmod>2022-12-29T17:05:23.364Z</lastmod>
-  </url>
-  <url>
-    <loc>https://www.thescoop.org/blog/2013-04-24-the-itemizer.html</loc>
-    <lastmod>2022-12-29T17:05:23.730Z</lastmod>
-  </url>
-  <url>
-    <loc>https://www.thescoop.org/blog/2008-06-29-caspios-lessons.html</loc>
-    <lastmod>2022-12-29T17:05:24.114Z</lastmod>
-  </url>
-  <url>
-    <loc>https://www.thescoop.org/blog/2007-05-29-shoot-the-google.html</loc>
-    <lastmod>2022-12-29T17:05:24.538Z</lastmod>
-  </url>
-  <url>
-    <loc>https://www.thescoop.org/blog/2009-11-29-the-future-of-ire-training.html</loc>
-    <lastmod>2022-12-29T17:05:24.857Z</lastmod>
-  </url>
-  <url>
-    <loc>https://www.thescoop.org/blog/2013-03-02-mobile-apps-where-the-data-lives.html</loc>
-    <lastmod>2022-12-29T17:05:25.218Z</lastmod>
-  </url>
-  <url>
-    <loc>https://www.thescoop.org/blog/2019-02-24-making-the-best-nicar-listserv.html</loc>
-    <lastmod>2022-12-29T17:05:25.574Z</lastmod>
-  </url>
-  <url>
-    <loc>https://www.thescoop.org/blog/2011-03-06-what-apis-mean-for-data-journalists.html</loc>
-    <lastmod>2022-12-29T17:05:25.920Z</lastmod>
-  </url>
-  <url>
-    <loc>https://www.thescoop.org/blog/2015-06-06-civic-data-and-journalism.html</loc>
-    <lastmod>2022-12-29T17:05:26.362Z</lastmod>
-  </url>
-  <url>
-    <loc>https://www.thescoop.org/blog/2010-02-23-a-gentle-introduction-to-google-app-engine.html</loc>
-    <lastmod>2022-12-29T17:05:26.705Z</lastmod>
-  </url>
-  <url>
-    <loc>https://www.thescoop.org/blog/2010-12-07-why-students-should-come-to-the-car-conference.html</loc>
-    <lastmod>2022-12-29T17:05:27.106Z</lastmod>
-  </url>
-  <url>
-    <loc>https://www.thescoop.org/blog/2007-11-06-innovation-belongs-in-the-newsroom.html</loc>
-    <lastmod>2022-12-29T17:05:27.617Z</lastmod>
-  </url>
-  <url>
-    <loc>https://www.thescoop.org/blog/2012-05-28-finding-new-money.html</loc>
-    <lastmod>2022-12-29T17:05:27.951Z</lastmod>
-  </url>
-  <url>
-    <loc>https://www.thescoop.org/blog/2017-12-28-academy-fight-song-part-2.html</loc>
-    <lastmod>2022-12-29T17:05:28.544Z</lastmod>
-  </url>
-  <url>
-    <loc>https://www.thescoop.org/blog/2014-05-22-how-it-starts.html</loc>
-    <lastmod>2022-12-29T17:05:28.910Z</lastmod>
-  </url>
-  <url>
-    <loc>https://www.thescoop.org/blog/2007-10-16-the-times.html</loc>
-    <lastmod>2022-12-29T17:05:29.313Z</lastmod>
-  </url>
-  <url>
-    <loc>https://www.thescoop.org/about.html</loc>
-    <lastmod>2022-12-29T17:05:29.731Z</lastmod>
-  </url>
-  <url>
-    <loc>https://www.thescoop.org/teaching/index.html</loc>
-    <lastmod>2022-12-30T23:09:51.575Z</lastmod>
-  </url>
-  <url>
-    <loc>https://www.thescoop.org/help/index.html</loc>
-    <lastmod>2022-12-29T17:39:29.111Z</lastmod>
-  </url>
-  <url>
-    <loc>https://www.thescoop.org/blog.html</loc>
-    <lastmod>2022-12-31T02:58:23.947Z</lastmod>
-  </url>
-  <url>
-    <loc>https://www.thescoop.org/posts/2010-07-31-a-github-for-data.html</loc>
-    <lastmod>2022-12-29T17:24:08.349Z</lastmod>
-  </url>
-  <url>
-    <loc>https://www.thescoop.org/posts/2013-05-21-what-they-say-about-us.html</loc>
-    <lastmod>2022-12-29T17:24:09.040Z</lastmod>
-  </url>
-  <url>
-    <loc>https://www.thescoop.org/posts/2010-07-12-how-apis-help-the-newsroom.html</loc>
-    <lastmod>2022-12-29T17:24:09.431Z</lastmod>
-  </url>
-  <url>
-    <loc>https://www.thescoop.org/posts/2014-07-08-lightning-strikes.html</loc>
-    <lastmod>2022-12-29T17:24:09.901Z</lastmod>
-  </url>
-  <url>
-    <loc>https://www.thescoop.org/posts/2008-07-22-the-birth-of-quadruplets-or-understanding-the-process.html</loc>
-    <lastmod>2022-12-29T17:24:10.238Z</lastmod>
-  </url>
-  <url>
-    <loc>https://www.thescoop.org/posts/2007-02-04-why-the-web.html</loc>
-    <lastmod>2022-12-29T17:24:10.705Z</lastmod>
-  </url>
-  <url>
-    <loc>https://www.thescoop.org/posts/2007-09-30-teaching-data-on-the-web.html</loc>
-    <lastmod>2022-12-29T17:24:11.056Z</lastmod>
-  </url>
-  <url>
-    <loc>https://www.thescoop.org/posts/2013-06-04-lessons-from-data-crunched-democracy.html</loc>
-    <lastmod>2022-12-29T17:24:11.531Z</lastmod>
-  </url>
-  <url>
-    <loc>https://www.thescoop.org/posts/2012-02-04-on-legislative-data-transparency.html</loc>
-    <lastmod>2022-12-29T17:24:11.916Z</lastmod>
-  </url>
-  <url>
-    <loc>https://www.thescoop.org/posts/2009-11-09-buying-into-computational-journalism.html</loc>
-    <lastmod>2022-12-29T17:24:12.259Z</lastmod>
-  </url>
-  <url>
-    <loc>https://www.thescoop.org/posts/2007-07-11-the-original-and-future-facebook.html</loc>
-    <lastmod>2022-12-29T17:24:12.603Z</lastmod>
-  </url>
-  <url>
-    <loc>https://www.thescoop.org/posts/2012-05-01-our-mark-knoller-problem.html</loc>
-    <lastmod>2022-12-29T17:24:12.948Z</lastmod>
-  </url>
-  <url>
-    <loc>https://www.thescoop.org/posts/2009-10-28-the-fecs-disclosure-data-catalog.html</loc>
-    <lastmod>2022-12-29T17:24:13.344Z</lastmod>
-  </url>
-  <url>
-    <loc>https://www.thescoop.org/posts/2013-04-28-academy-fight-song.html</loc>
-    <lastmod>2022-12-29T17:24:13.859Z</lastmod>
-  </url>
-  <url>
-    <loc>https://www.thescoop.org/posts/2013-10-01-the-natives-arent-restless-enough.html</loc>
-    <lastmod>2022-12-29T17:24:14.293Z</lastmod>
-  </url>
-  <url>
-    <loc>https://www.thescoop.org/posts/2007-09-07-outsourcing-database-development-or-the-caspio-issue.html</loc>
-    <lastmod>2022-12-29T17:24:14.664Z</lastmod>
-  </url>
-  <url>
-    <loc>https://www.thescoop.org/posts/2011-07-27-why-teach-sql.html</loc>
-    <lastmod>2022-12-29T17:24:14.966Z</lastmod>
-  </url>
-  <url>
-    <loc>https://www.thescoop.org/posts/2012-05-13-lost-in-the-weeds.html</loc>
-    <lastmod>2022-12-29T17:24:15.335Z</lastmod>
-  </url>
-  <url>
-    <loc>https://www.thescoop.org/posts/2008-09-23-white-house-beat-feature-request.html</loc>
-    <lastmod>2022-12-29T17:24:15.691Z</lastmod>
-  </url>
-  <url>
-    <loc>https://www.thescoop.org/posts/2008-09-21-the-difference.html</loc>
-    <lastmod>2022-12-29T17:24:16.008Z</lastmod>
-  </url>
-  <url>
-    <loc>https://www.thescoop.org/posts/2008-05-24-on-bomb-throwing.html</loc>
-    <lastmod>2022-12-29T17:24:16.385Z</lastmod>
-  </url>
-  <url>
-    <loc>https://www.thescoop.org/posts/2011-08-10-in-defense-of-building-tools.html</loc>
-    <lastmod>2022-12-29T17:24:16.863Z</lastmod>
-  </url>
-  <url>
-    <loc>https://www.thescoop.org/posts/2007-06-12-finding-enterprise-reporting.html</loc>
-    <lastmod>2022-12-29T17:24:17.209Z</lastmod>
-  </url>
-  <url>
-    <loc>https://www.thescoop.org/posts/2005-05-18-xpdf-on-the-mac.html</loc>
-    <lastmod>2022-12-29T17:24:17.563Z</lastmod>
-  </url>
-  <url>
-    <loc>https://www.thescoop.org/posts/2013-08-22-teaching-hospitals-journalism-education-and-a-hatchet-job.html</loc>
-    <lastmod>2022-12-29T17:24:17.951Z</lastmod>
-  </url>
-  <url>
-    <loc>https://www.thescoop.org/posts/2015-07-29-my-favorite-things.html</loc>
-    <lastmod>2022-12-29T17:24:18.309Z</lastmod>
-  </url>
-  <url>
-    <loc>https://www.thescoop.org/posts/2010-05-11-using-the-nyt-congress-api-with-excel.html</loc>
-    <lastmod>2022-12-29T17:24:18.705Z</lastmod>
-  </url>
-  <url>
-    <loc>https://www.thescoop.org/posts/2002-03-25-the-long-bet.html</loc>
-    <lastmod>2022-12-29T17:24:19.056Z</lastmod>
-  </url>
-  <url>
-    <loc>https://www.thescoop.org/posts/2016-09-29-government-and-civic-tech.html</loc>
-    <lastmod>2022-12-29T17:24:19.524Z</lastmod>
-  </url>
-  <url>
-    <loc>https://www.thescoop.org/posts/2012-08-03-share-your-knowledge.html</loc>
-    <lastmod>2022-12-29T17:24:19.839Z</lastmod>
-  </url>
-  <url>
-    <loc>https://www.thescoop.org/posts/2014-11-17-were-all-publishers-now.html</loc>
-    <lastmod>2022-12-29T17:24:20.187Z</lastmod>
-  </url>
-  <url>
-    <loc>https://www.thescoop.org/posts/2011-10-17-what-we-dont-know-about-elections.html</loc>
-    <lastmod>2022-12-29T17:24:20.603Z</lastmod>
-  </url>
-  <url>
-    <loc>https://www.thescoop.org/posts/2009-03-25-no-really-show-us-the-data.html</loc>
-    <lastmod>2022-12-29T17:24:20.928Z</lastmod>
-  </url>
-  <url>
-    <loc>https://www.thescoop.org/posts/2008-12-19-represent-and-geodjango.html</loc>
-    <lastmod>2022-12-29T17:24:21.252Z</lastmod>
-  </url>
-  <url>
-    <loc>https://www.thescoop.org/posts/2007-11-15-of-the-web-vs-on-the-web.html</loc>
-    <lastmod>2022-12-29T17:24:21.667Z</lastmod>
-  </url>
-  <url>
-    <loc>https://www.thescoop.org/posts/2013-10-09-data-journalism-student-media-edition.html</loc>
-    <lastmod>2022-12-29T17:24:21.997Z</lastmod>
-  </url>
-  <url>
-    <loc>https://www.thescoop.org/posts/2012-10-15-congressional-data-github.html</loc>
-    <lastmod>2022-12-29T17:24:22.334Z</lastmod>
-  </url>
-  <url>
-    <loc>https://www.thescoop.org/posts/2007-09-12-on-trials-software-and-otherwise.html</loc>
-    <lastmod>2022-12-29T17:24:22.698Z</lastmod>
-  </url>
-  <url>
-    <loc>https://www.thescoop.org/posts/2009-12-25-the-gift-of-data.html</loc>
-    <lastmod>2022-12-29T17:24:23.030Z</lastmod>
-  </url>
-  <url>
-    <loc>https://www.thescoop.org/posts/2008-06-19-the-future-of-news-libraries.html</loc>
-    <lastmod>2022-12-29T17:24:23.416Z</lastmod>
-  </url>
-  <url>
-    <loc>https://www.thescoop.org/posts/2013-07-02-what-good-is-dat.html</loc>
-    <lastmod>2022-12-29T17:24:23.730Z</lastmod>
-  </url>
-  <url>
-    <loc>https://www.thescoop.org/posts/2009-06-25-the-fundamental-training-need.html</loc>
-    <lastmod>2022-12-29T17:24:24.043Z</lastmod>
-  </url>
-  <url>
-    <loc>https://www.thescoop.org/posts/2013-07-16-why-develop-in-the-newsroom.html</loc>
-    <lastmod>2022-12-29T17:24:24.422Z</lastmod>
-  </url>
-  <url>
-    <loc>https://www.thescoop.org/posts/2009-06-02-the-case-against-teaching-access.html</loc>
-    <lastmod>2022-12-29T17:24:24.751Z</lastmod>
-  </url>
-  <url>
-    <loc>https://www.thescoop.org/posts/2010-09-11-how-far-weve-come.html</loc>
-    <lastmod>2022-12-29T17:24:25.084Z</lastmod>
-  </url>
-  <url>
-    <loc>https://www.thescoop.org/posts/2011-05-01-interviewing-data.html</loc>
-    <lastmod>2022-12-29T17:24:25.454Z</lastmod>
-  </url>
-  <url>
-    <loc>https://www.thescoop.org/posts/2010-09-14-hard-problems.html</loc>
-    <lastmod>2022-12-29T17:24:25.799Z</lastmod>
-  </url>
-  <url>
-    <loc>https://www.thescoop.org/posts/2012-12-26-the-data-driven-congressional-reporter.html</loc>
-    <lastmod>2022-12-29T17:24:26.138Z</lastmod>
-  </url>
-  <url>
-    <loc>https://www.thescoop.org/posts/2009-07-24-one-way-to-encourage-innovation.html</loc>
-    <lastmod>2022-12-29T17:24:26.581Z</lastmod>
-  </url>
-  <url>
-    <loc>https://www.thescoop.org/posts/2009-11-21-a-question-of-emphasis.html</loc>
-    <lastmod>2022-12-29T17:24:26.924Z</lastmod>
-  </url>
-  <url>
-    <loc>https://www.thescoop.org/posts/2010-02-18-lightning-talks-at-nicar.html</loc>
-    <lastmod>2022-12-29T17:24:27.263Z</lastmod>
-  </url>
-  <url>
-    <loc>https://www.thescoop.org/posts/2005-12-05-congressional-vote-database.html</loc>
-    <lastmod>2022-12-29T17:24:27.580Z</lastmod>
-  </url>
-  <url>
-    <loc>https://www.thescoop.org/posts/2007-07-31-django-ical-vobject.html</loc>
-    <lastmod>2022-12-29T17:24:27.884Z</lastmod>
-  </url>
-  <url>
-    <loc>https://www.thescoop.org/posts/2019-03-09-the-more-important-problem/index.html</loc>
-    <lastmod>2022-12-31T02:05:43.984Z</lastmod>
-  </url>
-  <url>
-    <loc>https://www.thescoop.org/posts/2007-06-14-the-new-competition.html</loc>
-    <lastmod>2022-12-29T17:24:29.872Z</lastmod>
-  </url>
-  <url>
-    <loc>https://www.thescoop.org/posts/2013-04-24-the-itemizer.html</loc>
-    <lastmod>2022-12-29T17:24:30.204Z</lastmod>
-  </url>
-  <url>
-    <loc>https://www.thescoop.org/posts/2008-06-29-caspios-lessons.html</loc>
-    <lastmod>2022-12-29T17:24:30.569Z</lastmod>
-  </url>
-  <url>
-    <loc>https://www.thescoop.org/posts/2007-05-29-shoot-the-google.html</loc>
-    <lastmod>2022-12-29T17:24:30.898Z</lastmod>
-  </url>
-  <url>
-    <loc>https://www.thescoop.org/posts/2009-11-29-the-future-of-ire-training.html</loc>
-    <lastmod>2022-12-29T17:24:31.345Z</lastmod>
-  </url>
-  <url>
-    <loc>https://www.thescoop.org/posts/2013-03-02-mobile-apps-where-the-data-lives.html</loc>
-    <lastmod>2022-12-29T17:24:32.033Z</lastmod>
-  </url>
-  <url>
-    <loc>https://www.thescoop.org/posts/2019-02-24-making-the-best-nicar-listserv.html</loc>
-    <lastmod>2022-12-29T17:24:32.444Z</lastmod>
-  </url>
-  <url>
-    <loc>https://www.thescoop.org/posts/2011-03-06-what-apis-mean-for-data-journalists.html</loc>
-    <lastmod>2022-12-29T17:24:32.863Z</lastmod>
-  </url>
-  <url>
-    <loc>https://www.thescoop.org/posts/2015-06-06-civic-data-and-journalism.html</loc>
-    <lastmod>2022-12-29T17:24:33.322Z</lastmod>
-  </url>
-  <url>
-    <loc>https://www.thescoop.org/posts/2010-02-23-a-gentle-introduction-to-google-app-engine.html</loc>
-    <lastmod>2022-12-29T17:24:33.806Z</lastmod>
-  </url>
-  <url>
-    <loc>https://www.thescoop.org/posts/2010-12-07-why-students-should-come-to-the-car-conference.html</loc>
-    <lastmod>2022-12-29T17:24:34.241Z</lastmod>
-  </url>
-  <url>
-    <loc>https://www.thescoop.org/posts/2007-11-06-innovation-belongs-in-the-newsroom.html</loc>
-    <lastmod>2022-12-29T17:24:34.746Z</lastmod>
-  </url>
-  <url>
-    <loc>https://www.thescoop.org/posts/2012-05-28-finding-new-money.html</loc>
-    <lastmod>2022-12-29T17:24:35.152Z</lastmod>
-  </url>
-  <url>
-    <loc>https://www.thescoop.org/posts/2017-12-28-academy-fight-song-part-2.html</loc>
-    <lastmod>2022-12-29T17:24:35.785Z</lastmod>
-  </url>
-  <url>
-    <loc>https://www.thescoop.org/posts/2014-05-22-how-it-starts.html</loc>
-    <lastmod>2022-12-29T17:24:36.176Z</lastmod>
-  </url>
-  <url>
-    <loc>https://www.thescoop.org/posts/2007-10-16-the-times.html</loc>
-    <lastmod>2022-12-29T17:24:36.702Z</lastmod>
-  </url>
-  <url>
-    <loc>https://www.thescoop.org/about/index.html</loc>
-    <lastmod>2022-12-30T22:28:05.300Z</lastmod>
-  </url>
-  <url>
-    <loc>https://www.thescoop.org/posts/2019-03-09-the-more-important-problem.html</loc>
-    <lastmod>2022-12-29T17:28:32.143Z</lastmod>
-  </url>
-  <url>
-    <loc>https://www.thescoop.org/posts/2015-06-06-civic-data-and-journalism/index.html</loc>
-    <lastmod>2022-12-29T17:37:57.990Z</lastmod>
-  </url>
-  <url>
-    <loc>https://www.thescoop.org/posts/2014-07-08-lightning-strikes/index.html</loc>
-    <lastmod>2022-12-29T17:37:59.125Z</lastmod>
-  </url>
-  <url>
-    <loc>https://www.thescoop.org/posts/2016-09-29-government-and-civic-tech/index.html</loc>
-    <lastmod>2022-12-29T17:38:00.162Z</lastmod>
-  </url>
-  <url>
-    <loc>https://www.thescoop.org/posts/2019-02-24-making-the-best-nicar-listserv/index.html</loc>
-    <lastmod>2022-12-29T17:38:01.250Z</lastmod>
-  </url>
-  <url>
-    <loc>https://www.thescoop.org/posts/2017-12-28-academy-fight-song-part-2/index.html</loc>
-    <lastmod>2022-12-29T17:38:02.797Z</lastmod>
-  </url>
-  <url>
-    <loc>https://www.thescoop.org/posts/2014-11-17-were-all-publishers-now/index.html</loc>
-    <lastmod>2022-12-29T17:38:03.812Z</lastmod>
-  </url>
-  <url>
-    <loc>https://www.thescoop.org/posts/2015-07-29-my-favorite-things/index.html</loc>
-    <lastmod>2022-12-29T17:38:04.863Z</lastmod>
-  </url>
-  <url>
-    <loc>https://www.thescoop.org/posts/2014-05-22-how-it-starts/index.html</loc>
-    <lastmod>2022-12-29T17:38:05.847Z</lastmod>
-  </url>
-  <url>
-    <loc>https://www.thescoop.org/posts_to_process/2010-07-31-a-github-for-data.html</loc>
-    <lastmod>2022-12-29T17:38:06.165Z</lastmod>
-  </url>
-  <url>
-    <loc>https://www.thescoop.org/posts_to_process/2013-05-21-what-they-say-about-us.html</loc>
-    <lastmod>2022-12-29T17:38:06.491Z</lastmod>
-  </url>
-  <url>
-    <loc>https://www.thescoop.org/posts_to_process/2010-07-12-how-apis-help-the-newsroom.html</loc>
-    <lastmod>2022-12-29T17:38:06.806Z</lastmod>
-  </url>
-  <url>
-    <loc>https://www.thescoop.org/posts_to_process/2008-07-22-the-birth-of-quadruplets-or-understanding-the-process.html</loc>
-    <lastmod>2022-12-29T17:38:07.139Z</lastmod>
-  </url>
-  <url>
-    <loc>https://www.thescoop.org/posts_to_process/2007-02-04-why-the-web.html</loc>
-    <lastmod>2022-12-29T17:38:07.477Z</lastmod>
-  </url>
-  <url>
-    <loc>https://www.thescoop.org/posts_to_process/2007-09-30-teaching-data-on-the-web.html</loc>
-    <lastmod>2022-12-29T17:38:07.794Z</lastmod>
-  </url>
-  <url>
-    <loc>https://www.thescoop.org/posts_to_process/2013-06-04-lessons-from-data-crunched-democracy.html</loc>
-    <lastmod>2022-12-29T17:38:08.226Z</lastmod>
-  </url>
-  <url>
-    <loc>https://www.thescoop.org/posts_to_process/2012-02-04-on-legislative-data-transparency.html</loc>
-    <lastmod>2022-12-29T17:38:08.586Z</lastmod>
-  </url>
-  <url>
-    <loc>https://www.thescoop.org/posts_to_process/2009-11-09-buying-into-computational-journalism.html</loc>
-    <lastmod>2022-12-29T17:38:08.915Z</lastmod>
-  </url>
-  <url>
-    <loc>https://www.thescoop.org/posts_to_process/2007-07-11-the-original-and-future-facebook.html</loc>
-    <lastmod>2022-12-29T17:38:09.272Z</lastmod>
-  </url>
-  <url>
-    <loc>https://www.thescoop.org/posts_to_process/2012-05-01-our-mark-knoller-problem.html</loc>
-    <lastmod>2022-12-29T17:38:09.595Z</lastmod>
-  </url>
-  <url>
-    <loc>https://www.thescoop.org/posts_to_process/2009-10-28-the-fecs-disclosure-data-catalog.html</loc>
-    <lastmod>2022-12-29T17:38:09.912Z</lastmod>
-  </url>
-  <url>
-    <loc>https://www.thescoop.org/posts_to_process/2013-04-28-academy-fight-song.html</loc>
-    <lastmod>2022-12-29T17:38:10.391Z</lastmod>
-  </url>
-  <url>
-    <loc>https://www.thescoop.org/posts_to_process/2013-10-01-the-natives-arent-restless-enough.html</loc>
-    <lastmod>2022-12-29T17:38:10.788Z</lastmod>
-  </url>
-  <url>
-    <loc>https://www.thescoop.org/posts_to_process/2007-09-07-outsourcing-database-development-or-the-caspio-issue.html</loc>
-    <lastmod>2022-12-29T17:38:11.144Z</lastmod>
-  </url>
-  <url>
-    <loc>https://www.thescoop.org/posts_to_process/2011-07-27-why-teach-sql.html</loc>
-    <lastmod>2022-12-29T17:38:11.486Z</lastmod>
-  </url>
-  <url>
-    <loc>https://www.thescoop.org/posts_to_process/2012-05-13-lost-in-the-weeds.html</loc>
-    <lastmod>2022-12-29T17:38:11.843Z</lastmod>
-  </url>
-  <url>
-    <loc>https://www.thescoop.org/posts_to_process/2008-09-23-white-house-beat-feature-request.html</loc>
-    <lastmod>2022-12-29T17:38:12.129Z</lastmod>
-  </url>
-  <url>
-    <loc>https://www.thescoop.org/posts_to_process/2008-09-21-the-difference.html</loc>
-    <lastmod>2022-12-29T17:38:12.459Z</lastmod>
-  </url>
-  <url>
-    <loc>https://www.thescoop.org/posts_to_process/2008-05-24-on-bomb-throwing.html</loc>
-    <lastmod>2022-12-29T17:38:12.808Z</lastmod>
-  </url>
-  <url>
-    <loc>https://www.thescoop.org/posts_to_process/2011-08-10-in-defense-of-building-tools.html</loc>
-    <lastmod>2022-12-29T17:38:13.171Z</lastmod>
-  </url>
-  <url>
-    <loc>https://www.thescoop.org/posts_to_process/2007-06-12-finding-enterprise-reporting.html</loc>
-    <lastmod>2022-12-29T17:38:13.511Z</lastmod>
-  </url>
-  <url>
-    <loc>https://www.thescoop.org/posts_to_process/2005-05-18-xpdf-on-the-mac.html</loc>
-    <lastmod>2022-12-29T17:38:13.878Z</lastmod>
-  </url>
-  <url>
-    <loc>https://www.thescoop.org/posts_to_process/2013-08-22-teaching-hospitals-journalism-education-and-a-hatchet-job.html</loc>
-    <lastmod>2022-12-29T17:38:14.399Z</lastmod>
-  </url>
-  <url>
-    <loc>https://www.thescoop.org/posts_to_process/2010-05-11-using-the-nyt-congress-api-with-excel.html</loc>
-    <lastmod>2022-12-29T17:38:14.800Z</lastmod>
-  </url>
-  <url>
-    <loc>https://www.thescoop.org/posts_to_process/2002-03-25-the-long-bet.html</loc>
-    <lastmod>2022-12-29T17:38:15.182Z</lastmod>
-  </url>
-  <url>
-    <loc>https://www.thescoop.org/posts_to_process/2012-08-03-share-your-knowledge.html</loc>
-    <lastmod>2022-12-29T17:38:15.550Z</lastmod>
-  </url>
-  <url>
-    <loc>https://www.thescoop.org/posts_to_process/2011-10-17-what-we-dont-know-about-elections.html</loc>
-    <lastmod>2022-12-29T17:38:15.971Z</lastmod>
-  </url>
-  <url>
-    <loc>https://www.thescoop.org/posts_to_process/2009-03-25-no-really-show-us-the-data.html</loc>
-    <lastmod>2022-12-29T17:38:16.394Z</lastmod>
-  </url>
-  <url>
-    <loc>https://www.thescoop.org/posts_to_process/2008-12-19-represent-and-geodjango.html</loc>
-    <lastmod>2022-12-29T17:38:16.763Z</lastmod>
-  </url>
-  <url>
-    <loc>https://www.thescoop.org/posts_to_process/2007-11-15-of-the-web-vs-on-the-web.html</loc>
-    <lastmod>2022-12-29T17:38:17.163Z</lastmod>
-  </url>
-  <url>
-    <loc>https://www.thescoop.org/posts_to_process/2013-10-09-data-journalism-student-media-edition.html</loc>
-    <lastmod>2022-12-29T17:38:17.543Z</lastmod>
-  </url>
-  <url>
-    <loc>https://www.thescoop.org/posts_to_process/2012-10-15-congressional-data-github.html</loc>
-    <lastmod>2022-12-29T17:38:17.906Z</lastmod>
-  </url>
-  <url>
-    <loc>https://www.thescoop.org/posts_to_process/2007-09-12-on-trials-software-and-otherwise.html</loc>
-    <lastmod>2022-12-29T17:38:18.289Z</lastmod>
-  </url>
-  <url>
-    <loc>https://www.thescoop.org/posts_to_process/2009-12-25-the-gift-of-data.html</loc>
-    <lastmod>2022-12-29T17:38:18.637Z</lastmod>
-  </url>
-  <url>
-    <loc>https://www.thescoop.org/posts_to_process/2008-06-19-the-future-of-news-libraries.html</loc>
-    <lastmod>2022-12-29T17:38:19.115Z</lastmod>
-  </url>
-  <url>
-    <loc>https://www.thescoop.org/posts_to_process/2013-07-02-what-good-is-dat.html</loc>
-    <lastmod>2022-12-29T17:38:19.495Z</lastmod>
-  </url>
-  <url>
-    <loc>https://www.thescoop.org/posts_to_process/2009-06-25-the-fundamental-training-need.html</loc>
-    <lastmod>2022-12-29T17:38:19.822Z</lastmod>
-  </url>
-  <url>
-    <loc>https://www.thescoop.org/posts_to_process/2013-07-16-why-develop-in-the-newsroom.html</loc>
-    <lastmod>2022-12-29T17:38:20.192Z</lastmod>
-  </url>
-  <url>
-    <loc>https://www.thescoop.org/posts_to_process/2009-06-02-the-case-against-teaching-access.html</loc>
-    <lastmod>2022-12-29T17:38:20.672Z</lastmod>
-  </url>
-  <url>
-    <loc>https://www.thescoop.org/posts_to_process/2010-09-11-how-far-weve-come.html</loc>
-    <lastmod>2022-12-29T17:38:20.989Z</lastmod>
-  </url>
-  <url>
-    <loc>https://www.thescoop.org/posts_to_process/2011-05-01-interviewing-data.html</loc>
-    <lastmod>2022-12-29T17:38:21.367Z</lastmod>
-  </url>
-  <url>
-    <loc>https://www.thescoop.org/posts_to_process/2010-09-14-hard-problems.html</loc>
-    <lastmod>2022-12-29T17:38:21.700Z</lastmod>
-  </url>
-  <url>
-    <loc>https://www.thescoop.org/posts_to_process/2012-12-26-the-data-driven-congressional-reporter.html</loc>
-    <lastmod>2022-12-29T17:38:22.027Z</lastmod>
-  </url>
-  <url>
-    <loc>https://www.thescoop.org/posts_to_process/2009-07-24-one-way-to-encourage-innovation.html</loc>
-    <lastmod>2022-12-29T17:38:22.342Z</lastmod>
-  </url>
-  <url>
-    <loc>https://www.thescoop.org/posts_to_process/2009-11-21-a-question-of-emphasis.html</loc>
-    <lastmod>2022-12-29T17:38:22.695Z</lastmod>
-  </url>
-  <url>
-    <loc>https://www.thescoop.org/posts_to_process/2010-02-18-lightning-talks-at-nicar.html</loc>
-    <lastmod>2022-12-29T17:38:23.043Z</lastmod>
-  </url>
-  <url>
-    <loc>https://www.thescoop.org/posts_to_process/2005-12-05-congressional-vote-database.html</loc>
-    <lastmod>2022-12-29T17:38:23.344Z</lastmod>
-  </url>
-  <url>
-    <loc>https://www.thescoop.org/posts_to_process/2007-07-31-django-ical-vobject.html</loc>
-    <lastmod>2022-12-29T17:38:23.650Z</lastmod>
-  </url>
-  <url>
-    <loc>https://www.thescoop.org/posts_to_process/2007-06-14-the-new-competition.html</loc>
-    <lastmod>2022-12-29T17:38:23.959Z</lastmod>
-  </url>
-  <url>
-    <loc>https://www.thescoop.org/posts_to_process/2013-04-24-the-itemizer.html</loc>
-    <lastmod>2022-12-29T17:38:24.273Z</lastmod>
-  </url>
-  <url>
-    <loc>https://www.thescoop.org/posts_to_process/2008-06-29-caspios-lessons.html</loc>
-    <lastmod>2022-12-29T17:38:24.619Z</lastmod>
-  </url>
-  <url>
-    <loc>https://www.thescoop.org/posts_to_process/2007-05-29-shoot-the-google.html</loc>
-    <lastmod>2022-12-29T17:38:24.961Z</lastmod>
-  </url>
-  <url>
-    <loc>https://www.thescoop.org/posts_to_process/2009-11-29-the-future-of-ire-training.html</loc>
-    <lastmod>2022-12-29T17:38:25.299Z</lastmod>
-  </url>
-  <url>
-    <loc>https://www.thescoop.org/posts_to_process/2013-03-02-mobile-apps-where-the-data-lives.html</loc>
-    <lastmod>2022-12-29T17:38:25.663Z</lastmod>
-  </url>
-  <url>
-    <loc>https://www.thescoop.org/posts_to_process/2011-03-06-what-apis-mean-for-data-journalists.html</loc>
-    <lastmod>2022-12-29T17:38:25.997Z</lastmod>
-  </url>
-  <url>
-    <loc>https://www.thescoop.org/posts_to_process/2010-02-23-a-gentle-introduction-to-google-app-engine.html</loc>
-    <lastmod>2022-12-29T17:38:26.323Z</lastmod>
-  </url>
-  <url>
-    <loc>https://www.thescoop.org/posts_to_process/2010-12-07-why-students-should-come-to-the-car-conference.html</loc>
-    <lastmod>2022-12-29T17:38:26.724Z</lastmod>
-  </url>
-  <url>
-    <loc>https://www.thescoop.org/posts_to_process/2007-11-06-innovation-belongs-in-the-newsroom.html</loc>
-    <lastmod>2022-12-29T17:38:27.106Z</lastmod>
-  </url>
-  <url>
-    <loc>https://www.thescoop.org/posts_to_process/2012-05-28-finding-new-money.html</loc>
-    <lastmod>2022-12-29T17:38:27.518Z</lastmod>
-  </url>
-  <url>
-    <loc>https://www.thescoop.org/posts_to_process/2007-10-16-the-times.html</loc>
-    <lastmod>2022-12-29T17:38:27.857Z</lastmod>
-  </url>
-  <url>
-    <loc>https://www.thescoop.org/posts/2013-10-09-data-journalism-student-media-edition/index.html</loc>
-    <lastmod>2022-12-29T17:44:38.939Z</lastmod>
-  </url>
-  <url>
-    <loc>https://www.thescoop.org/posts/2013-10-01-the-natives-arent-restless-enough/index.html</loc>
-    <lastmod>2022-12-29T17:45:43.594Z</lastmod>
-  </url>
-  <url>
-    <loc>https://www.thescoop.org/posts/2013-07-16-why-develop-in-the-newsroom/index.html</loc>
-    <lastmod>2022-12-30T01:49:57.306Z</lastmod>
-  </url>
-  <url>
-    <loc>https://www.thescoop.org/posts/2013-08-22-teaching-hospitals-journalism-education-and-a-hatchet-job/index.html</loc>
-    <lastmod>2022-12-30T01:49:58.542Z</lastmod>
-  </url>
-  <url>
-    <loc>https://www.thescoop.org/posts/2013-07-02-what-good-is-dat/index.html</loc>
-    <lastmod>2022-12-30T01:49:59.554Z</lastmod>
-  </url>
-  <url>
-    <loc>https://www.thescoop.org/posts/2013-06-04-lessons-from-data-crunched-democracy/index.html</loc>
-    <lastmod>2022-12-30T01:50:00.667Z</lastmod>
-  </url>
-  <url>
     <loc>https://www.thescoop.org/thefix/putting-it-out-there/index.html</loc>
-    <lastmod>2022-12-30T01:50:01.658Z</lastmod>
+    <lastmod>2022-12-31T14:34:44.008Z</lastmod>
   </url>
   <url>
     <loc>https://www.thescoop.org/thefix/journalism-lost-and-found/index.html</loc>
-    <lastmod>2022-12-30T01:50:02.643Z</lastmod>
+    <lastmod>2022-12-31T14:34:45.919Z</lastmod>
   </url>
   <url>
     <loc>https://www.thescoop.org/thefix/better-tools/index.html</loc>
-    <lastmod>2022-12-30T01:50:03.687Z</lastmod>
+    <lastmod>2022-12-31T14:34:47.603Z</lastmod>
   </url>
   <url>
     <loc>https://www.thescoop.org/thefix/index.html</loc>
-    <lastmod>2022-12-30T02:22:37.535Z</lastmod>
+    <lastmod>2022-12-31T14:34:48.928Z</lastmod>
   </url>
   <url>
     <loc>https://www.thescoop.org/thefix/the-annotated-archive/index.html</loc>
-    <lastmod>2022-12-30T02:06:07.682Z</lastmod>
+    <lastmod>2022-12-31T14:34:50.262Z</lastmod>
   </url>
   <url>
     <loc>https://www.thescoop.org/thefix/innovate-or-die/index.html</loc>
-    <lastmod>2022-12-30T01:50:06.610Z</lastmod>
+    <lastmod>2022-12-31T14:34:51.658Z</lastmod>
   </url>
   <url>
     <loc>https://www.thescoop.org/thefix/the-information-gap/index.html</loc>
-    <lastmod>2022-12-30T01:50:07.701Z</lastmod>
+    <lastmod>2022-12-31T14:34:53.215Z</lastmod>
   </url>
   <url>
     <loc>https://www.thescoop.org/thefix/rivers-of-data/index.html</loc>
-    <lastmod>2022-12-30T01:50:08.738Z</lastmod>
+    <lastmod>2022-12-31T14:34:54.581Z</lastmod>
   </url>
   <url>
     <loc>https://www.thescoop.org/thefix/the-engagement-process/index.html</loc>
-    <lastmod>2022-12-30T01:50:09.864Z</lastmod>
+    <lastmod>2022-12-31T14:34:55.978Z</lastmod>
   </url>
   <url>
     <loc>https://www.thescoop.org/thefix/the-collaboration-issue/index.html</loc>
-    <lastmod>2022-12-30T01:53:16.633Z</lastmod>
+    <lastmod>2022-12-31T14:34:57.787Z</lastmod>
   </url>
   <url>
     <loc>https://www.thescoop.org/thefix/the-canvas-for-car/index.html</loc>
-    <lastmod>2022-12-30T01:50:11.909Z</lastmod>
-  </url>
-  <url>
-    <loc>https://www.thescoop.org/posts/2013-05-21-what-they-say-about-us/index.html</loc>
-    <lastmod>2022-12-30T02:44:42.397Z</lastmod>
-  </url>
-  <url>
-    <loc>https://www.thescoop.org/posts/2013-04-28-academy-fight-song/index.html</loc>
-    <lastmod>2022-12-30T02:45:41.695Z</lastmod>
-  </url>
-  <url>
-    <loc>https://www.thescoop.org/posts/2013-04-24-the-itemizer/index.html</loc>
-    <lastmod>2022-12-30T14:49:25.947Z</lastmod>
-  </url>
-  <url>
-    <loc>https://www.thescoop.org/posts/2013-03-02-mobile-apps-where-the-data-lives/index.html</loc>
-    <lastmod>2022-12-30T14:50:22.379Z</lastmod>
-  </url>
-  <url>
-    <loc>https://www.thescoop.org/posts/2012-12-26-the-data-driven-congressional-reporter/index.html</loc>
-    <lastmod>2022-12-30T14:51:48.448Z</lastmod>
-  </url>
-  <url>
-    <loc>https://www.thescoop.org/posts/2012-10-15-congressional-data-github/index.html</loc>
-    <lastmod>2022-12-30T15:11:38.914Z</lastmod>
-  </url>
-  <url>
-    <loc>https://www.thescoop.org/posts/2012-08-03-share-your-knowledge/index.html</loc>
-    <lastmod>2022-12-30T15:12:29.506Z</lastmod>
-  </url>
-  <url>
-    <loc>https://www.thescoop.org/posts/2012-05-28-finding-new-money/index.html</loc>
-    <lastmod>2022-12-30T15:13:32.708Z</lastmod>
-  </url>
-  <url>
-    <loc>https://www.thescoop.org/posts/2012-05-13-lost-in-the-weeds/index.html</loc>
-    <lastmod>2022-12-30T15:14:48.568Z</lastmod>
-  </url>
-  <url>
-    <loc>https://www.thescoop.org/posts/2012-05-01-our-mark-knoller-problem/index.html</loc>
-    <lastmod>2022-12-30T15:17:58.432Z</lastmod>
-  </url>
-  <url>
-    <loc>https://www.thescoop.org/posts/2012-02-04-on-legislative-data-transparency/index.html</loc>
-    <lastmod>2022-12-30T15:18:46.275Z</lastmod>
-  </url>
-  <url>
-    <loc>https://www.thescoop.org/posts/2011-10-17-what-we-dont-know-about-elections/index.html</loc>
-    <lastmod>2022-12-30T15:19:35.952Z</lastmod>
-  </url>
-  <url>
-    <loc>https://www.thescoop.org/posts/2011-08-10-in-defense-of-building-tools/index.html</loc>
-    <lastmod>2022-12-30T15:21:06.651Z</lastmod>
-  </url>
-  <url>
-    <loc>https://www.thescoop.org/posts/2011-07-27-why-teach-sql/index.html</loc>
-    <lastmod>2022-12-30T15:21:45.835Z</lastmod>
-  </url>
-  <url>
-    <loc>https://www.thescoop.org/posts/2011-05-01-interviewing-data/index.html</loc>
-    <lastmod>2022-12-30T15:22:47.917Z</lastmod>
-  </url>
-  <url>
-    <loc>https://www.thescoop.org/posts/2011-03-06-what-apis-mean-for-data-journalists/index.html</loc>
-    <lastmod>2022-12-30T15:27:22.982Z</lastmod>
-  </url>
-  <url>
-    <loc>https://www.thescoop.org/posts/2010-12-07-why-students-should-come-to-the-car-conference/index.html</loc>
-    <lastmod>2022-12-30T15:28:02.112Z</lastmod>
-  </url>
-  <url>
-    <loc>https://www.thescoop.org/posts/2010-09-14-hard-problems/index.html</loc>
-    <lastmod>2022-12-30T15:28:51.423Z</lastmod>
-  </url>
-  <url>
-    <loc>https://www.thescoop.org/posts/2010-09-11-how-far-weve-come/index.html</loc>
-    <lastmod>2022-12-30T15:29:39.892Z</lastmod>
-  </url>
-  <url>
-    <loc>https://www.thescoop.org/posts/2010-07-31-a-github-for-data/index.html</loc>
-    <lastmod>2022-12-30T15:30:13.327Z</lastmod>
-  </url>
-  <url>
-    <loc>https://www.thescoop.org/posts/2010-07-12-how-apis-help-the-newsroom/index.html</loc>
-    <lastmod>2022-12-30T15:35:06.809Z</lastmod>
-  </url>
-  <url>
-    <loc>https://www.thescoop.org/posts/2010-05-11-using-the-nyt-congress-api-with-excel/index.html</loc>
-    <lastmod>2022-12-30T15:39:06.069Z</lastmod>
-  </url>
-  <url>
-    <loc>https://www.thescoop.org/posts/2010-02-23-a-gentle-introduction-to-google-app-engine/index.html</loc>
-    <lastmod>2022-12-30T15:41:20.351Z</lastmod>
-  </url>
-  <url>
-    <loc>https://www.thescoop.org/posts/2010-02-18-lightning-talks-at-nicar/index.html</loc>
-    <lastmod>2022-12-30T15:46:06.198Z</lastmod>
-  </url>
-  <url>
-    <loc>https://www.thescoop.org/posts/2009-12-25-the-gift-of-data/index.html</loc>
-    <lastmod>2022-12-30T16:00:13.673Z</lastmod>
-  </url>
-  <url>
-    <loc>https://www.thescoop.org/posts/2009-11-29-the-future-of-ire-training/index.html</loc>
-    <lastmod>2022-12-30T16:01:16.949Z</lastmod>
-  </url>
-  <url>
-    <loc>https://www.thescoop.org/posts/2009-11-21-a-question-of-emphasis/index.html</loc>
-    <lastmod>2022-12-30T16:02:16.445Z</lastmod>
-  </url>
-  <url>
-    <loc>https://www.thescoop.org/posts/2009-11-09-buying-into-computational-journalism/index.html</loc>
-    <lastmod>2022-12-30T16:02:41.244Z</lastmod>
-  </url>
-  <url>
-    <loc>https://www.thescoop.org/posts/2007-09-30-teaching-data-on-the-web/2007-09-30-teaching-data-on-the-web.html</loc>
-    <lastmod>2022-12-30T16:07:39.594Z</lastmod>
-  </url>
-  <url>
-    <loc>https://www.thescoop.org/posts/2002-03-25-the-long-bet/index.html</loc>
-    <lastmod>2022-12-30T16:13:20.439Z</lastmod>
-  </url>
-  <url>
-    <loc>https://www.thescoop.org/posts/2005-05-18-xpdf-on-the-mac/index.html</loc>
-    <lastmod>2022-12-30T16:13:33.142Z</lastmod>
-  </url>
-  <url>
-    <loc>https://www.thescoop.org/posts/2005-12-05-congressional-vote-database/index.html</loc>
-    <lastmod>2022-12-30T16:13:50.115Z</lastmod>
-  </url>
-  <url>
-    <loc>https://www.thescoop.org/posts/2007-02-04-why-the-web/index.html</loc>
-    <lastmod>2022-12-30T16:14:04.589Z</lastmod>
-  </url>
-  <url>
-    <loc>https://www.thescoop.org/posts/2007-05-29-shoot-the-google/index.html</loc>
-    <lastmod>2022-12-30T16:14:19.346Z</lastmod>
-  </url>
-  <url>
-    <loc>https://www.thescoop.org/posts/2007-06-12-finding-enterprise-reporting/index.html</loc>
-    <lastmod>2022-12-30T16:14:35.522Z</lastmod>
-  </url>
-  <url>
-    <loc>https://www.thescoop.org/posts/2007-06-14-the-new-competition/index.html</loc>
-    <lastmod>2022-12-30T16:14:51.850Z</lastmod>
-  </url>
-  <url>
-    <loc>https://www.thescoop.org/posts/2007-07-11-the-original-and-future-facebook/index.html</loc>
-    <lastmod>2022-12-30T16:15:07.076Z</lastmod>
-  </url>
-  <url>
-    <loc>https://www.thescoop.org/posts/2007-07-31-django-ical-vobject/index.html</loc>
-    <lastmod>2022-12-30T16:15:21.500Z</lastmod>
-  </url>
-  <url>
-    <loc>https://www.thescoop.org/posts/2007-09-07-outsourcing-database-development-or-the-caspio-issue/index.html</loc>
-    <lastmod>2022-12-30T16:15:36.296Z</lastmod>
-  </url>
-  <url>
-    <loc>https://www.thescoop.org/posts/2007-09-12-on-trials-software-and-otherwise/index.html</loc>
-    <lastmod>2022-12-30T16:16:16.869Z</lastmod>
-  </url>
-  <url>
-    <loc>https://www.thescoop.org/posts/2007-09-30-teaching-data-on-the-web/index.html</loc>
-    <lastmod>2022-12-30T16:16:33.694Z</lastmod>
-  </url>
-  <url>
-    <loc>https://www.thescoop.org/posts/2007-10-16-the-times/index.html</loc>
-    <lastmod>2022-12-30T16:16:52.097Z</lastmod>
-  </url>
-  <url>
-    <loc>https://www.thescoop.org/posts/2007-11-06-innovation-belongs-in-the-newsroom/index.html</loc>
-    <lastmod>2022-12-30T16:17:05.676Z</lastmod>
-  </url>
-  <url>
-    <loc>https://www.thescoop.org/posts/2007-11-15-of-the-web-vs-on-the-web/index.html</loc>
-    <lastmod>2022-12-30T16:17:19.832Z</lastmod>
-  </url>
-  <url>
-    <loc>https://www.thescoop.org/posts/2008-05-24-on-bomb-throwing/index.html</loc>
-    <lastmod>2022-12-30T16:17:32.839Z</lastmod>
-  </url>
-  <url>
-    <loc>https://www.thescoop.org/posts/2008-06-19-the-future-of-news-libraries/index.html</loc>
-    <lastmod>2022-12-30T16:17:52.682Z</lastmod>
-  </url>
-  <url>
-    <loc>https://www.thescoop.org/posts/2008-06-29-caspios-lessons/index.html</loc>
-    <lastmod>2022-12-30T16:18:07.027Z</lastmod>
-  </url>
-  <url>
-    <loc>https://www.thescoop.org/posts/2008-07-22-the-birth-of-quadruplets-or-understanding-the-process/index.html</loc>
-    <lastmod>2022-12-30T16:18:33.558Z</lastmod>
-  </url>
-  <url>
-    <loc>https://www.thescoop.org/posts/2008-09-21-the-difference/index.html</loc>
-    <lastmod>2022-12-30T16:18:49.867Z</lastmod>
-  </url>
-  <url>
-    <loc>https://www.thescoop.org/posts/2008-09-23-white-house-beat-feature-request/index.html</loc>
-    <lastmod>2022-12-30T16:19:08.213Z</lastmod>
-  </url>
-  <url>
-    <loc>https://www.thescoop.org/posts/2008-12-19-represent-and-geodjango/index.html</loc>
-    <lastmod>2022-12-30T16:19:21.942Z</lastmod>
-  </url>
-  <url>
-    <loc>https://www.thescoop.org/posts/2009-03-25-no-really-show-us-the-data/index.html</loc>
-    <lastmod>2022-12-30T16:19:38.975Z</lastmod>
-  </url>
-  <url>
-    <loc>https://www.thescoop.org/posts/2009-06-02-the-case-against-teaching-access/index.html</loc>
-    <lastmod>2022-12-30T16:19:53.810Z</lastmod>
-  </url>
-  <url>
-    <loc>https://www.thescoop.org/posts/2009-06-25-the-fundamental-training-need/index.html</loc>
-    <lastmod>2022-12-30T16:20:08.203Z</lastmod>
-  </url>
-  <url>
-    <loc>https://www.thescoop.org/posts/2009-07-24-one-way-to-encourage-innovation/index.html</loc>
-    <lastmod>2022-12-30T16:20:23.787Z</lastmod>
-  </url>
-  <url>
-    <loc>https://www.thescoop.org/posts/2009-10-28-the-fecs-disclosure-data-catalog/index.html</loc>
-    <lastmod>2022-12-30T16:20:35.132Z</lastmod>
-  </url>
-  <url>
-    <loc>https://www.thescoop.org/posts/2012-12-03-thoughts-on-newsfoo/index.html</loc>
-    <lastmod>2022-12-30T16:21:44.339Z</lastmod>
-  </url>
-  <url>
-    <loc>https://www.thescoop.org/posts/2012-12-15-on-vengeance/index.html</loc>
-    <lastmod>2022-12-30T16:21:45.424Z</lastmod>
-  </url>
-  <url>
-    <loc>https://www.thescoop.org/posts/2012-11-09-what-ive-been-up-to-lately/index.html</loc>
-    <lastmod>2022-12-30T16:21:45.767Z</lastmod>
-  </url>
-  <url>
-    <loc>https://www.thescoop.org/posts/2012-11-27-how-i-got-here/index.html</loc>
-    <lastmod>2022-12-30T16:21:46.832Z</lastmod>
-  </url>
-  <url>
-    <loc>https://www.thescoop.org/posts/2018-04-05-the-best-training/index.html</loc>
-    <lastmod>2022-12-30T16:21:47.797Z</lastmod>
-  </url>
-  <url>
-    <loc>https://www.thescoop.org/posts/2013-01-13-on-aaron-swartz/index.html</loc>
-    <lastmod>2022-12-30T16:21:48.774Z</lastmod>
-  </url>
-  <url>
-    <loc>https://www.thescoop.org/posts/2013-01-23-magic-removal/index.html</loc>
-    <lastmod>2022-12-30T16:21:49.716Z</lastmod>
+    <lastmod>2022-12-31T14:34:59.160Z</lastmod>
   </url>
   <url>
     <loc>https://www.thescoop.org/then/index.html</loc>
-    <lastmod>2022-12-31T02:17:58.970Z</lastmod>
-  </url>
-  <url>
-    <loc>https://www.thescoop.org/now/index.html</loc>
-    <lastmod>2022-12-30T23:10:02.425Z</lastmod>
-  </url>
-  <url>
-    <loc>https://www.thescoop.org/posts/2013-03-18-steve-coll/index.html</loc>
-    <lastmod>2022-12-31T01:56:55.538Z</lastmod>
-  </url>
-  <url>
-    <loc>https://www.thescoop.org/posts/2022-12-31-welcome-back/index.html</loc>
-    <lastmod>2022-12-31T02:40:01.202Z</lastmod>
+    <lastmod>2022-12-31T14:34:59.771Z</lastmod>
   </url>
   <url>
     <loc>https://www.thescoop.org/archives/2013/03/02/mobile-apps-where-the-data-lives/index.html</loc>
-    <lastmod>2022-12-31T02:56:55.108Z</lastmod>
+    <lastmod>2022-12-31T14:35:00.434Z</lastmod>
   </url>
   <url>
     <loc>https://www.thescoop.org/archives/2013/03/18/steve-coll/index.html</loc>
-    <lastmod>2022-12-31T02:56:56.139Z</lastmod>
+    <lastmod>2022-12-31T14:35:01.015Z</lastmod>
   </url>
   <url>
     <loc>https://www.thescoop.org/archives/2013/04/28/academy-fight-song/index.html</loc>
-    <lastmod>2022-12-31T02:56:57.245Z</lastmod>
+    <lastmod>2022-12-31T14:35:01.888Z</lastmod>
   </url>
   <url>
     <loc>https://www.thescoop.org/archives/2013/04/24/the-itemizer/index.html</loc>
-    <lastmod>2022-12-31T02:56:58.527Z</lastmod>
+    <lastmod>2022-12-31T14:35:02.543Z</lastmod>
   </url>
   <url>
     <loc>https://www.thescoop.org/archives/2013/05/21/what-they-say-about-us/index.html</loc>
-    <lastmod>2022-12-31T02:56:59.513Z</lastmod>
+    <lastmod>2022-12-31T14:35:03.071Z</lastmod>
   </url>
   <url>
     <loc>https://www.thescoop.org/archives/2013/10/09/data-journalism-student-media-edition/index.html</loc>
-    <lastmod>2022-12-31T02:57:00.505Z</lastmod>
+    <lastmod>2022-12-31T14:35:03.578Z</lastmod>
   </url>
   <url>
     <loc>https://www.thescoop.org/archives/2013/10/01/the-natives-arent-restless-enough/index.html</loc>
-    <lastmod>2022-12-31T02:57:01.588Z</lastmod>
+    <lastmod>2022-12-31T14:35:04.210Z</lastmod>
   </url>
   <url>
     <loc>https://www.thescoop.org/archives/2013/07/02/what-good-is-dat/index.html</loc>
-    <lastmod>2022-12-31T02:57:02.590Z</lastmod>
+    <lastmod>2022-12-31T14:35:04.699Z</lastmod>
   </url>
   <url>
     <loc>https://www.thescoop.org/archives/2013/07/16/why-develop-in-the-newsroom/index.html</loc>
-    <lastmod>2022-12-31T02:57:03.647Z</lastmod>
+    <lastmod>2022-12-31T14:35:05.262Z</lastmod>
   </url>
   <url>
     <loc>https://www.thescoop.org/archives/2013/08/22/teaching-hospitals-journalism-education-and-a-hatchet-job/index.html</loc>
-    <lastmod>2022-12-31T02:57:04.690Z</lastmod>
+    <lastmod>2022-12-31T14:35:05.791Z</lastmod>
   </url>
   <url>
     <loc>https://www.thescoop.org/archives/2013/01/23/magic-removal/index.html</loc>
-    <lastmod>2022-12-31T02:57:05.691Z</lastmod>
+    <lastmod>2022-12-31T14:35:06.243Z</lastmod>
   </url>
   <url>
     <loc>https://www.thescoop.org/archives/2013/01/13/on-aaron-swartz/index.html</loc>
-    <lastmod>2022-12-31T02:57:06.688Z</lastmod>
+    <lastmod>2022-12-31T14:35:06.694Z</lastmod>
   </url>
   <url>
     <loc>https://www.thescoop.org/archives/2013/06/04/lessons-from-data-crunched-democracy/index.html</loc>
-    <lastmod>2022-12-31T02:57:07.819Z</lastmod>
+    <lastmod>2022-12-31T14:35:07.344Z</lastmod>
   </url>
   <url>
     <loc>https://www.thescoop.org/archives/2014/05/22/how-it-starts/index.html</loc>
-    <lastmod>2022-12-31T02:57:08.803Z</lastmod>
+    <lastmod>2022-12-31T14:35:07.972Z</lastmod>
   </url>
   <url>
     <loc>https://www.thescoop.org/archives/2014/11/17/were-all-publishers-now/index.html</loc>
-    <lastmod>2022-12-31T02:57:09.811Z</lastmod>
+    <lastmod>2022-12-31T14:35:08.521Z</lastmod>
   </url>
   <url>
     <loc>https://www.thescoop.org/archives/2014/07/08/lightning-strikes/index.html</loc>
-    <lastmod>2022-12-31T02:57:10.813Z</lastmod>
+    <lastmod>2022-12-31T14:35:09.022Z</lastmod>
   </url>
   <url>
     <loc>https://www.thescoop.org/archives/2022/12/31/welcome-back/index.html</loc>
-    <lastmod>2022-12-31T02:57:11.766Z</lastmod>
+    <lastmod>2022-12-31T14:35:09.564Z</lastmod>
   </url>
   <url>
     <loc>https://www.thescoop.org/archives/2015/07/29/my-favorite-things/index.html</loc>
-    <lastmod>2022-12-31T02:57:12.799Z</lastmod>
+    <lastmod>2022-12-31T14:35:10.094Z</lastmod>
   </url>
   <url>
     <loc>https://www.thescoop.org/archives/2015/06/06/civic-data-and-journalism/index.html</loc>
-    <lastmod>2022-12-31T02:57:13.796Z</lastmod>
+    <lastmod>2022-12-31T14:35:10.677Z</lastmod>
   </url>
   <url>
-    <loc>https://www.thescoop.org/archives/2012/2012-05-01-our-mark-knoller-problem/index.html</loc>
-    <lastmod>2022-12-31T02:57:14.788Z</lastmod>
+    <loc>https://www.thescoop.org/archives/2012/05/28/finding-new-money/index.html</loc>
+    <lastmod>2022-12-31T14:35:11.950Z</lastmod>
   </url>
   <url>
-    <loc>https://www.thescoop.org/archives/2012/2012-12-03-thoughts-on-newsfoo/index.html</loc>
-    <lastmod>2022-12-31T02:57:15.832Z</lastmod>
+    <loc>https://www.thescoop.org/archives/2012/05/01/our-mark-knoller-problem/index.html</loc>
+    <lastmod>2022-12-31T14:35:13.391Z</lastmod>
   </url>
   <url>
-    <loc>https://www.thescoop.org/archives/2012/2012-12-15-on-vengeance/index.html</loc>
-    <lastmod>2022-12-31T02:57:16.823Z</lastmod>
+    <loc>https://www.thescoop.org/archives/2012/05/13/lost-in-the-weeds/index.html</loc>
+    <lastmod>2022-12-31T14:35:15.078Z</lastmod>
   </url>
   <url>
-    <loc>https://www.thescoop.org/archives/2012/2012-11-09-what-ive-been-up-to-lately/index.html</loc>
-    <lastmod>2022-12-31T02:57:17.142Z</lastmod>
+    <loc>https://www.thescoop.org/archives/2012/02/04/on-legislative-data-transparency/index.html</loc>
+    <lastmod>2022-12-31T14:35:16.610Z</lastmod>
   </url>
   <url>
-    <loc>https://www.thescoop.org/archives/2012/2012-02-04-on-legislative-data-transparency/index.html</loc>
-    <lastmod>2022-12-31T02:57:18.171Z</lastmod>
+    <loc>https://www.thescoop.org/archives/2012/11/27/how-i-got-here/index.html</loc>
+    <lastmod>2022-12-31T14:35:18.676Z</lastmod>
   </url>
   <url>
-    <loc>https://www.thescoop.org/archives/2012/2012-05-13-lost-in-the-weeds/index.html</loc>
-    <lastmod>2022-12-31T02:57:19.185Z</lastmod>
+    <loc>https://www.thescoop.org/archives/2012/11/09/what-ive-been-up-to-lately/index.html</loc>
+    <lastmod>2022-12-31T14:35:19.284Z</lastmod>
   </url>
   <url>
-    <loc>https://www.thescoop.org/archives/2012/2012-05-28-finding-new-money/index.html</loc>
-    <lastmod>2022-12-31T02:57:20.166Z</lastmod>
+    <loc>https://www.thescoop.org/archives/2012/10/15/congressional-data-github/index.html</loc>
+    <lastmod>2022-12-31T14:35:20.729Z</lastmod>
   </url>
   <url>
-    <loc>https://www.thescoop.org/archives/2012/2012-11-27-how-i-got-here/index.html</loc>
-    <lastmod>2022-12-31T02:57:21.257Z</lastmod>
+    <loc>https://www.thescoop.org/archives/2012/08/03/share-your-knowledge/index.html</loc>
+    <lastmod>2022-12-31T14:35:22.224Z</lastmod>
   </url>
   <url>
-    <loc>https://www.thescoop.org/archives/2012/2012-12-26-the-data-driven-congressional-reporter/index.html</loc>
-    <lastmod>2022-12-31T02:57:22.256Z</lastmod>
+    <loc>https://www.thescoop.org/archives/2012/12/03/thoughts-on-newsfoo/index.html</loc>
+    <lastmod>2022-12-31T14:35:23.851Z</lastmod>
   </url>
   <url>
-    <loc>https://www.thescoop.org/archives/2012/2012-10-15-congressional-data-github/index.html</loc>
-    <lastmod>2022-12-31T02:57:23.245Z</lastmod>
+    <loc>https://www.thescoop.org/archives/2012/12/26/the-data-driven-congressional-reporter/index.html</loc>
+    <lastmod>2022-12-31T14:35:25.469Z</lastmod>
   </url>
   <url>
-    <loc>https://www.thescoop.org/archives/2012/2012-08-03-share-your-knowledge/index.html</loc>
-    <lastmod>2022-12-31T02:57:24.257Z</lastmod>
+    <loc>https://www.thescoop.org/archives/2012/12/15/on-vengeance/index.html</loc>
+    <lastmod>2022-12-31T14:35:26.871Z</lastmod>
   </url>
   <url>
-    <loc>https://www.thescoop.org/archives/2008/2008-07-22-the-birth-of-quadruplets-or-understanding-the-process/index.html</loc>
-    <lastmod>2022-12-31T02:57:25.364Z</lastmod>
+    <loc>https://www.thescoop.org/archives/2008/05/24/on-bomb-throwing/index.html</loc>
+    <lastmod>2022-12-31T14:35:28.404Z</lastmod>
   </url>
   <url>
-    <loc>https://www.thescoop.org/archives/2008/2008-09-23-white-house-beat-feature-request/index.html</loc>
-    <lastmod>2022-12-31T02:57:26.341Z</lastmod>
+    <loc>https://www.thescoop.org/archives/2008/07/22/the-birth-of-quadruplets-or-understanding-the-process/index.html</loc>
+    <lastmod>2022-12-31T14:35:29.879Z</lastmod>
   </url>
   <url>
-    <loc>https://www.thescoop.org/archives/2008/2008-05-24-on-bomb-throwing/index.html</loc>
-    <lastmod>2022-12-31T02:57:27.472Z</lastmod>
+    <loc>https://www.thescoop.org/archives/2008/09/21/the-difference/index.html</loc>
+    <lastmod>2022-12-31T14:35:31.373Z</lastmod>
   </url>
   <url>
-    <loc>https://www.thescoop.org/archives/2008/2008-09-21-the-difference/index.html</loc>
-    <lastmod>2022-12-31T02:57:28.442Z</lastmod>
+    <loc>https://www.thescoop.org/archives/2008/09/23/white-house-beat-feature-request/index.html</loc>
+    <lastmod>2022-12-31T14:35:32.786Z</lastmod>
   </url>
   <url>
-    <loc>https://www.thescoop.org/archives/2008/2008-06-19-the-future-of-news-libraries/index.html</loc>
-    <lastmod>2022-12-31T02:57:29.425Z</lastmod>
+    <loc>https://www.thescoop.org/archives/2008/06/29/caspios-lessons/index.html</loc>
+    <lastmod>2022-12-31T14:35:34.207Z</lastmod>
   </url>
   <url>
-    <loc>https://www.thescoop.org/archives/2008/2008-06-29-caspios-lessons/index.html</loc>
-    <lastmod>2022-12-31T02:57:30.424Z</lastmod>
+    <loc>https://www.thescoop.org/archives/2008/06/19/the-future-of-news-libraries/index.html</loc>
+    <lastmod>2022-12-31T14:35:35.622Z</lastmod>
   </url>
   <url>
-    <loc>https://www.thescoop.org/archives/2008/2008-12-19-represent-and-geodjango/index.html</loc>
-    <lastmod>2022-12-31T02:57:31.409Z</lastmod>
+    <loc>https://www.thescoop.org/archives/2008/12/19/represent-and-geodjango/index.html</loc>
+    <lastmod>2022-12-31T14:35:37.254Z</lastmod>
   </url>
   <url>
-    <loc>https://www.thescoop.org/archives/2007/2007-09-12-on-trials-software-and-otherwise/index.html</loc>
-    <lastmod>2022-12-31T02:57:32.389Z</lastmod>
+    <loc>https://www.thescoop.org/archives/2007/05/29/shoot-the-google/index.html</loc>
+    <lastmod>2022-12-31T14:35:38.737Z</lastmod>
   </url>
   <url>
-    <loc>https://www.thescoop.org/archives/2007/2007-07-11-the-original-and-future-facebook/index.html</loc>
-    <lastmod>2022-12-31T02:57:33.365Z</lastmod>
+    <loc>https://www.thescoop.org/archives/2007/02/04/why-the-web/index.html</loc>
+    <lastmod>2022-12-31T14:35:40.211Z</lastmod>
   </url>
   <url>
-    <loc>https://www.thescoop.org/archives/2007/2007-11-15-of-the-web-vs-on-the-web/index.html</loc>
-    <lastmod>2022-12-31T02:57:34.330Z</lastmod>
+    <loc>https://www.thescoop.org/archives/2007/11/06/innovation-belongs-in-the-newsroom/index.html</loc>
+    <lastmod>2022-12-31T14:35:41.626Z</lastmod>
   </url>
   <url>
-    <loc>https://www.thescoop.org/archives/2007/2007-09-07-outsourcing-database-development-or-the-caspio-issue/index.html</loc>
-    <lastmod>2022-12-31T02:57:35.370Z</lastmod>
+    <loc>https://www.thescoop.org/archives/2007/11/15/of-the-web-vs-on-the-web/index.html</loc>
+    <lastmod>2022-12-31T14:35:43.358Z</lastmod>
   </url>
   <url>
-    <loc>https://www.thescoop.org/archives/2007/2007-10-16-the-times/index.html</loc>
-    <lastmod>2022-12-31T02:57:36.365Z</lastmod>
+    <loc>https://www.thescoop.org/archives/2007/10/16/the-times/index.html</loc>
+    <lastmod>2022-12-31T14:35:44.836Z</lastmod>
   </url>
   <url>
-    <loc>https://www.thescoop.org/archives/2007/2007-05-29-shoot-the-google/index.html</loc>
-    <lastmod>2022-12-31T02:57:37.363Z</lastmod>
+    <loc>https://www.thescoop.org/archives/2007/07/11/the-original-and-future-facebook/index.html</loc>
+    <lastmod>2022-12-31T14:35:46.313Z</lastmod>
   </url>
   <url>
-    <loc>https://www.thescoop.org/archives/2007/2007-06-14-the-new-competition/index.html</loc>
-    <lastmod>2022-12-31T02:57:38.369Z</lastmod>
+    <loc>https://www.thescoop.org/archives/2007/07/31/django-ical-vobject/index.html</loc>
+    <lastmod>2022-12-31T14:35:47.767Z</lastmod>
   </url>
   <url>
-    <loc>https://www.thescoop.org/archives/2007/2007-09-30-teaching-data-on-the-web/index.html</loc>
-    <lastmod>2022-12-31T02:57:39.550Z</lastmod>
+    <loc>https://www.thescoop.org/archives/2007/09/07/outsourcing-database-development-or-the-caspio-issue/index.html</loc>
+    <lastmod>2022-12-31T14:35:49.433Z</lastmod>
   </url>
   <url>
-    <loc>https://www.thescoop.org/archives/2007/2007-07-31-django-ical-vobject/index.html</loc>
-    <lastmod>2022-12-31T02:57:40.732Z</lastmod>
+    <loc>https://www.thescoop.org/archives/2007/09/30/teaching-data-on-the-web/index.html</loc>
+    <lastmod>2022-12-31T14:35:50.802Z</lastmod>
   </url>
   <url>
-    <loc>https://www.thescoop.org/archives/2007/2007-06-12-finding-enterprise-reporting/index.html</loc>
-    <lastmod>2022-12-31T02:57:41.875Z</lastmod>
+    <loc>https://www.thescoop.org/archives/2007/09/12/on-trials-software-and-otherwise/index.html</loc>
+    <lastmod>2022-12-31T14:35:52.172Z</lastmod>
   </url>
   <url>
-    <loc>https://www.thescoop.org/archives/2007/2007-02-04-why-the-web/index.html</loc>
-    <lastmod>2022-12-31T02:57:43.508Z</lastmod>
+    <loc>https://www.thescoop.org/archives/2007/06/12/finding-enterprise-reporting/index.html</loc>
+    <lastmod>2022-12-31T14:35:53.653Z</lastmod>
   </url>
   <url>
-    <loc>https://www.thescoop.org/archives/2007/2007-11-06-innovation-belongs-in-the-newsroom/index.html</loc>
-    <lastmod>2022-12-31T02:57:45.022Z</lastmod>
+    <loc>https://www.thescoop.org/archives/2007/06/14/the-new-competition/index.html</loc>
+    <lastmod>2022-12-31T14:35:55.144Z</lastmod>
   </url>
   <url>
-    <loc>https://www.thescoop.org/archives/2009/2009-06-02-the-case-against-teaching-access/index.html</loc>
-    <lastmod>2022-12-31T02:57:46.424Z</lastmod>
+    <loc>https://www.thescoop.org/archives/2009/03/25/no-really-show-us-the-data/index.html</loc>
+    <lastmod>2022-12-31T14:35:57.184Z</lastmod>
   </url>
   <url>
-    <loc>https://www.thescoop.org/archives/2009/2009-11-29-the-future-of-ire-training/index.html</loc>
-    <lastmod>2022-12-31T02:57:47.870Z</lastmod>
+    <loc>https://www.thescoop.org/archives/2009/11/29/the-future-of-ire-training/index.html</loc>
+    <lastmod>2022-12-31T14:35:59.003Z</lastmod>
   </url>
   <url>
-    <loc>https://www.thescoop.org/archives/2009/2009-11-21-a-question-of-emphasis/index.html</loc>
-    <lastmod>2022-12-31T02:57:49.088Z</lastmod>
+    <loc>https://www.thescoop.org/archives/2009/11/21/a-question-of-emphasis/index.html</loc>
+    <lastmod>2022-12-31T14:36:00.548Z</lastmod>
   </url>
   <url>
-    <loc>https://www.thescoop.org/archives/2009/2009-10-28-the-fecs-disclosure-data-catalog/index.html</loc>
-    <lastmod>2022-12-31T02:57:50.501Z</lastmod>
+    <loc>https://www.thescoop.org/archives/2009/11/09/buying-into-computational-journalism/index.html</loc>
+    <lastmod>2022-12-31T14:36:02.077Z</lastmod>
   </url>
   <url>
-    <loc>https://www.thescoop.org/archives/2009/2009-12-25-the-gift-of-data/index.html</loc>
-    <lastmod>2022-12-31T02:57:51.504Z</lastmod>
+    <loc>https://www.thescoop.org/archives/2009/10/28/the-fecs-disclosure-data-catalog/index.html</loc>
+    <lastmod>2022-12-31T14:36:03.622Z</lastmod>
   </url>
   <url>
-    <loc>https://www.thescoop.org/archives/2009/2009-07-24-one-way-to-encourage-innovation/index.html</loc>
-    <lastmod>2022-12-31T02:57:52.508Z</lastmod>
+    <loc>https://www.thescoop.org/archives/2009/07/24/one-way-to-encourage-innovation/index.html</loc>
+    <lastmod>2022-12-31T14:36:05.159Z</lastmod>
   </url>
   <url>
-    <loc>https://www.thescoop.org/archives/2009/2009-06-25-the-fundamental-training-need/index.html</loc>
-    <lastmod>2022-12-31T02:57:53.514Z</lastmod>
+    <loc>https://www.thescoop.org/archives/2009/06/02/the-case-against-teaching-access/index.html</loc>
+    <lastmod>2022-12-31T14:36:07.086Z</lastmod>
   </url>
   <url>
-    <loc>https://www.thescoop.org/archives/2009/2009-11-09-buying-into-computational-journalism/index.html</loc>
-    <lastmod>2022-12-31T02:57:54.619Z</lastmod>
+    <loc>https://www.thescoop.org/archives/2009/06/25/the-fundamental-training-need/index.html</loc>
+    <lastmod>2022-12-31T14:36:08.527Z</lastmod>
   </url>
   <url>
-    <loc>https://www.thescoop.org/archives/2009/2009-03-25-no-really-show-us-the-data/index.html</loc>
-    <lastmod>2022-12-31T02:57:55.946Z</lastmod>
+    <loc>https://www.thescoop.org/archives/2009/12/25/the-gift-of-data/index.html</loc>
+    <lastmod>2022-12-31T14:36:09.954Z</lastmod>
   </url>
   <url>
     <loc>https://www.thescoop.org/archives/2017/12/28/academy-fight-song-part-2/index.html</loc>
-    <lastmod>2022-12-31T02:57:57.264Z</lastmod>
+    <lastmod>2022-12-31T14:36:10.937Z</lastmod>
   </url>
   <url>
-    <loc>https://www.thescoop.org/archives/2010/2010-07-31-a-github-for-data/index.html</loc>
-    <lastmod>2022-12-31T02:57:58.298Z</lastmod>
+    <loc>https://www.thescoop.org/archives/2010/05/11/using-the-nyt-congress-api-with-excel/index.html</loc>
+    <lastmod>2022-12-31T14:36:12.392Z</lastmod>
   </url>
   <url>
-    <loc>https://www.thescoop.org/archives/2010/2010-12-07-why-students-should-come-to-the-car-conference/index.html</loc>
-    <lastmod>2022-12-31T02:57:59.535Z</lastmod>
+    <loc>https://www.thescoop.org/archives/2010/02/18/lightning-talks-at-nicar/index.html</loc>
+    <lastmod>2022-12-31T14:36:13.803Z</lastmod>
   </url>
   <url>
-    <loc>https://www.thescoop.org/archives/2010/2010-09-11-how-far-weve-come/index.html</loc>
-    <lastmod>2022-12-31T02:58:00.715Z</lastmod>
+    <loc>https://www.thescoop.org/archives/2010/02/23/a-gentle-introduction-to-google-app-engine/index.html</loc>
+    <lastmod>2022-12-31T14:36:15.260Z</lastmod>
   </url>
   <url>
-    <loc>https://www.thescoop.org/archives/2010/2010-07-12-how-apis-help-the-newsroom/index.html</loc>
-    <lastmod>2022-12-31T02:58:02.154Z</lastmod>
+    <loc>https://www.thescoop.org/archives/2010/07/31/a-github-for-data/index.html</loc>
+    <lastmod>2022-12-31T14:36:16.780Z</lastmod>
   </url>
   <url>
-    <loc>https://www.thescoop.org/archives/2010/2010-05-11-using-the-nyt-congress-api-with-excel/index.html</loc>
-    <lastmod>2022-12-31T02:58:05.012Z</lastmod>
+    <loc>https://www.thescoop.org/archives/2010/07/12/how-apis-help-the-newsroom/index.html</loc>
+    <lastmod>2022-12-31T14:36:18.308Z</lastmod>
   </url>
   <url>
-    <loc>https://www.thescoop.org/archives/2010/2010-09-14-hard-problems/index.html</loc>
-    <lastmod>2022-12-31T02:58:06.558Z</lastmod>
+    <loc>https://www.thescoop.org/archives/2010/09/11/how-far-weve-come/index.html</loc>
+    <lastmod>2022-12-31T14:36:19.875Z</lastmod>
   </url>
   <url>
-    <loc>https://www.thescoop.org/archives/2010/2010-02-23-a-gentle-introduction-to-google-app-engine/index.html</loc>
-    <lastmod>2022-12-31T02:58:08.056Z</lastmod>
+    <loc>https://www.thescoop.org/archives/2010/09/14/hard-problems/index.html</loc>
+    <lastmod>2022-12-31T14:36:21.511Z</lastmod>
   </url>
   <url>
-    <loc>https://www.thescoop.org/archives/2010/2010-02-18-lightning-talks-at-nicar/index.html</loc>
-    <lastmod>2022-12-31T02:58:09.204Z</lastmod>
+    <loc>https://www.thescoop.org/archives/2010/12/07/why-students-should-come-to-the-car-conference/index.html</loc>
+    <lastmod>2022-12-31T14:36:22.867Z</lastmod>
   </url>
   <url>
     <loc>https://www.thescoop.org/archives/2019/03/09/the-more-important-problem/index.html</loc>
-    <lastmod>2022-12-31T02:58:10.224Z</lastmod>
+    <lastmod>2022-12-31T14:36:23.483Z</lastmod>
   </url>
   <url>
     <loc>https://www.thescoop.org/archives/2019/02/24/making-the-best-nicar-listserv/index.html</loc>
-    <lastmod>2022-12-31T02:58:11.235Z</lastmod>
+    <lastmod>2022-12-31T14:36:24.172Z</lastmod>
   </url>
   <url>
     <loc>https://www.thescoop.org/archives/2018/04/05/the-best-training/index.html</loc>
-    <lastmod>2022-12-31T02:58:12.282Z</lastmod>
+    <lastmod>2022-12-31T14:36:24.802Z</lastmod>
   </url>
   <url>
-    <loc>https://www.thescoop.org/archives/2011/2011-08-10-in-defense-of-building-tools/index.html</loc>
-    <lastmod>2022-12-31T02:58:13.299Z</lastmod>
+    <loc>https://www.thescoop.org/archives/2011/03/06/what-apis-mean-for-data-journalists/index.html</loc>
+    <lastmod>2022-12-31T14:36:26.237Z</lastmod>
   </url>
   <url>
-    <loc>https://www.thescoop.org/archives/2011/2011-07-27-why-teach-sql/index.html</loc>
-    <lastmod>2022-12-31T02:58:14.293Z</lastmod>
+    <loc>https://www.thescoop.org/archives/2011/05/01/interviewing-data/index.html</loc>
+    <lastmod>2022-12-31T14:36:27.759Z</lastmod>
   </url>
   <url>
-    <loc>https://www.thescoop.org/archives/2011/2011-03-06-what-apis-mean-for-data-journalists/index.html</loc>
-    <lastmod>2022-12-31T02:58:15.306Z</lastmod>
+    <loc>https://www.thescoop.org/archives/2011/10/17/what-we-dont-know-about-elections/index.html</loc>
+    <lastmod>2022-12-31T14:36:29.266Z</lastmod>
   </url>
   <url>
-    <loc>https://www.thescoop.org/archives/2011/2011-05-01-interviewing-data/index.html</loc>
-    <lastmod>2022-12-31T02:58:16.303Z</lastmod>
+    <loc>https://www.thescoop.org/archives/2011/07/27/why-teach-sql/index.html</loc>
+    <lastmod>2022-12-31T14:36:30.721Z</lastmod>
   </url>
   <url>
-    <loc>https://www.thescoop.org/archives/2011/2011-10-17-what-we-dont-know-about-elections/index.html</loc>
-    <lastmod>2022-12-31T02:58:17.338Z</lastmod>
+    <loc>https://www.thescoop.org/archives/2011/08/10/in-defense-of-building-tools/index.html</loc>
+    <lastmod>2022-12-31T14:36:32.252Z</lastmod>
   </url>
   <url>
     <loc>https://www.thescoop.org/archives/2016/09/29/government-and-civic-tech/index.html</loc>
-    <lastmod>2022-12-31T02:58:18.450Z</lastmod>
+    <lastmod>2022-12-31T14:36:33.080Z</lastmod>
   </url>
   <url>
-    <loc>https://www.thescoop.org/archives/2005/2005-12-05-congressional-vote-database/index.html</loc>
-    <lastmod>2022-12-31T02:58:19.622Z</lastmod>
+    <loc>https://www.thescoop.org/archives/2005/05/18/xpdf-on-the-mac/index.html</loc>
+    <lastmod>2022-12-31T14:36:34.490Z</lastmod>
   </url>
   <url>
-    <loc>https://www.thescoop.org/archives/2005/2005-05-18-xpdf-on-the-mac/index.html</loc>
-    <lastmod>2022-12-31T02:58:21.072Z</lastmod>
+    <loc>https://www.thescoop.org/archives/2005/12/05/congressional-vote-database/index.html</loc>
+    <lastmod>2022-12-31T14:36:35.797Z</lastmod>
   </url>
   <url>
-    <loc>https://www.thescoop.org/archives/2002/2002-03-25-the-long-bet/index.html</loc>
-    <lastmod>2022-12-31T02:58:22.220Z</lastmod>
+    <loc>https://www.thescoop.org/archives/2002/03/25/the-long-bet/index.html</loc>
+    <lastmod>2022-12-31T14:36:37.166Z</lastmod>
+  </url>
+  <url>
+    <loc>https://www.thescoop.org/about/index.html</loc>
+    <lastmod>2022-12-31T14:36:37.669Z</lastmod>
+  </url>
+  <url>
+    <loc>https://www.thescoop.org/index.html</loc>
+    <lastmod>2022-12-31T14:36:38.571Z</lastmod>
+  </url>
+  <url>
+    <loc>https://www.thescoop.org/now/index.html</loc>
+    <lastmod>2022-12-31T14:36:39.163Z</lastmod>
+  </url>
+  <url>
+    <loc>https://www.thescoop.org/teaching/index.html</loc>
+    <lastmod>2022-12-31T14:36:39.711Z</lastmod>
+  </url>
+  <url>
+    <loc>https://www.thescoop.org/help/index.html</loc>
+    <lastmod>2022-12-31T14:36:40.194Z</lastmod>
+  </url>
+  <url>
+    <loc>https://www.thescoop.org/blog.html</loc>
+    <lastmod>2022-12-31T14:36:42.949Z</lastmod>
   </url>
 </urlset>

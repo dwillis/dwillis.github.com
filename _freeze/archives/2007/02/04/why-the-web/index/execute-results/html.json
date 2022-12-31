@@ -1,0 +1,18 @@
+{
+  "hash": "4e3ff06fa4158061436e21d7778844cf",
+  "result": {
+    "markdown": "---\ntitle: Why The Web\ndate: 2007-02-04\nauthor: \"Derek Willis\"\nformat:\n  html:\n    df-print: paged\n    toc: true\nengine: knitr\n---\n\n\nFriday was my last day as an employee of [The Washington Post](http://www.washingtonpost.com/regional) newspaper. As I told my newsroom colleagues, it's sort of a ludicrous thing for me to contemplate, since I barely imagined even _getting_ to a paper like The Post. I was lucky to attract the attention of my former boss, Bridget Roeber, who worked hard to create a position for me and to recruit me (not that that took much). And I owe my next job, as database editor at washingtonpost.com, to my time at The Post and the people there who let me explore my web tendencies. For a large media company, it is remarkably willing to try new things, and that's gives me a lot of hope for the future.\n\nThat said, there have been several of my colleagues who, when informed of my plans, responded with a single query and often an uncomprehending look: \"Why?\" To many of them, the creation of the journalism is the most important work, one that somehow gets lessened the further away from the newsroom one goes. It's a cultural thing, and I'm sure many website employees know what I'm talking about. But it doesn't make it any less urgent that we as an industry tackle this gap. It's one of the things I hope to be able to do at washingtonpost.com – be an example of how you can mix the newsroom and the website in a way that sustains and encourages both rather than takes from one to grow the other. Maybe the staffing ratios will grow increasingly even over time; maybe websites will have more of their \"own\" editorial employees. What's important is that the entire operation recognize that we succeed or fail together. It's not \"the paper or the web,\" but the journalism everywhere. And for me, that job starts tomorrow.\n",
+    "supporting": [],
+    "filters": [
+      "rmarkdown/pagebreak.lua"
+    ],
+    "includes": {
+      "include-in-header": [
+        "<link href=\"../../../../../site_libs/pagedtable-1.1/css/pagedtable.css\" rel=\"stylesheet\" />\n<script src=\"../../../../../site_libs/pagedtable-1.1/js/pagedtable.js\"></script>\n"
+      ]
+    },
+    "engineDependencies": {},
+    "preserve": {},
+    "postProcess": true
+  }
+}

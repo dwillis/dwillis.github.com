@@ -1,0 +1,18 @@
+{
+  "hash": "219b3edf0c1e7b054d192f6038b2680c",
+  "result": {
+    "markdown": "---\ntitle: A GitHub for Data?\ndate: 2010-07-31\nauthor: \"Derek Willis\"\nformat:\n  html:\n    df-print: paged\n    toc: true\nengine: knitr\n---\n\n\nClay Johnson, late of Sunlight Labs and now writing at the splendidly-named InfoVegan, says that what the \"Open Data\" movement needs is a better way to store data on the Web. Something [like a GitHub for data](http://infovegan.com/2010/07/30/github-for-data):\n\n    Why can I not type into a console gitdata install census-2010 or gitdata install census-2010 --format=mongodb and have everything I need to interface with the coming census data?\n\nTechnically, there's not much reason why this couldn't happen. Sure, some government datasets are very large, and some are in arcane and oddball formats, but these are technical problems that can be overcome. But the biggest issue, for data-driven apps contests and pretty much any other use of government data, is not that data isn't easy to store on the Web. It's that data is hard to understand, no matter where you get it.\n\nIn a sense, a GitHub for data could help solve this problem, too, because you can write documentation and many GitHub projects have [excellent documentation](http://github.com/jashkenas/coffee-script). But there also are projects with very limited documentation – heck, some of them are mine. This is the biggest gap to better apps, that so few people really understand the data and its pitfalls. I'd like to see what Clay wants to see, too, but right now I'm more interested in:\n\n    gitdata install census-2010\n\nIf the person executing that command is, say, [Paul Overberg](http://census.pewsocialtrends.org/2010/covering-census-2010-a-workshop-for-journalists).\n\nThat's not to say that I'm in favor of a situation where only those with expertise have access to data. What I'm saying is that the very act of what Clay describes as a hassle:\n\nA developer has to download some strange dataset off of a website like data.gov or the National Data Catalog, prune it, massage it, usually fix it, and then convert it to their database system of choice, and then they can start building their app.\n\nIs in fact what helps a user learn more about the dataset he or she is using. Even a well-documented dataset can have its quirks that show up only in the data itself, and the act of importing often reveals more about the data than the documentation does. We need to import, prune, massage, convert. It's how we learn.",
+    "supporting": [],
+    "filters": [
+      "rmarkdown/pagebreak.lua"
+    ],
+    "includes": {
+      "include-in-header": [
+        "<link href=\"../../../../../site_libs/pagedtable-1.1/css/pagedtable.css\" rel=\"stylesheet\" />\n<script src=\"../../../../../site_libs/pagedtable-1.1/js/pagedtable.js\"></script>\n"
+      ]
+    },
+    "engineDependencies": {},
+    "preserve": {},
+    "postProcess": true
+  }
+}

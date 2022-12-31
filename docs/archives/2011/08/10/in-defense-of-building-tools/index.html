@@ -1,0 +1,356 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
+
+<meta charset="utf-8">
+<meta name="generator" content="quarto-1.2.269">
+
+<meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
+
+<meta name="author" content="Derek Willis">
+<meta name="dcterms.date" content="2011-10-17">
+
+<title>Derek Willis - In Defense of Building Tools</title>
+<style>
+code{white-space: pre-wrap;}
+span.smallcaps{font-variant: small-caps;}
+div.columns{display: flex; gap: min(4vw, 1.5em);}
+div.column{flex: auto; overflow-x: auto;}
+div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
+ul.task-list{list-style: none;}
+ul.task-list li input[type="checkbox"] {
+  width: 0.8em;
+  margin: 0 0.8em 0.2em -1.6em;
+  vertical-align: middle;
+}
+</style>
+
+
+<script src="../../../../../site_libs/quarto-nav/quarto-nav.js"></script>
+<script src="../../../../../site_libs/quarto-nav/headroom.min.js"></script>
+<script src="../../../../../site_libs/clipboard/clipboard.min.js"></script>
+<script src="../../../../../site_libs/quarto-search/autocomplete.umd.js"></script>
+<script src="../../../../../site_libs/quarto-search/fuse.min.js"></script>
+<script src="../../../../../site_libs/quarto-search/quarto-search.js"></script>
+<meta name="quarto:offset" content="../../../../../">
+<script src="../../../../../site_libs/quarto-html/quarto.js"></script>
+<script src="../../../../../site_libs/quarto-html/popper.min.js"></script>
+<script src="../../../../../site_libs/quarto-html/tippy.umd.min.js"></script>
+<script src="../../../../../site_libs/quarto-html/anchor.min.js"></script>
+<link href="../../../../../site_libs/quarto-html/tippy.css" rel="stylesheet">
+<link href="../../../../../site_libs/quarto-html/quarto-syntax-highlighting.css" rel="stylesheet" id="quarto-text-highlighting-styles">
+<script src="../../../../../site_libs/bootstrap/bootstrap.min.js"></script>
+<link href="../../../../../site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
+<link href="../../../../../site_libs/bootstrap/bootstrap.min.css" rel="stylesheet" id="quarto-bootstrap" data-mode="light">
+<script id="quarto-search-options" type="application/json">{
+  "location": "navbar",
+  "copy-button": false,
+  "collapse-after": 3,
+  "panel-placement": "end",
+  "type": "overlay",
+  "limit": 20,
+  "language": {
+    "search-no-results-text": "No results",
+    "search-matching-documents-text": "matching documents",
+    "search-copy-link-title": "Copy link to search",
+    "search-hide-matches-text": "Hide additional matches",
+    "search-more-match-text": "more match in this document",
+    "search-more-matches-text": "more matches in this document",
+    "search-clear-button-title": "Clear",
+    "search-detached-cancel-button-title": "Cancel",
+    "search-submit-button-title": "Submit"
+  }
+}</script>
+
+<link href="../../../../../site_libs/pagedtable-1.1/css/pagedtable.css" rel="stylesheet">
+<script src="../../../../../site_libs/pagedtable-1.1/js/pagedtable.js"></script>
+
+
+<meta name="twitter:title" content="Derek Willis - In Defense of Building Tools">
+<meta name="twitter:description" content="My first job in Web development was as a member of washingtonpost.com’s “Tools Team.” I was, in title if not in practice, a Tool.">
+<meta name="twitter:creator" content="@derekwillis">
+<meta name="twitter:card" content="summary">
+</head>
+
+<body class="nav-sidebar docked nav-fixed">
+
+<div id="quarto-search-results"></div>
+  <header id="quarto-header" class="headroom fixed-top">
+    <nav class="navbar navbar-expand-lg navbar-dark ">
+      <div class="navbar-container container-fluid">
+      <div class="navbar-brand-container">
+    <a href="../../../../../index.html" class="navbar-brand navbar-brand-logo">
+    <img src="../../../../../images/dwillis.png" alt="" class="navbar-logo">
+    </a>
+    <a class="navbar-brand" href="../../../../../index.html">
+    <span class="navbar-title">Derek Willis</span>
+    </a>
+  </div>
+          <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarCollapse" aria-controls="navbarCollapse" aria-expanded="false" aria-label="Toggle navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">
+  <span class="navbar-toggler-icon"></span>
+</button>
+          <div class="collapse navbar-collapse" id="navbarCollapse">
+            <ul class="navbar-nav navbar-nav-scroll me-auto">
+  <li class="nav-item compact">
+    <a class="nav-link" href="../../../../../blog.xml"><i class="bi bi-rss" role="img" aria-label="feed">
+</i> 
+ <span class="menu-text"></span></a>
+  </li>  
+</ul>
+              <div id="quarto-search" class="" title="Search"></div>
+          </div> <!-- /navcollapse -->
+      </div> <!-- /container-fluid -->
+    </nav>
+  <nav class="quarto-secondary-nav" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar" aria-controls="quarto-sidebar" aria-expanded="false" aria-label="Toggle sidebar navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">
+    <div class="container-fluid d-flex justify-content-between">
+      <h1 class="quarto-secondary-nav-title">In Defense of Building Tools</h1>
+      <button type="button" class="quarto-btn-toggle btn" aria-label="Show secondary navigation">
+        <i class="bi bi-chevron-right"></i>
+      </button>
+    </div>
+  </nav>
+</header>
+<!-- content -->
+<header id="title-block-header" class="quarto-title-block default page-columns page-full">
+  <div class="quarto-title-banner page-columns page-full">
+    <div class="quarto-title column-body">
+      <h1 class="title d-none d-lg-block">In Defense of Building Tools</h1>
+                      </div>
+  </div>
+    
+  
+  <div class="quarto-title-meta">
+
+      <div>
+      <div class="quarto-title-meta-heading">Author</div>
+      <div class="quarto-title-meta-contents">
+               <p>Derek Willis </p>
+            </div>
+    </div>
+      
+      <div>
+      <div class="quarto-title-meta-heading">Published</div>
+      <div class="quarto-title-meta-contents">
+        <p class="date">October 17, 2011</p>
+      </div>
+    </div>
+    
+      
+    </div>
+    
+  
+  </header><div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-article page-navbar">
+<!-- sidebar -->
+  <nav id="quarto-sidebar" class="sidebar collapse sidebar-navigation docked overflow-auto">
+        <div class="sidebar-tools-main tools-wide">
+    <a href="https://twitter.com/derekwillis" title="" class="sidebar-tool px-1"><i class="bi bi-twitter"></i></a>
+    <a href="https://newsie.social/@derekwillis" title="" class="sidebar-tool px-1"><i class="bi bi-mastodon"></i></a>
+    <a href="https://github.com/dwillis" title="" class="sidebar-tool px-1"><i class="bi bi-github"></i></a>
+</div>
+    <div class="sidebar-menu-container"> 
+    <ul class="list-unstyled mt-1">
+        <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../../../../../about" class="sidebar-item-text sidebar-link">About</a>
+  </div>
+</li>
+        <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../../../../../now" class="sidebar-item-text sidebar-link">Now</a>
+  </div>
+</li>
+        <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../../../../../then" class="sidebar-item-text sidebar-link">Then</a>
+  </div>
+</li>
+        <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../../../../../help" class="sidebar-item-text sidebar-link">Ways I Can Help</a>
+  </div>
+</li>
+        <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../../../../../thefix" class="sidebar-item-text sidebar-link">The Fix</a>
+  </div>
+</li>
+        <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../../../../../blog.html" class="sidebar-item-text sidebar-link">Blog</a>
+  </div>
+</li>
+        <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../../../../../teaching" class="sidebar-item-text sidebar-link">Teaching</a>
+  </div>
+</li>
+    </ul>
+    </div>
+</nav>
+<!-- margin-sidebar -->
+    <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
+        
+    </div>
+<!-- main -->
+<main class="content quarto-banner-title-block" id="quarto-document-content">
+
+
+
+
+<p>My first job in Web development was as a member of washingtonpost.com’s “Tools Team.” I was, in title if not in practice, a Tool.</p>
+<p>Done snickering? Let’s move on.</p>
+<p>The Tools Team built mostly internal applications and services that helped the Web site run better. I mainly got to work on front-facing projects like the <a href="http://projects.washingtonpost.com/congress/112/">Congress Votes Database</a>, the <a href="http://projects.washingtonpost.com/2008-presidential-candidates/">2008 presidential campaign</a> and an innovative series on <a href="http://projects.washingtonpost.com/fec/specials/cassidy/">lobbyist Gerald Cassidy</a>. But I did work on a few internal tools, and since I joined The Times in late 2007 I’ve built a few more. I’ve found that such tools are not so different from what we now consider to be journalism by Web development. Chosen wisely and done well, they can have impacts that go far beyond a single story or series. We should not <a href="https://twitter.com/hbillings/status/101391263248560128">dismiss them as “not journalism</a>.”</p>
+<p>If you’re at the geekier end of the journalism spectrum, then chances are your colleagues know about the stuff you can do. They may not understand it or be able to explain it; a former managing editor of mine, when told about the various technical steps to accomplish something useful, would invariably respond with a touch of wonder: “Fuckin’ Internet!” You can explain your work to a decent percentage of your colleagues by invoking Harry Potter or the Lord of the Rings and leave it at that.</p>
+<p>But that doesn’t mean that building tools that can be used by broad segments of the newsroom is a one-way street or has to lead to a divide between you and the other journalists. There will be people in every newsroom who mainly take and rarely give, and in those situations being a technologist is no different from being a clerk. Good tools, like good apps, are a product of collaboration and improve the ability of the newsroom in general. They also make for more and better apps.</p>
+<p>Case in point: At The Times we have an <a href="http://politics.nytimes.com/congress/">Inside Congress app</a> that displays information about votes and bills in Congress. The tool that underlies that app is enormous – it has tons more information, and we’re working to surface more and more of it. But the tool – an internal interface – has uses for our congressional reporters, our graphics editors and for me as a developer. I can point a reporter to the vote record comparison tool instead of having to run a database query or, worse, asking someone else to manually recreate something. We use the tool as a sort of canary in the mine to alert us to odd or interesting events, from committee assignment changes to bill sponsorship withdrawals to unusual voting patterns. In some cases, having the data internally has led to improvements in the app itself, such as our “<a href="http://politics.nytimes.com/congress/bills/111/hr3590/amendments">key amendments</a>” pages for certain bills. I didn’t think of that, but someone else who saw the internal tool did, and we built it together.</p>
+<p>Perhaps most important to me as a developer, building the internal tool has broadened the number of people I work with and has given me a range of ideas for making apps easier to build and better. Not all of them pan out, but <a href="http://www.nytimes.com/interactive/2010/07/07/us/politics/20100707-kagan-vote-tracker.html">some of them do</a>. Put another way: the tool actually helps me develop closer working relationships with my colleagues.</p>
+<p>A good tool doesn’t just make it easier for a reporter to create a story. It actually seeds the story, or makes it possible for more people in a newsroom to collaborate. When you have data but no tool, you become a gatekeeper of a sorts – which is appropriate in many circumstances, but not all. I can’t possibly know what my colleagues are thinking about, considering or being alerted to, but I can make it easier for them to test out theories and do some exploration on their own. Some of them prefer to do their own work, and we certainly miss some opportunities for apps that way. But others consult with me quite a bit, since they now have a much better idea of what we have and what we might be able to do with it.</p>
+<p>Skeptics might respond that there is a difference between tools built around journalistic content, like the Congress app, and those that “merely” solve a technical problem. This is a short-sighted argument. What we do as builders of Web applications (external or internal) is informed by everything we touch. Pulling a piece of one tool for use someplace else is a useful technique because it <a href="https://twitter.com/yurivictor/status/101419578936147968">reinforces the value of not repeating yourself</a> and because it sometimes enables you to look at an old problem or situation from a new vantage point.</p>
+<p>Back at washingtonpost.com, my former colleague <a href="http://www.holovaty.com/">Adrian Holovaty</a> liked to say that we didn’t build internal versions of our apps because the public version was the internal version. Fair enough, to a point, but I think that line can veer into the <a href="http://www.mattwaite.com/posts/2008/jan/03/data-ghettos/">data ghetto</a> when not rigidly policed.</p>
+<p>Most of my colleagues, I’m confident, have very little idea what it is that I specifically do. Sometimes I spend the time educating, and sometimes I let our tools help with the evangelization process. However they see my work, I’m pretty happy as long as it contributes to our journalism together. App developer? Sure. Tool maker? Why not. Labels don’t interest me much, and most of my colleagues don’t seem to care. The results – the journalism – are what matter.</p>
+
+
+
+</main> <!-- /main -->
+<script id="quarto-html-after-body" type="application/javascript">
+window.document.addEventListener("DOMContentLoaded", function (event) {
+  const toggleBodyColorMode = (bsSheetEl) => {
+    const mode = bsSheetEl.getAttribute("data-mode");
+    const bodyEl = window.document.querySelector("body");
+    if (mode === "dark") {
+      bodyEl.classList.add("quarto-dark");
+      bodyEl.classList.remove("quarto-light");
+    } else {
+      bodyEl.classList.add("quarto-light");
+      bodyEl.classList.remove("quarto-dark");
+    }
+  }
+  const toggleBodyColorPrimary = () => {
+    const bsSheetEl = window.document.querySelector("link#quarto-bootstrap");
+    if (bsSheetEl) {
+      toggleBodyColorMode(bsSheetEl);
+    }
+  }
+  toggleBodyColorPrimary();  
+  const icon = "";
+  const anchorJS = new window.AnchorJS();
+  anchorJS.options = {
+    placement: 'right',
+    icon: icon
+  };
+  anchorJS.add('.anchored');
+  const clipboard = new window.ClipboardJS('.code-copy-button', {
+    target: function(trigger) {
+      return trigger.previousElementSibling;
+    }
+  });
+  clipboard.on('success', function(e) {
+    // button target
+    const button = e.trigger;
+    // don't keep focus
+    button.blur();
+    // flash "checked"
+    button.classList.add('code-copy-button-checked');
+    var currentTitle = button.getAttribute("title");
+    button.setAttribute("title", "Copied!");
+    let tooltip;
+    if (window.bootstrap) {
+      button.setAttribute("data-bs-toggle", "tooltip");
+      button.setAttribute("data-bs-placement", "left");
+      button.setAttribute("data-bs-title", "Copied!");
+      tooltip = new bootstrap.Tooltip(button, 
+        { trigger: "manual", 
+          customClass: "code-copy-button-tooltip",
+          offset: [0, -8]});
+      tooltip.show();    
+    }
+    setTimeout(function() {
+      if (tooltip) {
+        tooltip.hide();
+        button.removeAttribute("data-bs-title");
+        button.removeAttribute("data-bs-toggle");
+        button.removeAttribute("data-bs-placement");
+      }
+      button.setAttribute("title", currentTitle);
+      button.classList.remove('code-copy-button-checked');
+    }, 1000);
+    // clear code selection
+    e.clearSelection();
+  });
+  function tippyHover(el, contentFn) {
+    const config = {
+      allowHTML: true,
+      content: contentFn,
+      maxWidth: 500,
+      delay: 100,
+      arrow: false,
+      appendTo: function(el) {
+          return el.parentElement;
+      },
+      interactive: true,
+      interactiveBorder: 10,
+      theme: 'quarto',
+      placement: 'bottom-start'
+    };
+    window.tippy(el, config); 
+  }
+  const noterefs = window.document.querySelectorAll('a[role="doc-noteref"]');
+  for (var i=0; i<noterefs.length; i++) {
+    const ref = noterefs[i];
+    tippyHover(ref, function() {
+      // use id or data attribute instead here
+      let href = ref.getAttribute('data-footnote-href') || ref.getAttribute('href');
+      try { href = new URL(href).hash; } catch {}
+      const id = href.replace(/^#\/?/, "");
+      const note = window.document.getElementById(id);
+      return note.innerHTML;
+    });
+  }
+  const findCites = (el) => {
+    const parentEl = el.parentElement;
+    if (parentEl) {
+      const cites = parentEl.dataset.cites;
+      if (cites) {
+        return {
+          el,
+          cites: cites.split(' ')
+        };
+      } else {
+        return findCites(el.parentElement)
+      }
+    } else {
+      return undefined;
+    }
+  };
+  var bibliorefs = window.document.querySelectorAll('a[role="doc-biblioref"]');
+  for (var i=0; i<bibliorefs.length; i++) {
+    const ref = bibliorefs[i];
+    const citeInfo = findCites(ref);
+    if (citeInfo) {
+      tippyHover(citeInfo.el, function() {
+        var popup = window.document.createElement('div');
+        citeInfo.cites.forEach(function(cite) {
+          var citeDiv = window.document.createElement('div');
+          citeDiv.classList.add('hanging-indent');
+          citeDiv.classList.add('csl-entry');
+          var biblioDiv = window.document.getElementById('ref-' + cite);
+          if (biblioDiv) {
+            citeDiv.innerHTML = biblioDiv.innerHTML;
+          }
+          popup.appendChild(citeDiv);
+        });
+        return popup.innerHTML;
+      });
+    }
+  }
+});
+</script>
+</div> <!-- /content -->
+<footer class="footer">
+  <div class="nav-footer">
+    <div class="nav-footer-left">© Copyright 2022 Derek Willis. Published using Quarto.</div>   
+  </div>
+</footer>
+
+
+
+</body></html>

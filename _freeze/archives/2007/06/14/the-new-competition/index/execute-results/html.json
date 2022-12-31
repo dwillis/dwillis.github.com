@@ -1,0 +1,18 @@
+{
+  "hash": "7550c3bf34492bf0aa8e4233ad895f3e",
+  "result": {
+    "markdown": "---\ntitle: The New Competition\ndate: 2007-06-14\nauthor: \"Derek Willis\"\nformat:\n  html:\n    df-print: paged\n    toc: true\nengine: knitr\n---\n\n\nBack when we launched the [Congress Votes Database](http://projects.washingtonpost.com/congress/) in late 2005, it had only a few contemporaries, including the excellent [GovTrack](http://www.govtrack.us/). Now the field is getting pretty crowded, and that's a good thing for readers interested in federal legislation and how Congress works. [The Sunlight Foundation](http://sunlightfoundation.com/) in particular is responsible for jump-starting activity in this arena by funding individuals and organizations and also building its own tools. The latest, [LOUIS](http://gsublog.govst.edu/mt/librarynews/archives/2007/06/louisdborg.html), is an aggregator of federal legislative documents, which is a fairly robust challenge to those businesses that provide legislative tracking. If this kind of thing doesn't worry journalists, it should.\n\nWeb apps like these should cause some consternation among editors and reporters, since ultimately we're competing for readers' attention in niche areas. I know Sunlight's work has pushed us to add features to the votes database, and that benefits readers in the end. But news organizations shouldn't forget that they have advantages of their own: expertise and knowledge among staffers and the ability to integrate quality content with data. We just have to recognize the competitive threat and respond do it.\n\nFor awhile now I've been telling folks that apps like Facebook – as non-newsy as it can be compared to a paper – are now part of our competitive space, and not just for hits and eyeballs. They are not the only competition, and we shouldn't ignore other news outlets or journalistic efforts. But it's way past the time for us to be dismissing niche Web apps as irrelevant to our jobs.",
+    "supporting": [],
+    "filters": [
+      "rmarkdown/pagebreak.lua"
+    ],
+    "includes": {
+      "include-in-header": [
+        "<link href=\"../../../../../site_libs/pagedtable-1.1/css/pagedtable.css\" rel=\"stylesheet\" />\n<script src=\"../../../../../site_libs/pagedtable-1.1/js/pagedtable.js\"></script>\n"
+      ]
+    },
+    "engineDependencies": {},
+    "preserve": {},
+    "postProcess": true
+  }
+}
