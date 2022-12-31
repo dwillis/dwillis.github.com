@@ -4,7 +4,7 @@ title: Projects
 permalink: /projects/
 ---
 
-Here are list of data and software projects that I'm working on or have worked on in the past. Consider these side projects.
+Here is a list of data and software projects that I'm working on or have worked on in the past. Consider these side projects.
 
 ### [OpenElections](http://www.openelections.net)
 
