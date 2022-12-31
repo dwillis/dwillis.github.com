@@ -1,0 +1,18 @@
+{
+  "hash": "ce14826612b46a604629fc87fbb368ed",
+  "result": {
+    "markdown": "---\ntitle: Congressional Data on GitHub - A Way Forward\ndate: 2012-10-15\nauthor: \"Derek Willis\"\nformat:\n  html:\n    df-print: paged\n    toc: true\nengine: knitr\n---\n\n\nTwo years ago, there was a round of blog posts [touched off by Clay Johnson](http://infovegan.com/2010/07/30/github-for-data) that asked, \"Why shouldn’t there be a GitHub for data?\" [My own view at the time](http://blog.thescoop.org/archives/2010/07/31/a-github-for-data/) was that availability of the data wasn’t as much an issue as smart usage and documentation of it:\n\n  We need to import, prune, massage, convert. It’s how we learn.\n\nTurns out that GitHub actually makes this easier, and I’ve had a conversion of sorts to the idea of putting data in version control systems that make it easier to view, download and report issues with data. The biggest factor in this change is the work that [Eric Mill](http://sunlightfoundation.com/people/emill/), [Joshua Tauberer](http://www.civicimpulse.com/) and I (in order of effort put forth) have done on [scrapers to collect legislative data from the Library of Congress THOMAS site](https://github.com/unitedstates/congress).\n\nWhen we first started discussing the idea, it seemed like a great way to avoid duplication of efforts; all of us scrape THOMAS for various reasons and information, and we all have gained some expertise in doing so. That we should then maintain our own systems, or at the least not share our experiences, makes little sense. (Yes, I agree that in an ideal situation none of this should be necessary, but it is.)\n\nBut the very act of collaborating on this project has led to really useful things. Josh produced [a YAML file of every member of Congress](https://github.com/unitedstates/congress-legislators) that included an ID used by THOMAS that I had used in my scrapers at The New York Times but the others had not. In scraping bills from years that I had chosen not to tackle, Eric found some quirks in legislative data that I never imagined, much less encountered. The sum of the whole, then, is indeed greater than its parts.\n\nScraping is, for me at least, an activity that can encourage an “ends justify the means” mentality – since few people will ever see the code, it’s too easy for me to settle for the “good enough” marker. But having more eyes on both the scrapers and the resulting data means that people can spot inefficiencies or edge cases that can be the bane of scraper maintenance. And it enforces a bit more discipline; even if I do continue to maintain my own scrapers, they need to produce at least the same data as [these files do](https://github.com/unitedstates/congress/tree/master/tasks). It’s good to have a standard.\n\nEric and Josh deserve a ton of credit for spearheading this effort, and I’m excited to see this repository grow to include not only other congressional information from THOMAS and [the new Congress.gov site](http://beta.congress.gov/), but also related data from other sources. That this is already happening only shows me that for common government data this is a great way to go.",
+    "supporting": [],
+    "filters": [
+      "rmarkdown/pagebreak.lua"
+    ],
+    "includes": {
+      "include-in-header": [
+        "<link href=\"../../site_libs/pagedtable-1.1/css/pagedtable.css\" rel=\"stylesheet\" />\n<script src=\"../../site_libs/pagedtable-1.1/js/pagedtable.js\"></script>\n"
+      ]
+    },
+    "engineDependencies": {},
+    "preserve": {},
+    "postProcess": true
+  }
+}

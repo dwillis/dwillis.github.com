@@ -1,0 +1,29 @@
+---
+title: On Vengeance
+date: '2012-12-15T15:46:00-05:00'
+author: "Derek Willis"
+format:
+  html:
+    df-print: paged
+    toc: true
+engine: knitr
+tags: []
+---
+I was 23 years old when I saw someone die, and my first thought about it is that I don’t recommend the experience.
+
+The second thought I have about it is that maybe I do recommend it. I witnessed the execution of Roy Allen Stewart - a name I will never forget - because I was writing a story about the death penalty. At the time Gainesville, Florida, was gripped by the upcoming trial of Danny Rolling, who ultimately confessed to the murders of five students in 1990. The death penalty seemed a likely outcome for Rolling (he was put to death in 2006), so I took the opportunity to witness the electrocution of Stewart in order to better understand the process.
+
+When people ask, as they often do after murders, how anyone could bring themselves to kill another person, I think I might know an answer, and only because I was watching when Stewart was put to death.
+The entire event, from pre-dawn briefing at the state prison in Starke to the mid-morning breakfast at Hardee’s with Associated Press reporter Ron Word, was so clinical it seemed as if I was watching a movie, not an actual event. The coldness, the removal of humanity, was so overwhelming that it was not only possible, but likely, that you literally begin to think that it really wasn’t another person being killed that day. At least, not a person like you.
+
+There was little public outcry about Stewart’s case; the victim, Margaret Haislip, had no immediate family and the only people connected to the case who were at Florida State Prison were two officers from the Miami-Dade police who worked the case. Stewart was not a sympathetic figure; he made no statements nor begged for mercy. He showed very little emotion; a priest who had been with him told reporters that Stewart had been more prepared for his own death “than I am for mine.” As he spoke, a truck drove by the prison and a man leaned out the window, shouting: “One less!”
+
+It was an entirely depressing and disturbing day. Not because Stewart wasn’t guilty or didn’t deserve punishment, but because of what the process of death does to everyone involved.
+
+What I took away from Stewart’s execution is that even when we cry out for retribution, for vengeance, sometimes it will elude us. Sometimes what we get is relief, which is not the same idea at all. Sometimes we get nothing.
+
+I cannot imagine what those families in Connecticut are feeling, and I would not blame them at all for wanting to exact a price on anyone connected to the murders of their loved ones. I didn’t live in Gainesville in 1990, but after seeing the pictures from the murder scenes of Sonya Larson, Christina Powell, Christa Hoyt, Tracy Paules and Manny Taboada, I had no doubt that Rolling had forfeited any right to live. But his death brought no feeling to me at all, and I am not proud of that.
+
+I remain ambivalent about the death penalty, but I believe this: whatever we do as a society to make it easier for one person to kill another - and there are many ways of doing that - will lead us away from being the kind of people we like to see ourselves as. Whatever we do in the name of vengeance, we do to our collective conscience.
+
+The trouble is, I know that I’d have a lot of trouble adhering to my own counsel were it my child, or my wife. This is why we need each other, and why there are no simple fixes.

@@ -1,0 +1,18 @@
+{
+  "hash": "630e9f050da20018e3d2b2c8472d4df9",
+  "result": {
+    "markdown": "---\ntitle: Lightning Talks at NICAR\ndate: 2010-02-18\nauthor: \"Derek Willis\"\nformat:\n  html:\n    df-print: paged\n    toc: true\nengine: knitr\n---\n\n\nThis year's [computer-assisted reporting conference in Phoenix](http://web.archive.org/web/20100419140904/http://data.nicar.org/CAR2010/) has a couple of new sessions on the schedule. [One of them](http://web.archive.org/web/20100419140904/http://data.nicar.org/node/3766) is an idea a couple of us have been pushing for a few years: [lightning talks](http://en.wikipedia.org/wiki/Lightning_Talk).\n\nA staple of technical conferences, lightning talks are based on the notion that while 45-50 minutes presentations are good, sometimes you only need about 5 minutes to express an idea or show off an example of something interesting or useful. And I'm pretty sure, based on sessions at the hotel bar at past conferences, that there are plenty of ideas out there. Attracting and organizing them is the goal of [this app](http://ire.aronpilhofer.com/) built by my boss, Aron Pilhofer, and launched today.\n\nThis is a new thing for the CAR community, but I think it could be a useful way to draw out ideas from people who aren't doing panels or who might shrink from a 50-minute session. So let's get started. Want to give a talk?",
+    "supporting": [],
+    "filters": [
+      "rmarkdown/pagebreak.lua"
+    ],
+    "includes": {
+      "include-in-header": [
+        "<link href=\"../../site_libs/pagedtable-1.1/css/pagedtable.css\" rel=\"stylesheet\" />\n<script src=\"../../site_libs/pagedtable-1.1/js/pagedtable.js\"></script>\n"
+      ]
+    },
+    "engineDependencies": {},
+    "preserve": {},
+    "postProcess": true
+  }
+}

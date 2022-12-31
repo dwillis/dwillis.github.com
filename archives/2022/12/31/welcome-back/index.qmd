@@ -1,0 +1,17 @@
+---
+title: Welcome Back
+description: A new beginning, but not entirely.
+date: 2022-12-31
+author: "Derek Willis"
+format:
+  html:
+    df-print: paged
+    toc: true
+engine: knitr
+---
+
+It feels like a good time to start writing again, but this isn't a totally fresh start. As I've tried to de-emphasize the time and attention that I've given to Twitter over the past few years, I realized that I still have things that I want to talk about. I don't have a newsletter, or a podcast. But since 1998 or so, I have had a blog, and that's what I'm coming back to.
+
+I've rebuilt this site to combine what used to be "here" on thescoop.org and some of what had been sitting around in other places. There are and will be more personal posts here, but the focus will be on what I like to write about: the combination of data, journalism and learning. Since joining the faculty at [Merrill College](https://merrill.umd.edu/), I've had so many questions and discussions with my colleagues near and far about teaching: what works and doesn't, and what we could try. So there will be a fair bit of that here.
+
+The move to academia also has given me a bit more freedom in terms of what I can say about this profession and how it is changing. I've spent the past year learning R and with this rebuild I'm able to share code in a way that hopefully is more useful, too. 

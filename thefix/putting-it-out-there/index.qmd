@@ -1,0 +1,28 @@
+---
+title: Putting It Out There
+date: "2006-04-15"
+author: "Derek Willis"
+format:
+  html:
+    df-print: paged
+    toc: true
+engine: knitr
+---
+
+_Seventh in a series of essays humbly titled "Fixing Journalism". First posted on April 15, 2006._
+
+Recently I invited my washingtonpost.com colleague Adrian Holovaty to speak to the computer-assisted reporting class I teach at George Washington University. As I expected, he made a big impression with the students; here was a guy who did journalism that had obvious value and appeal, yet he didn't write a single story. After he left, one of the students told me that he was the first guest speaker in three years of journalism classes who had left an impression that there was reason for optimism about the future of the industry.
+
+Adrian's philosophy, if I can be so bold as to attempt to restate it, is to think about what kind of information people would want to look at and to provide it for them in the form of database-backed web sites. Browsable data isn't the first thing you think of when journalism is the topic, and it probably won't ever be the first thing. But it's creeping up there, and the pressure isn't coming from within newsrooms.
+
+Among the changes that technology has given us, few may be as influential in the long-term as the irresistible movement forcing news organizations to open up. I've previously written that we need to open up to each other, and broaden lines of communication with our readers. We also need to turn what is the thin copper line represented by the daily newspaper into the broadband pipe that can carry more information than we could ever hope to package into a single paper.
+
+There's a bit of schizophrenia as newspapers in particular struggle with two seemingly conflicting goals: to produce the best daily paper while also creating and maintaining a web site that offers readers reasons to stick around after they've finished with the news. Breaking news or evergreen features? [Daily congressional coverage](http://www.washingtonpost.com/wp-dyn/content/politics/congress/index.html) or a [congressional votes database](http://projects.washingtonpost.com/congress/)? The truth is, this is not a choice we can afford to make. We have to do both, or as much of both as we can manage. This is the key part of [the memo sent to Miami Herald staffers](http://www.macloo.com/journalism/miami_herald_memo.txt) by that paper's top editor, Tom Fiedler:
+
+  Every job in the newsroom — EVERY JOB — is going to be redefined to include a web responsibility and, if appropriate, radio. For news gatherers, this means posting everything we can as soon as we can. It means using the web site to its fullest potential for text, audio and video.
+
+Vision: good. Now, what about execution? In order to use the web site "to its fullest potential," newspapers have to approach information the way that Google does: automate as much as you can. To be clear, I'm not talking about automated news or robot editors making decisions. What I mean is delivering a consistent flow of information that needs as little human intervention as possible. For if we are to develop the kind of websites that demand and retain attention, we'll need to make sure that they, like our readers, are always on, always fresh. If a reader can go someplace else to get the newest details of home sales in their area, why would they come back to the paper's site? Such automation is, to me, perhaps the most important facet of Adrian's work, and one that is only appreciated by a small percentage of newsroom leaders. As important as the features provided to readers by database-driven web applications are, the automated aspect is very important.
+
+The technical side of this challenge is something that we can control and get right, but we don't have the luxury of time. As an industry, we've spent some time making mistakes, and that's a good thing for us as long as we learn from them. But we don't have forever; nimble and automated upstarts like [Newsvine](http://www.newsvine.com/) may not cause journalists to quiver now, but they or their successors will eventually get it right and take away more of the audience that should be ours.
+
+The change necessary to make this happen requires not only technical expertise, but also the recognition by newspaper folks that the work we do online is not supplemental, but elemental to our success. This cultural shift is probably a more difficult hurdle than any technical task, but it's one that needs to happen. As Fiedler wrote: "We'll come to appreciate that MiamiHerald.com is not an appendage of the newsroom; itss a fundamental product of the newsroom." The question, for all of us, is how soon that realization takes place. The clock is ticking.

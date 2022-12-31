@@ -1,0 +1,44 @@
+---
+title: The NICAR-L Improvement Project
+date: '2019-02-24'
+author: "Derek Willis"
+format:
+  html:
+    df-print: paged
+    toc: true
+engine: knitr
+---
+
+If you're coming to the [2019 CAR Conference](https://www.ire.org/events-and-training/conferences/nicar-2019) in March, chances are you're a member of the [NICAR-L listserv](https://www.ire.org/resource-center/listservs/subscribe-to-nicar-l). The only session idea I pitched this year was on [how to make the listserv better](https://www.ire.org/events-and-training/event/3433/4362/), and I'd love your help.
+
+Listservs are fascinating social experiments. People join, ask questions of strangers and then hopefully through discussion become fuller members of a community. When it works, it's one of the best things about the Internet. When it doesn't, the whole point of a listserv - the sharing of knowledge - falls apart. NICAR-L is no different from any other listserv, but because IRE is a member-driven organization, we've got a chance to make real improvements using the skills we have.
+
+If you've been a member of NICAR-L as long as I have -- since at least 1997, as near as I can figure -- then you know how much it has changed. There are many more people on it now, which is really great. Interest in our little corner of the journalism world has grown and people want to figure out how we do what we do. That growth naturally brings some challenges with it.
+
+Here's one example: about six years ago I made a new Gmail label: "Best of NICAR". That was my way of dealing with a listserv that, in my view, suffered from a lot of repeat questions and the loss of shared understanding that can happen when a community experiences rapid growth. I know that I interact less on the listserv, and I'm pretty sure I'm not alone in that.
+
+To be very clear: NICAR-L's growth is itself a very good thing, particularly in that it has brought different voices into our community with different ideas and problems. When I joined IRE, the CAR conference was attended by 300-400 people, mostly white men with very similar interests and backgrounds. Many of the questions on the listserv were ones that a lot of us had in our minds, which made the conversation "easier" if not better.
+
+We cannot and should not attempt to return to the time when most CAR conference attendees knew of each other (or actually knew each other). We should try to have a listserv that provides the kind of guidance and community that I was fortunate to have as a younger journalist.
+
+The CAR conference session this year is pretty vaguely defined, and there's a limit to what we can accomplish in an hour. That's why I'm writing this, to put forth my hopes and (this being the CAR conference) some data we can use. This isn't a fixed road map, just a starting point.
+
+Some possible goals:
+
+* Making the most useful posts and threads easier to find.
+* Creating a categorization scheme of some kind, or adapting an existing one.
+* Making it possible for users to provide feedback on the usefulness of posts.
+* A better UI for the listserv archive.
+* Making it easier to find answers to common questions.
+
+Many of these would require a separate web app, and while IRE has been extremely encouraging of this effort, I think it's difficult to expect the organization to, say, redirect money dedicated to newsroom trainings towards listserv improvement. What might make such improvements more likely is the active involvement of IRE members. That's where you come in.
+
+IRE has very helpfully provided listserv archives from 2002 to the end of 2018. We'll make those available to session attendees, although I'm not posting them on the Internet. As a starter, however, I've [posted on GitHub](https://github.com/dwillis/nicarl-archives) a basic Python parser and metadata from each of the postings.
+
+Some possible questions to explore:
+
+* Can we identify valuable or interesting threads?
+* Can we identify common questions repeated often?
+* Are there categorization schemes we can apply to posts or even post metadata?
+
+What else can we do to make NICAR-L better? Feel free to add an issue on the GitHub repository or even post a thread on the listserv!

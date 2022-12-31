@@ -1,0 +1,20 @@
+---
+title: Caspio's Lessons
+date: 2008-06-29
+author: "Derek Willis"
+format:
+  html:
+    df-print: paged
+    toc: true
+engine: knitr
+---
+
+Been awhile since I wrote about Caspio, and since then they've only gained more media clients, which I suppose could be a lesson for me. But I think not. Rather, I hope what we'll see in the months and years to come are [the lessons that Matt Wynn offers from his experiences using Caspio](http://web.archive.org/web/20081009084453/http://www.tubotu.com/?p=43). Here's your nutgraf: "My conclusion on Caspio is that they do one thing very well. But other, cheaper alternatives do it just as well. Further, to learn to make it do otherwise seems pointless, especially seeing as we would be _paying for the luxury of learning to hack it_." (The emphasis is mine.)
+
+Caspio's David Milliron spoke at this year's Special Libraries Association conference at a panel organized by SLA's News Division, which includes many newspaper and broadcast librarians. It's easy to see why: a lot of these folks are being asked to do new things, to be more involved with their organization's Web sites, and to do it with fewer people. Seems like a pretty good opportunity for Caspio, and I don't fault them for recognizing that. The problem I have is that the promise of Caspio is in the short-term; no matter how many features they add (my personal favorite being the [Data Sheet Find and Replace](http://web.archive.org/web/20080821194920/http://www.caspio.com./support/bridge/productupdates.asp#p6) one: "You no longer need to export your table outside of Caspio Bridge for this type data modification."), you'll never get the flexibility and control over your apps that you do when you build your own stuff. [Despite what Milliron says](https://twitter.com/derekwillis/statuses/836967962), there are very real and serious differences between Caspio and Web application frameworks.
+
+Maybe that's the real lesson that journalism folks need to heed: that the costs of learning Caspio go beyond the monthly fees and the potential cost of switching to another tool (having to re-do your existing apps). Caspio is, as Matt says, good at doing some pretty basic stuff when it comes to putting data online. But if you want to go beyond [Ye Olde Data Ghettoe](http://web.archive.org/web/20080724032045/http://www.mattwaite.com/2008/01/02/data-ghettos/), you'll have to learn some programming anyway. So why learn something that can only be used on a closed system that you have to rent? Matt's alternative happens to be PHP/MySQL based, but he's not going to be paying for using either of those. And if suddenly MySQL decides to charge corporate users or something equally far-fetched, he can switch to Postgres or SQLite without starting from scratch.
+
+I realize many, many folks in newsrooms can say, "Um, pardon me, but we don't have a Matt Wynn." Or maybe you do, but he's insanely busy all the time. That's a very common situation. But the real long-term question is this: if your organization is never going to want to do anything more than put up isolated search pages serving up content that no search engine can reliably find, you're still gonna pay every month for that privilege by using Caspio. And if you hope and plan on doing more someday, even if that's not today, then you'll have almost nothing to transfer to that effort by using Caspio, since one of their chief claims is that you don't have to learn any programming to use it.
+
+So if learning more is a part of your plan, why not spend the time learning a system that doesn't charge you for that time? By adding Caspio experience to your resume, what real skills have you gained aside from the ability to point and click?

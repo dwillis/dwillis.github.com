@@ -1,0 +1,21 @@
+---
+title: Finding Enterprise Reporting
+date: 2007-06-12
+author: "Derek Willis"
+format:
+  html:
+    df-print: paged
+    toc: true
+engine: knitr
+---
+
+During our train ride this morning a colleague and I talked about a common problem that has some real implications: the difficulty in finding enterprise and public service journalism done by news organizations, particularly newspapers. For example, when you visit Newsvine or other aggregators you get a wealth of stories from sources that you may not have known existed, but how do you find the really notable original work, especially by smaller papers? There is a way, but it'll take some industry cooperation and collaboration with search engines.
+
+
+I started tracking investigative stories on this site back in 2002, and eventually [IRE took over the compilation](http://ire.org/blog/extra-extra/) when I narrowed my focus to CAR stories. Both of these efforts, however, involve a good bit of manual labor – the time spent scouring newspaper websites and other sources for stories and then inputting them into a database or blog software. It's the same problem faced by the folks who compiled the All-Star Newspaper back during the boom, although that effort skewed towards the larger papers.
+
+The idea is that Web aggregators should have a way to display public service and enterprise reporting as its own category, particularly when it comes from smaller outlets that don't get national attention. My response is that this is too messy of a problem for search engines to solve via algorithm, but it's something that most newspapers can do by themselves.
+
+How? The industry, with IRE or ASNE or some other organization taking the lead, develop a metadata standard for stories that papers want to showcase as examples of public service or enterprise reporting. By embedding the code in stories on their websites, news organizations can signal Google or other aggregators to the existence of a certain class of content which then could be displayed separately from other types. We already do search engine optimization, so modifying a CMS to produce this code shouldn't be too difficult, and definitely isn't a costly thing.
+
+The question is, would papers voluntarily adopt the standard, and if so, would some of them intentionally or not bring down the value of the standard by including stories that shouldn't be in there? There's no way to know unless we find out. But some organization should sit down with Yahoo!, Google or anybody else and start talking about this standard, and then get to developing it. We often talk about the value of original journalism. Here's a chance to actually show the world what we mean, and why newspapers are an important part of civic life.

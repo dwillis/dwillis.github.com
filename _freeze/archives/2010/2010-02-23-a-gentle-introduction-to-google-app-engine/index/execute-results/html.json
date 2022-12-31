@@ -1,0 +1,18 @@
+{
+  "hash": "cef7f8b616f64df2bbd83ec83a6269c5",
+  "result": {
+    "markdown": "---\ntitle: A Gentle Introduction to Google App Engine\ndate: 2010-02-23\nauthor: \"Derek Willis\"\nformat:\n  html:\n    df-print: paged\n    toc: true\nengine: knitr\n---\n\n\nAs part of our roll-out of version 3 of the [NYT Congress API](http://developer.nytimes.com/docs/congress_api), I was tasked with coming up with a sample application that uses the API to do something mildly interesting, or at least functional. I had gotten a [book](http://oreilly.com/catalog/9780596522735) on [Google App Engine](http://code.google.com/appengine/) for my birthday and was pretty excited to see that some of the basic philosophies of [Django](http://www.djangoproject.com/) were either incorporated directly into GAE or were easy to adapt to it. So when I started on the sample app, I picked GAE and dove in.\n\nApp Engine's Python runtime, unsurprisingly, sticks pretty close to the language's core tenets: it uses YAML files for configuration (hey, it's whitespace!) and can run pretty much an entire app using just 2-3 files. A NYT colleague, Derek Gottfrid, built a [sample app for our article search API](https://github.com/derekg/nyt-trender) comprising five files, including the README. Yes, it violates the separation of logic and design that most frameworks try to respect, but it works.\n\nGAE provides the basic building blocks a lot of Web apps need, nearly all optional: a backend in Datastore, a URL Fetch service that is wrapped by Python's familiar urllib and urllib2 libraries, mail and messaging services and memcache. Webapp is a basic framework for building apps not exactly like Django but not so unfamiliar, either.\n\nThe development server will be familiar to anyone who has tinkered with Django, and GAE handles static files via separate servers, which is how it should be. And since it comes with a version of Django built-in, you can bring along some handy utilities, like simplejson, with a single import statement. And as I said earlier, you don't have to separate display logic into template files, but you can, and the syntax is nearly identical to Django templates.\n\n[The sample app](http://nytcongress.appspot.com/) takes two random members of the Senate and compares their voting and bill sponsorship records in the 112th Congress. [The app's code](https://github.com/dwillis/NYT-Congress-API-Demo) is like the app itself: fairly tightly-focused and without a lot of trappings. It's just service calls to the API and a single template for display. In building it, I didn't make use of any persistent storage, so I didn't delve into Datastore, but it looks pretty useful. One of its helpful features is that as you develop your app, it generates indexes used to help return data in the most efficient manner.\n\nIf you're already familiar with Django, making the small step to App Engine isn't that big of a trip. Have Guido explain things to you first, and then try it out. You can also run a stripped-down version of Django on GAE, and I'm looking to see if there's a project I can adapt to try it out. In the meantime, if you want to tinker with the sample app, by all means fork it and see what else you can do with the API. And let me know what you come up with!",
+    "supporting": [],
+    "filters": [
+      "rmarkdown/pagebreak.lua"
+    ],
+    "includes": {
+      "include-in-header": [
+        "<link href=\"../../../site_libs/pagedtable-1.1/css/pagedtable.css\" rel=\"stylesheet\" />\n<script src=\"../../../site_libs/pagedtable-1.1/js/pagedtable.js\"></script>\n"
+      ]
+    },
+    "engineDependencies": {},
+    "preserve": {},
+    "postProcess": true
+  }
+}

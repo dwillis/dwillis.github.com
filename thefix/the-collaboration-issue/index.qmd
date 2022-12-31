@@ -1,0 +1,52 @@
+---
+title: The Information Gap
+date: "2005-04-29"
+author: "Derek Willis"
+format:
+  html:
+    df-print: paged
+    toc: true
+engine: knitr
+---
+
+_First in a series of essays humbly titled "Fixing Journalism"_
+
+Sometime before I joined the Washington Post last fall, someone had the idea of installing an internal search engine that would enable people to search the contents of documents on the paper's network, including the individual network drives of reporters and editors (who could still restrict files to their own PCs). This was and still is a non-starter in the newsroom; ~~nobody wanted to make their information available~~ (the idea was discussed by managers but never presented to the newsroom in general or any reporters for approval or rejection).
+
+Can you imagine another information-based business that permitted its employees to build walls around their information? Can you imagine it succeeding today?
+
+Newspapers, to put it in computer terminology, don't scale well. Papers like the Post and the New York Times have remarkably intelligent people with extensive contacts and reams of interview notes, documents and acquired knowledge about their beats. But the larger the operation, the less likely that any one person can locate the information held somewhere in the newsroom. When reporters change beats, there is little incentive to turn over the best information and sources – after all, they might come in handy some day. The modern newspaper is the anti-Google – it keeps its best information within its own walls, and makes it hard even for those few who work there to get to it.
+
+It's not just that, [as Dan Gillmor likes to say](http://www.jdlasica.com/articles/OJR-berkeley-panel.html), our readers know more than we do. We don't know as much as we could or should, given the amount of information that passes through newsrooms every day. At a NICAR conference in 2000, George Landau spoke about [capturing some of the information that falls through the newsroom floor each day](http://www.thescoop.org/archives/2000/09/14/newsrooms-of-the-future/). Five years later we've done very little about it, and most of our editing and publishing systems are designed to make this task difficult at best. Landau's company, [NewsEngin](http://newsengin.com/), has a bunch of clients but few that, to my knowledge, use the full capabilities of the product. Mostly they're just too busy. Others don't even think this is a necessary task.
+
+In the meantime, we've seen a decline in readership, a loss of trust and more competition on many fronts, particularly from the Internet. Yet most newspapers, aside from requiring that their reporters now file for the Web, have barely changed their reporting and information-management practices. We have redesigned, added color, tried to appeal to younger readers, changed the comics and shortened stories. Very little of it has worked, which leads me to believe that the real issue is not in the packaging of news but in the product itself.
+
+Journalism's chief problem is not bias or its delivery method, although both deserve scrutiny. Journalism suffers from an inability to recognize the shifts in ownership of information and from an astonishingly weak response to the changes that have taken place in the way that information is gathered and disseminated.
+
+The actual job of reporting the news has not fundamentally changed in the past ten years, a remarkable act of insulation despite a changing information world. With the exception of replacing typewriters with PCs, most reporters work with the same tools – the phone, the pen and a pad of paper. Sure, we've added tape recorders, but some reporters don't use even those. The typical reporter's use of the computer – word processing, the calculator and Google searches – barely scratches the surface of the possibilities.
+
+Better tools and training will only improve journalism so much without a broader change. We haven't realized that some fundamental changes – nearly all driven by the Internet and the new ways of organizing information – have taken place in our profession.
+
+The first issue is one of ownership. In the past, most newspapers could report the news with the solid assurance that no one else had the information they had. Owning the story was an all-encompassing phrase: reporters and editors could make decisions confident that the only other people who might have access to the same information were the sources themselves and, perhaps, their media competitors.
+
+The Web increasingly makes this traditional construct less true. On many stories, we no longer own all of the information associated with it. Sources can publish their own views on the Internet, including transcripts of interviews done by reporters. The actions of reporters online – emails, surfing habits – can become part of the story when others publish details of them. This is new, and a little unsettling to some reporters. We haven't had this kind of broad exposure of our own work habits, and it isn't pretty. It used to be that you didn't want to see legislation and sausage being made. Some reporters might want to add journalism to the list, but I disagree. We can change our habits so that such exposure does not make us defensive or hesitant.
+
+The second issue is cultural. Along with a reduction in ownership of information, journalism also suffers in comparison to the Web because of its tendencies and traditions. Journalists don't share much. We're trained to keep our prized sources, even to the point of not identifying them to our colleagues. We place a high emphasis on getting on the front page, preferably without sharing a byline.
+
+The larger a news operation is, the more likely that it does not have, say, a newsroom-wide database of contacts. We don't have one at the Washington Post, although reporters frequently ask for phone numbers over our internal messaging system. And they get them – or maybe they don't. Only the requestor knows for sure. Let me repeat that – one of the largest newspapers in America has no regularly updated searchable list of valuable contacts. Is it any wonder that other people can locate people or information faster?
+
+This matters because one of the advantages that larger newsrooms traditionally had – more reporters in one place capable of gathering more information – can be trumped by using the Web. [Wikipedia](http://en.wikipedia.org/wiki/Main_Page) isn't journalism, but the model has to be a concern to even the largest papers – the idea that a community of contributors could coalesce around a framework without much in the way of direction, instruction or stature. And the folks behind Wikipedia are thinking about structured information – a topic that newsrooms should be thinking about, too.
+
+Another important part of the newsroom culture is its temporary nature. Different things happen every day, and every day a newspaper has to essentially start over and build a new product in about 12 hours. That places a high strain on just about everybody. It really is something close to a miracle that the paper comes out every day. But this schedule is not a permanent barrier; it can be managed.
+
+Given the economic constraints on most papers, hiring more staff is a great idea but hardly a likely solution. The one thing we can begin to improve right now is how we manage our information – the knowledge that reporters acquire, the documents they collect and the data they use. We can train our reporters to start thinking of their materials as part of an archive of knowledge, and give them the tools to create their own archives for their own use at first. Instant collaboration isn't possible. But starting with, say, a projects team that already needs to share information can spread adoption of these principles and tools. Even at a paper as competitive as the Post I've seen this tactic work, albeit in small doses.
+
+There are some great ideas out there on the Web that could be applied to newsrooms: take, for example, the concept of [Flickr](http://www.flickr.com/), in which people “tag” their photos with subjects and keywords, making them easy to organize and find. The closest thing we have to that in journalism is in news libraries, where archives sometimes get keywords attached to them. Some reporters know about this when searching Nexis, but most don't. Too much time is wasted searching our own archives for stories.
+
+Make no mistake: this will not be easy. I'm well-aware that most reporters still keep much of their notes and documents on paper, not on the computer. A paper-free newsroom is a ridiculous goal – as if we could eliminate paper from society at large. We should, however, encourage reporters to use the tools available to them on their desktops. We should teach them that computers and the principles of the Internet can make sharing and searching easier, and sharing is not just a worthwhile goal, but increasingly a professional requirement.
+
+After all, this should be a golden age for journalism. Never have journalists had access to better tools for doing their jobs, been better-educated or had more ways to get information to more people. Look at the ability of news organizations to gather increasingly larger amounts of information in shorter times, the power provided by computer-assisted reporting and access to records, and it's hard to imagine that we wouldn't be turning out increasingly better newspapers.
+
+Why aren't we doing it? Because we don't manage information well, we're resistant to change and we haven't taken advantage of the greatest communication platform ever devised. We use some of the cool Web apps like Google Maps or maybe we have a blog or online chats. But newspapers, by and large, don't understand that those steps won't be enough to ensure the kind of journalism that can't be duplicated.
+
+The shame of journalism today is not that it's no good, but that it's nowhere near as good as it could be, and that's largely our fault.

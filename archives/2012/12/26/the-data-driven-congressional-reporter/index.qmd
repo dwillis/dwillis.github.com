@@ -1,0 +1,28 @@
+---
+title: The Data-Driven Congressional Reporter
+date: 2012-12-26
+author: "Derek Willis"
+format:
+  html:
+    df-print: paged
+    toc: true
+engine: knitr
+---
+
+Washington is full of reporters who excel at finding and building sources, or at knowing which documents to look for and when. Those are skills that take time to develop and hone, but plenty of congressional reporters don’t have tons of experience under their belts. I didn’t have any when I arrived in 1998.
+
+The best training I had for covering Congress was the one I received while working at Congressional Quarterly. The number of CQ alumni working in the Washington press corps is pretty formidable, and for a good reason: these folks understand how the House and the Senate work, and often are experts in particular policy areas such as agriculture or the budget process.
+
+But there’s one area where I feel that most congressional reporters operate on roughly the same level, and that’s on the ability to find stories using data. Part of this situation is due to the overall lack of data skills among journalists and part of it comes from the wide range of ways that Congress produces data (some of them fairly complex). But two things are clear to me: there is so much more data about Congress than reporters can reasonably absorb without some level of automation, and virtually none of the existing press corps has a good approach to this problem.
+
+Even at its most basic level – simply the recognition and reporting of discrete “data points” – it’s pretty clear to me that the organizations that would benefit most from a programmatic approach to data don’t take advantage of it. I see this in some of my campaign finance tweets, many of which are derived from an internal dashboard that highlights specific filings or circumstances. You might argue that as I’m fairly obsessed with campaign finance, I should be able to spot this stuff. But there’s no way that I – or any reporter – can look at every filing to check for newsworthiness (or [weirdness](http://campaignfinance.tumblr.com/)). There’s no way that every congressional reporter, or even most congressional reporters, are reading the Congressional Record [for odd things](http://personalexplanations.tumblr.com/), either. But our internal Congress app also alerts me to various changes or appearances (committee assignments and close votes among them).
+
+It’s a legitimate argument that some (most, even) of these items may never lead directly to a story. But they can help fill in the gaps of a reporter’s awareness and understanding, and provide a certain range of context, too. They also can help build out a news organization’s own resources, so that when a reporter has a question, it’s possible that she can answer it right away rather than having to seek an external authority.
+
+Any congressional reporter should be to answer questions such as “How often do two members of the Senate vote together?” or “When is the last time that a specific group of Democrats voted for a Republican rule in the House?” Furthermore, the reporter should be able to answer these questions without paying someone else to do it – this is public data, after all, and [there are people working to make it easier to obtain](https://github.com/unitedstates/congress).
+
+News organizations can, of course, pay for legislative and campaign finance data; it’s one of the ways that CQ makes money. But there are plenty of good reasons to develop in-house resources, not the least of which is that doing so makes also develops in-house expertise. More importantly, doing so broadens the number of ways in which you can find stories. Maybe you don’t have time to read the Record every day; wouldn’t it be great if you could set some simple rules for things of interest and [have a computer do it for you](https://scout.sunlightfoundation.com/)? Wouldn’t it make sense that a computer could find the exception to the rule among a series of House votes that occurred while you were out interviewing people?
+
+This isn’t some fantasy talk; if your news organization has people who can setup and maintain web publishing software, it’s pretty likely that they would know how to construct a system for alerting reporters to significant events in data. For campaign finance data, the [basic](https://github.com/NYTimes/Fech) [pieces](https://github.com/cschnaars/FEC-Scraper) are in place. Congressional data is a little trickier because it has a number of different sources, but [GovTrack](http://www.govtrack.us/developers) is a good place to start.
+
+All that’s really needed is a recognition that this stuff can lead to valuable discoveries and a willingness to consider it an important part of the reporting process. In a town like Washington, where who you know has long been considered as important as what you know, this requires a certain amount of change. I’m betting that the news organizations able to handle that transition will reap the rewards.

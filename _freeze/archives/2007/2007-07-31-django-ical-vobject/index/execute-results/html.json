@@ -1,0 +1,18 @@
+{
+  "hash": "df9765ff981d6697c102a2a0a0dca8a9",
+  "result": {
+    "markdown": "---\ntitle: Django, iCal and vObject\ndate: 2007-07-31\nauthor: \"Derek Willis\"\nformat:\n  html:\n    df-print: paged\n    toc: true\nengine: knitr\n---\n\n\nFor [one of our Django applications at work](http://web.archive.org/web/20071229080437/http://projects.washingtonpost.com/2008-presidential-candidates/tracker/) we received a request to add iCal feeds to accompany the RSS feeds available for each candidate's page (example [here](http://web.archive.org/web/20071225222926/http://projects.washingtonpost.com/2008-presidential-candidates/tracker/candidates/hillary-clinton/)). I first thought about doing this using a hard-coded template, [the way described in March on boomby.com](http://web.archive.org/web/20071225222926/http://boomby.com/?p=4). So I did and it worked - the directions are great. Since I happened to be at OSCON, I showed it to [Jacob Kaplan-Moss](http://www.jacobian.org/), who immediately recommended that I check out [vObject](http://vobject.skyhouseconsulting.com/), a Python library for generating iCal files.\n\nWhy use vObject? Well, for one, it eliminates the need for a template file, and the [iCal spec](http://www.ietf.org/rfc/rfc2445.txt) being a slightly cranky thing, that's for the better. How cranky? Well, it doesn't like carriage returns in template, for one thing. It also means that Django treats iCal feeds much the same as RSS feeds in terms of generation. So using vObject means you set up the file in the view, call the serialize() function to fill out the standard stuff and return an HttpResponse, setting the mimetype to text/calendar.\n\nSeems pretty simple? It is, with one exception. Internet Explorer (of course). To ensure that Outlook correctly handles the iCal files, you need to add a few lines to the calendar object and to each event. Specifically, you need to do the following inside your view:\n\n\n    cal = vobject.iCalendar()\n    cal.add('method').value = 'PUBLISH'  # IE/Outlook needs this\n    for event in event_list:\n        vevent = cal.add('vevent')\n        ... # add your event details\n    icalstream = cal.serialize()\n    response = HttpResponse(icalstream, mimetype='text/calendar')\n    response['Filename'] = 'filename.ics'  # IE needs this\n    response['Content-Disposition'] = 'attachment; filename=filename.ics'\n\nOutlook seems to require three datetime fields for each event: DTSTART, DTEND and DTSTAMP (even if you don't have values for all of them). Other consumers of .ics files do not, and what works on Windows with Firefox and Outlook may not with IE and Outlook. But it does work if you follow the steps, and vObject makes it much easier.\n\nThe only other thing you need is to set up the url in Django's urlconf and have it call the view. No template needed! Here's a sample iCal file listing [Mike Huckabee's upcoming visits](http://web.archive.org/web/20071225222926/http://projects.washingtonpost.com/2008-presidential-candidates/tracker/ical/candidates/mike-huckabee/).\n\nThanks to Jacob, Malcolm Tredinnick and Simon Willison for their advice on this. Any mistakes are mine, however, and comments or suggestions are welcome.",
+    "supporting": [],
+    "filters": [
+      "rmarkdown/pagebreak.lua"
+    ],
+    "includes": {
+      "include-in-header": [
+        "<link href=\"../../../site_libs/pagedtable-1.1/css/pagedtable.css\" rel=\"stylesheet\" />\n<script src=\"../../../site_libs/pagedtable-1.1/js/pagedtable.js\"></script>\n"
+      ]
+    },
+    "engineDependencies": {},
+    "preserve": {},
+    "postProcess": true
+  }
+}
