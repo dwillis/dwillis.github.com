@@ -1,3 +1,4 @@
-_drafts/
-_site/
-s3_website.yml
+.Rproj.user
+/.quarto/
+/_site/
+thescoop.Rproj

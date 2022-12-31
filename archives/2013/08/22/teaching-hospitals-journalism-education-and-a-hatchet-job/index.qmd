@@ -1,0 +1,59 @@
+---
+title: Teaching Hospitals, Journalism Education and a Hatchet Job
+date: "2013-08-22"
+author: "Derek Willis"
+format:
+  html:
+    df-print: paged
+    toc: true
+engine: knitr
+---
+
+[Donica Mensing](https://twitter.com/donica) and [David Ryfe](https://twitter.com/dryfe) from the Reynolds School of Journalism at the University of Nevada, Reno, have published [a paper](http://www.academia.edu/3412374/Blueprint_for_Change_From_the_Teaching_Hospital_to_the_Entrepreneurial_Model_of_Journalism_Education) that attempts to argue that recent attempts by foundations and others advocating for a "[teaching hospital](http://www.knightfoundation.org/press-room/other/open-letter-americas-university-presidents/)" approach to journalism education, while well-intentioned, is actually some sort of "back to the future" plan that would enshrine the journalistic norms of the 1960s and (I am not making this up, I swear) "could actually slow the response to change" by journalism schools.
+
+Three questions come to mind: First, could anything _really_ slow the response we've seen so far from academia? Second, is that what the teaching hospital model is really about? And third, this is scholarship?
+
+The paper is not purely a critique of the teaching hospital method, although it surely approaches that task with fervor. It also advocates for an "entrepreneurial model" of journalism education, saying that "the groundswell of grassroots activity in civic entrepreneurship, social innovation, user centered design and related practices represent a reservoir of potential energy that could invigorate journalism education."
+
+Ah, buzzword bingo, that hallmark of well-grounded research. Tell me, exactly, how "user centered design" and these other concepts cannot be taught through doing, only learned through the entrepreneurship process?
+
+The easiest way to win an argument is to make the other side so unappealing that no rational person would choose it. This is done through a variety of methods: the use of straw men, unsupported claims and other tactics common to, say, Lee Atwater. An important part is to attribute things to your opponent that sound awful but possible. That's what Mensing and Ryfe do in this paper.
+
+In describing the teaching hospital model of journalism education, they write that it:
+
+*	"implies that journalism is a settled profession with clear boundaries that needs only to be practiced more rigorously, instead of a field with its most fundamental premises unraveling"
+*	"makes it hard for students to think differently"
+*	argues that "the core of journalism is sound and the problems faced by the news industry are primarily technological and economic"
+*	"forecasts a future for journalism that is infused with the practices of the past"
+*	assumes that the answers to the question of how to add value to democratic community are "fixed and eternal"
+*	calls for "saving the journalism industry by turning journalism schools into production facilities staffed by industry professionals who have left an industry in deep distress"
+
+Just two of those claims has a cited reference (one is a paper by one of the authors). The reader is led to believe that, having surveyed the teaching hospital model, the authors have found that it is regressive, inflexible and hopelessly tied to the past.
+
+That sounds pretty bad, right? Is there some real evidence for those assertions? Did the authors conduct a survey of journalism school practices and outcomes? Unearth a statement by the "teaching hospital advocates" that plants a flag in the soil of regressive education practices?
+
+No, they didn't. Here's what Eric Newton, an author of the teaching hospital open letter linked above, [had to say about the teaching hospital model](http://www.niemanlab.org/2013/08/do-journalism-schools-really-need-to-be-teaching-hospitals/#comment-1010807645): 
+
+> "Teaching Hospital" Model: A model of learning-by-doing that includes college students, professors and professionals working together under one 'digital roof' for the benefit of a community. Student journalists provide news and engage the community in innovative ways. Top professionals support and guide them. Good researchers help design and study their experiments.
+
+> If it's old school, it's not a teaching hospital. If it doesn't include research, it's not a teaching hospital. If it doesn't engage the community, it's not a teaching hospital. If professors and professionals don't set aside their long-standing arguments and work together, it's not a teaching hospital.
+
+> Teaching hospitals help invent and test new things. That's why a group of funders said at this year's journalism education convention that we are working on a micro-granting competition. The grant program, to be announced later this year, will support "live news experiments." We hope that good examples will clarify what good journalistic teaching hospitals should do.
+
+At this point, I should say that [a project that I co-founded](http://blog.openelections.net) is a recipient of money from the Knight Foundation, where Eric works. I've never met Eric, nor have we communicated on the subject of journalism education.
+
+If you read that definition (and the [open letter](http://www.knightfoundation.org/press-room/other/open-letter-americas-university-presidents/)) it might strike you as not at all what Mensing and Ryfe describe. Yet somehow they've cast it in this rather negative light. As [Carrie Brown-Smith](https://twitter.com/Brizzyc), a professor at the University of Memphis, put it: "[I'm just unclear who or what is actually being rebutted here](http://www.niemanlab.org/2013/08/do-journalism-schools-really-need-to-be-teaching-hospitals/#comment-1011505711)." You and me both, Doctor.
+
+There are no reasons why teaching hospital models cannot be "entrepreneurial" in the manner described by the authors. Indeed, there are [examples](http://www.ist.rit.edu/~jxs/classes/proposed/JournPubIn21stCent.html) of [this](http://homicidewatch.org/2013/08/20/what-weve-learned-homicide-watch-dcs-student-reporting-lab/) that combine the best ideas of both models. I am not aware of anyone advocating for a regressive teaching hospital model the authors describe. If they are, they do not cite any in the paper (and if they know of some, why wouldn't they cite it?).
+
+To the extent that journalism schools are failing to keep pace with the very real changes in the practice of journalism (professional or not), it's very hard to see how the involving more professionals in the process is a harmful thing. But that's not what the authors argue against - they write that teaching hospital advocates are seeking to _replace_ existing faculty members with professionals "who have left an industry in deep distress".
+
+Let's be very clear about this: there certainly are people who have left the industry to teach who are not well-suited to prepare students for doing journalism today. But if anything, a program in which such people actually worked alongside students and other faculty members in producing modern journalism would give them an opportunity to refit their skills and mindsets. The authors suggest that an entrepreneurial approach would attract non-journalism instructors to the process, but it's not clear that _current_ faculty would accept this or that such outside experts really want to teach journalism.
+
+In a comment discussing the paper on Nieman Lab, [Mensing writes](http://www.niemanlab.org/2013/08/do-journalism-schools-really-need-to-be-teaching-hospitals/#comment-1011552411) that "In the end, it's not an either/or argument. It's an AND argument -- we need teaching hospitals AND other educational models." But that's not at all what the paper says. The paper characterizes the teaching hospital model as a relic from the past with a few redeeming values ("a handful of well-funded schools may benefit," they concede), but the system they describe is not the same one that its proponents have outlined.
+
+I learned journalism by doing, with some useful assistance in the classroom. Almost all of my important lessons about journalism came while practicing it, and almost all of my creative learning happened that way, too. There is nothing wrong with injecting some entrepreneurial life into the teaching and doing of journalism. There is something very wrong with claiming that the teaching hospital model would be harmful for students without actually verifying that claim.
+
+This paper sets up the teaching hospital model as a straw man standing in the way of a more flexible, creative and successful model of journalism education, and proceeds to cut that straw man down in order to make the other model look better. The authors write that they wish to "build on this conversation" surrounding the future of journalism education, but instead the reader is treated to a lesson in how to win an argument by stacking the deck.
+
+Mensing, to her credit, seems to pull back a bit from the aggressive critique of the paper in [her comment on Nieman Lab](http://www.niemanlab.org/2013/08/do-journalism-schools-really-need-to-be-teaching-hospitals/#comment-1011552411), writing that "I guess the next logical step is to stop arguing and actually study what j-schools are doing so we learn what really is most effective for teaching." Wait, you and Ryfe wrote the paper _before_ studying what j-schools are actually doing? That's not scholarship; it reads more like a hatchet job.

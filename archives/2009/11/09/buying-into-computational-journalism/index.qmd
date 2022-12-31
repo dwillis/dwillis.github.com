@@ -1,0 +1,22 @@
+---
+title: Buying Into Computational Journalism
+date: 2009-11-09
+author: "Derek Willis"
+format:
+  html:
+    df-print: paged
+    toc: true
+engine: knitr
+---
+
+The intriguing title of a recent report from scholars at Duke is "[Accountability Through Algorithm: Developing the Field of Computational Journalism](http://dewitt.sanford.duke.edu/images/uploads/About_3_Research_B_cj_1_finalreport.pdf)". Semi-related to [CAR](http://en.wikipedia.org/wiki/Database_journalism), Computational Journalism is defined as "the combination of algorithms, data, and knowledge from the social sciences to supplement the accountability function of journalism." I take each of those – algorithms, data and knowledge from the social sciences – as separate elements, because while journalists do have plenty to learn from the social sciences, we also operate in an environment that is not quite academic (and sometimes not at all).
+
+The report identifies four areas of potential exploration: techniques for data transformation and pattern discovery in investigative reporting; a digital "dashboard" for journalists; new social and technical structures for interactions among readers and reporters; and sense-making advances from other disciplines. All are interesting and worthy, but to me the first two are particularly so.
+
+On the first, the best investigative journalists have been developing tools for extracting meaning from reams of information for years. The change now is that we have a greater platform for these tools in the Internet, and an effort like [DocumentCloud](http://documentcloud.org/) is a clear example of that change. The challenge we face is that patterns are interesting to different people for different reasons; what an accountant finds interesting may not always be of interest to a journalist, and vice versa. The current deficit is not in the area of tools; it is the occasionally trickier area of adapting those for the task of journalism. That requires the guiding influence of people like [Sarah Cohen](http://web.archive.org/web/20091119192326/http://www.sanford.duke.edu/graduate/mpp/faculty_new.php#cohen), a newly minted Knight Chair at Duke, who is studying these issues right now. But it also requires the active participation of a wide range of news organizations and journalists. In the Internet, we have a leveling platform, but only if more journalists participate. That may be a greater challenge than the technical one.
+
+One way to get there is the second idea – a journalist's dashboard. This would provide reporters with a way to keep track of the deluge of information coming into newsrooms. But again, the technological side of that equation, as difficult as it is, is less of a concern to me than the implementation and adoption of the results. We know how to gather various bits of information in one place. We're not that good at distilling the best of them, or even knowing where to start. The good news is that we have blueprints for this kind of thing: the people and companies who make great Web apps that distill masses of data into understandable results. The bad news is that we, as a business, work very differently. We don't really share much, outside of experiences at conferences or over drinks, and particularly not at the institutional level. And we're downright awful, in general, at adapting good ideas for our own uses.
+
+For the idea of Computational Journalism to work, a lot is riding on a movement that is slowly growing but urgently necessary for the news industry: the increasing adoption, use and proliferation of open-source tools. The CAR community has seen an influx of use of various types of open-source software, from databases to GIS systems to web frameworks. More and more reporters and editors are embracing different styles of journalism. But the broader concept of opening up our newsrooms, both philosophically and in terms of our content and efforts, has been slow in coming. It requires not just the creation of tools, but also the development of journalists and readers who will use those tools most effectively. And that's more than an algorithm – to say nothing of Twitter – can solve alone.
+
+Oh, and Duke folks? Can we get a version of that report that embraces the Web as much as the concept? HTML will do fine.

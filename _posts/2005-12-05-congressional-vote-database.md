@@ -1,7 +1,0 @@
----
-layout: post
-title: Congressional Vote Database
----
-
-
-So humor me today, and the CAR stories will return tomorrow. I’d like to announce a project that Adrian Holovaty of washingtonpost.com and I started working on a few months ago: the [Post’s congressional votes database](http://web.archive.org/web/20061004165929/http://projects.washingtonpost.com/congress/). The first of many, many Post web apps built using Django, this site is a browsable archive of votes in the House and Senate since 1991. It has plenty of features, including vote breakdowns (try “by astrological sign”) and RSS feeds for each member, so you can be notified when a vote has been posted. [Adrian](http://holovaty.com/) did the heavy lifting, but as a normal person he doesn’t have my intimate knowledge of Congress (thanks, CQ!). So it worked out well, I think. The site is powered by Python, PostgreSQL and Django.

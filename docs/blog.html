@@ -1,0 +1,2875 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
+
+<meta charset="utf-8">
+<meta name="generator" content="quarto-1.2.269">
+
+<meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
+
+
+<title>Derek Willis -</title>
+<style>
+code{white-space: pre-wrap;}
+span.smallcaps{font-variant: small-caps;}
+div.columns{display: flex; gap: min(4vw, 1.5em);}
+div.column{flex: auto; overflow-x: auto;}
+div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
+ul.task-list{list-style: none;}
+ul.task-list li input[type="checkbox"] {
+  width: 0.8em;
+  margin: 0 0.8em 0.2em -1.6em;
+  vertical-align: middle;
+}
+</style>
+
+
+<script src="site_libs/quarto-nav/quarto-nav.js"></script>
+<script src="site_libs/quarto-nav/headroom.min.js"></script>
+<script src="site_libs/clipboard/clipboard.min.js"></script>
+<script src="site_libs/quarto-search/autocomplete.umd.js"></script>
+<script src="site_libs/quarto-search/fuse.min.js"></script>
+<script src="site_libs/quarto-search/quarto-search.js"></script>
+<meta name="quarto:offset" content="./">
+<script src="site_libs/quarto-listing/list.min.js"></script>
+<script src="site_libs/quarto-listing/quarto-listing.js"></script>
+<script src="site_libs/quarto-html/quarto.js"></script>
+<script src="site_libs/quarto-html/popper.min.js"></script>
+<script src="site_libs/quarto-html/tippy.umd.min.js"></script>
+<script src="site_libs/quarto-html/anchor.min.js"></script>
+<link href="site_libs/quarto-html/tippy.css" rel="stylesheet">
+<link href="site_libs/quarto-html/quarto-syntax-highlighting.css" rel="stylesheet" id="quarto-text-highlighting-styles">
+<script src="site_libs/bootstrap/bootstrap.min.js"></script>
+<link href="site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
+<link href="site_libs/bootstrap/bootstrap.min.css" rel="stylesheet" id="quarto-bootstrap" data-mode="light">
+<script id="quarto-search-options" type="application/json">{
+  "location": "navbar",
+  "copy-button": false,
+  "collapse-after": 3,
+  "panel-placement": "end",
+  "type": "overlay",
+  "limit": 20,
+  "language": {
+    "search-no-results-text": "No results",
+    "search-matching-documents-text": "matching documents",
+    "search-copy-link-title": "Copy link to search",
+    "search-hide-matches-text": "Hide additional matches",
+    "search-more-match-text": "more match in this document",
+    "search-more-matches-text": "more matches in this document",
+    "search-clear-button-title": "Clear",
+    "search-detached-cancel-button-title": "Cancel",
+    "search-submit-button-title": "Submit"
+  }
+}</script>
+<script>
+
+  window.document.addEventListener("DOMContentLoaded", function (_event) {
+    const listingTargetEl = window.document.querySelector('#listing-listing .list');
+    if (!listingTargetEl) {
+      // No listing discovered, do not attach.
+      return; 
+    }
+
+    const options = {
+      valueNames: ['listing-date','listing-title','listing-author','listing-image','listing-description',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] },{ data: ['listing-file-modified-sort'] }],
+      page: 25,
+    pagination: { item: "<li class='page-item'><a class='page page-link' href='#'></a></li>" },
+      searchColumns: ["listing-date","listing-title","listing-author","listing-image","listing-description"],
+    };
+
+    window['quarto-listings'] = window['quarto-listings'] || {};
+    window['quarto-listings']['listing-listing'] = new List('listing-listing', options);
+
+    if (window['quarto-listing-loaded']) {
+      window['quarto-listing-loaded']();
+    }
+  });
+
+  window.addEventListener('hashchange',() => {
+    if (window['quarto-listing-loaded']) {
+      window['quarto-listing-loaded']();
+    }
+  })
+  </script>
+
+  <script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml-full.js" type="text/javascript"></script>
+
+<link rel="alternate" type="application/rss+xml" title="Derek Willis" href="blog.xml"><meta name="twitter:title" content="Derek Willis -">
+<meta name="twitter:creator" content="@derekwillis">
+<meta name="twitter:card" content="summary">
+</head>
+
+<body class="nav-sidebar docked nav-fixed">
+
+<div id="quarto-search-results"></div>
+  <header id="quarto-header" class="headroom fixed-top">
+    <nav class="navbar navbar-expand-lg navbar-dark ">
+      <div class="navbar-container container-fluid">
+      <div class="navbar-brand-container">
+    <a href="./index.html" class="navbar-brand navbar-brand-logo">
+    <img src="./images/dwillis.png" alt="" class="navbar-logo">
+    </a>
+    <a class="navbar-brand" href="./index.html">
+    <span class="navbar-title">Derek Willis</span>
+    </a>
+  </div>
+          <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarCollapse" aria-controls="navbarCollapse" aria-expanded="false" aria-label="Toggle navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">
+  <span class="navbar-toggler-icon"></span>
+</button>
+          <div class="collapse navbar-collapse" id="navbarCollapse">
+            <ul class="navbar-nav navbar-nav-scroll me-auto">
+  <li class="nav-item compact">
+    <a class="nav-link" href="./blog.xml"><i class="bi bi-rss" role="img" aria-label="feed">
+</i> 
+ <span class="menu-text"></span></a>
+  </li>  
+</ul>
+              <div id="quarto-search" class="" title="Search"></div>
+          </div> <!-- /navcollapse -->
+      </div> <!-- /container-fluid -->
+    </nav>
+  <nav class="quarto-secondary-nav" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar" aria-controls="quarto-sidebar" aria-expanded="false" aria-label="Toggle sidebar navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">
+    <div class="container-fluid d-flex justify-content-between">
+      <h1 class="quarto-secondary-nav-title"></h1>
+      <button type="button" class="quarto-btn-toggle btn" aria-label="Show secondary navigation">
+        <i class="bi bi-chevron-right"></i>
+      </button>
+    </div>
+  </nav>
+</header>
+<!-- content -->
+<div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-full page-navbar">
+<!-- sidebar -->
+  <nav id="quarto-sidebar" class="sidebar collapse sidebar-navigation docked overflow-auto">
+        <div class="sidebar-tools-main tools-wide">
+    <a href="https://twitter.com/derekwillis" title="" class="sidebar-tool px-1"><i class="bi bi-twitter"></i></a>
+    <a href="https://newsie.social/@derekwillis" title="" class="sidebar-tool px-1"><i class="bi bi-mastodon"></i></a>
+    <a href="https://github.com/dwillis" title="" class="sidebar-tool px-1"><i class="bi bi-github"></i></a>
+</div>
+    <div class="sidebar-menu-container"> 
+    <ul class="list-unstyled mt-1">
+        <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="./about" class="sidebar-item-text sidebar-link">About</a>
+  </div>
+</li>
+        <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="./now" class="sidebar-item-text sidebar-link">Now</a>
+  </div>
+</li>
+        <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="./then" class="sidebar-item-text sidebar-link">Then</a>
+  </div>
+</li>
+        <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="./help" class="sidebar-item-text sidebar-link">Ways I Can Help</a>
+  </div>
+</li>
+        <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="./thefix" class="sidebar-item-text sidebar-link">The Fix</a>
+  </div>
+</li>
+        <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="./blog.html" class="sidebar-item-text sidebar-link active">Blog</a>
+  </div>
+</li>
+        <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="./teaching" class="sidebar-item-text sidebar-link">Teaching</a>
+  </div>
+</li>
+    </ul>
+    </div>
+</nav>
+<!-- margin-sidebar -->
+    
+<!-- main -->
+<main class="content quarto-banner-title-block page-columns page-full column-body" id="quarto-document-content">
+
+
+
+<div class="column-page">
+
+</div>
+
+
+
+
+<div class="quarto-listing quarto-listing-container-default" id="listing-listing">
+<div class="list quarto-listing-default">
+<div class="quarto-post image-right" data-index="0" data-listing-date-sort="1672462800000" data-listing-file-modified-sort="1672454399636" data-listing-reading-time-sort="1.09">
+<div class="thumbnail">
+<a href="./archives/2022/12/31/welcome-back/index.html">
+<div class="thumbnail-image">
+
+</div>
+</a><p><a href="./archives/2022/12/31/welcome-back/index.html"></a></p>
+</div>
+<div class="body">
+<a href="./archives/2022/12/31/welcome-back/index.html">
+<h3 class="no-anchor listing-title">
+Welcome Back
+</h3>
+<div class="listing-subtitle">
+
+</div>
+<div class="listing-description">
+<p>A new beginning, but not entirely.</p>
+</div>
+</a>
+</div>
+<div class="metadata">
+<a href="./archives/2022/12/31/welcome-back/index.html">
+<div class="listing-date">
+Dec 31, 2022
+</div>
+<div class="listing-author">
+Derek Willis
+</div>
+</a>
+</div>
+</div>
+<div class="quarto-post image-right" data-index="1" data-listing-date-sort="1552107600000" data-listing-file-modified-sort="1672335349050" data-listing-reading-time-sort="4.015">
+<div class="thumbnail">
+<a href="./archives/2019/03/09/the-more-important-problem/index.html">
+<div class="thumbnail-image">
+
+</div>
+</a><p><a href="./archives/2019/03/09/the-more-important-problem/index.html"></a></p>
+</div>
+<div class="body">
+<a href="./archives/2019/03/09/the-more-important-problem/index.html">
+<h3 class="no-anchor listing-title">
+The More Important Problem
+</h3>
+<div class="listing-subtitle">
+
+</div>
+<div class="listing-description">
+The first indication that I did not approach this NICAR-L improvement project in the right way should have been when I posted on GitHub a CSV file with metadata from 16 years’ of posts to the listserv. Not long after, I got…
+</div>
+</a>
+</div>
+<div class="metadata">
+<a href="./archives/2019/03/09/the-more-important-problem/index.html">
+<div class="listing-date">
+Mar 9, 2019
+</div>
+<div class="listing-author">
+Derek Willis
+</div>
+</a>
+</div>
+</div>
+<div class="quarto-post image-right" data-index="2" data-listing-date-sort="1550984400000" data-listing-file-modified-sort="1672335372081" data-listing-reading-time-sort="3.24">
+<div class="thumbnail">
+<a href="./archives/2019/02/24/making-the-best-nicar-listserv/index.html">
+<div class="thumbnail-image">
+
+</div>
+</a><p><a href="./archives/2019/02/24/making-the-best-nicar-listserv/index.html"></a></p>
+</div>
+<div class="body">
+<a href="./archives/2019/02/24/making-the-best-nicar-listserv/index.html">
+<h3 class="no-anchor listing-title">
+The NICAR-L Improvement Project
+</h3>
+<div class="listing-subtitle">
+
+</div>
+<div class="listing-description">
+If you’re coming to the 2019 CAR Conference in March, chances are you’re a member of the NICAR-L listserv. The only session idea I pitched this year was on how to…
+</div>
+</a>
+</div>
+<div class="metadata">
+<a href="./archives/2019/02/24/making-the-best-nicar-listserv/index.html">
+<div class="listing-date">
+Feb 24, 2019
+</div>
+<div class="listing-author">
+Derek Willis
+</div>
+</a>
+</div>
+</div>
+<div class="quarto-post image-right" data-index="3" data-listing-date-sort="1522891205000" data-listing-file-modified-sort="1672415285779" data-listing-reading-time-sort="3.31">
+<div class="thumbnail">
+<a href="./archives/2018/04/05/the-best-training/index.html">
+<div class="thumbnail-image">
+
+</div>
+</a><p><a href="./archives/2018/04/05/the-best-training/index.html"></a></p>
+</div>
+<div class="body">
+<a href="./archives/2018/04/05/the-best-training/index.html">
+<h3 class="no-anchor listing-title">
+The Best Training
+</h3>
+<div class="listing-subtitle">
+
+</div>
+<div class="listing-description">
+I’ve been asked by students what the best training is to be a journalist. My position on this is very clear: waiting tables at a honeymoon resort is the best training.
+</div>
+</a>
+</div>
+<div class="metadata">
+<a href="./archives/2018/04/05/the-best-training/index.html">
+<div class="listing-date">
+Apr 4, 2018
+</div>
+<div class="listing-author">
+Derek Willis
+</div>
+</a>
+</div>
+</div>
+<div class="quarto-post image-right" data-index="4" data-listing-date-sort="1514437200000" data-listing-file-modified-sort="1672335376111" data-listing-reading-time-sort="11.5">
+<div class="thumbnail">
+<a href="./archives/2017/12/28/academy-fight-song-part-2/index.html">
+<div class="thumbnail-image">
+
+</div>
+</a><p><a href="./archives/2017/12/28/academy-fight-song-part-2/index.html"></a></p>
+</div>
+<div class="body">
+<a href="./archives/2017/12/28/academy-fight-song-part-2/index.html">
+<h3 class="no-anchor listing-title">
+Academy Fight Song, Part 2
+</h3>
+<div class="listing-subtitle">
+
+</div>
+<div class="listing-description">
+It begins, as so many things do these days, with a tweet.
+</div>
+</a>
+</div>
+<div class="metadata">
+<a href="./archives/2017/12/28/academy-fight-song-part-2/index.html">
+<div class="listing-date">
+Dec 28, 2017
+</div>
+<div class="listing-author">
+Derek Willis
+</div>
+</a>
+</div>
+</div>
+<div class="quarto-post image-right" data-index="5" data-listing-date-sort="1475121600000" data-listing-file-modified-sort="1672335398448" data-listing-reading-time-sort="5.455">
+<div class="thumbnail">
+<a href="./archives/2016/09/29/government-and-civic-tech/index.html">
+<div class="thumbnail-image">
+
+</div>
+</a><p><a href="./archives/2016/09/29/government-and-civic-tech/index.html"></a></p>
+</div>
+<div class="body">
+<a href="./archives/2016/09/29/government-and-civic-tech/index.html">
+<h3 class="no-anchor listing-title">
+Government and Civic Tech
+</h3>
+<div class="listing-subtitle">
+
+</div>
+<div class="listing-description">
+Looking at what has happened to…
+</div>
+</a>
+</div>
+<div class="metadata">
+<a href="./archives/2016/09/29/government-and-civic-tech/index.html">
+<div class="listing-date">
+Sep 29, 2016
+</div>
+<div class="listing-author">
+Derek Willis
+</div>
+</a>
+</div>
+</div>
+<div class="quarto-post image-right" data-index="6" data-listing-date-sort="1438142400000" data-listing-file-modified-sort="1672335408377" data-listing-reading-time-sort="3.815">
+<div class="thumbnail">
+<a href="./archives/2015/07/29/my-favorite-things/index.html">
+<div class="thumbnail-image">
+
+</div>
+</a><p><a href="./archives/2015/07/29/my-favorite-things/index.html"></a></p>
+</div>
+<div class="body">
+<a href="./archives/2015/07/29/my-favorite-things/index.html">
+<h3 class="no-anchor listing-title">
+My Favorite Things
+</h3>
+<div class="listing-subtitle">
+
+</div>
+<div class="listing-description">
+As first reported on the tweets, I have a new job, at ProPublica, where I’ll be working on news applications, investigations and other incredible stuff with the News Apps team…
+</div>
+</a>
+</div>
+<div class="metadata">
+<a href="./archives/2015/07/29/my-favorite-things/index.html">
+<div class="listing-date">
+Jul 29, 2015
+</div>
+<div class="listing-author">
+Derek Willis
+</div>
+</a>
+</div>
+</div>
+<div class="quarto-post image-right" data-index="7" data-listing-date-sort="1433563200000" data-listing-file-modified-sort="1672335411901" data-listing-reading-time-sort="4.295">
+<div class="thumbnail">
+<a href="./archives/2015/06/06/civic-data-and-journalism/index.html">
+<div class="thumbnail-image">
+
+</div>
+</a><p><a href="./archives/2015/06/06/civic-data-and-journalism/index.html"></a></p>
+</div>
+<div class="body">
+<a href="./archives/2015/06/06/civic-data-and-journalism/index.html">
+<h3 class="no-anchor listing-title">
+Civic Data and Journalism
+</h3>
+<div class="listing-subtitle">
+
+</div>
+<div class="listing-description">
+A solid foundation of publicly available, consistent civic data -…
+</div>
+</a>
+</div>
+<div class="metadata">
+<a href="./archives/2015/06/06/civic-data-and-journalism/index.html">
+<div class="listing-date">
+Jun 6, 2015
+</div>
+<div class="listing-author">
+Derek Willis
+</div>
+</a>
+</div>
+</div>
+<div class="quarto-post image-right" data-index="8" data-listing-date-sort="1416200400000" data-listing-file-modified-sort="1672335416657" data-listing-reading-time-sort="4.86">
+<div class="thumbnail">
+<a href="./archives/2014/11/17/were-all-publishers-now/index.html">
+<div class="thumbnail-image">
+
+</div>
+</a><p><a href="./archives/2014/11/17/were-all-publishers-now/index.html"></a></p>
+</div>
+<div class="body">
+<a href="./archives/2014/11/17/were-all-publishers-now/index.html">
+<h3 class="no-anchor listing-title">
+We’re All Publishers Now
+</h3>
+<div class="listing-subtitle">
+
+</div>
+<div class="listing-description">
+Last weekend I had myself a proper Twitter rant.
+</div>
+</a>
+</div>
+<div class="metadata">
+<a href="./archives/2014/11/17/were-all-publishers-now/index.html">
+<div class="listing-date">
+Nov 17, 2014
+</div>
+<div class="listing-author">
+Derek Willis
+</div>
+</a>
+</div>
+</div>
+<div class="quarto-post image-right" data-index="9" data-listing-date-sort="1404792000000" data-listing-file-modified-sort="1672335419584" data-listing-reading-time-sort="3.81">
+<div class="thumbnail">
+<p><a href="./archives/2014/07/08/lightning-strikes/index.html"> <img src="http://knightlab.northwestern.edu/wp-content/uploads/2014/03/lightningtalks_NICAR14_akesslerdc.jpg " class="thumnail-image"> </a></p>
+</div>
+<div class="body">
+<a href="./archives/2014/07/08/lightning-strikes/index.html">
+<h3 class="no-anchor listing-title">
+Lightning Strikes
+</h3>
+<div class="listing-subtitle">
+
+</div>
+<div class="listing-description">
+On November 19, 2009, Jaimi Dowdell of Investigative Reporters &amp; Editors sent an email to more than a dozen of us asking about some ideas for advanced sessions for the 2010 CAR conference…
+</div>
+</a>
+</div>
+<div class="metadata">
+<a href="./archives/2014/07/08/lightning-strikes/index.html">
+<div class="listing-date">
+Jul 8, 2014
+</div>
+<div class="listing-author">
+Derek Willis
+</div>
+</a>
+</div>
+</div>
+<div class="quarto-post image-right" data-index="10" data-listing-date-sort="1400731200000" data-listing-file-modified-sort="1672335423014" data-listing-reading-time-sort="3.58">
+<div class="thumbnail">
+<a href="./archives/2014/05/22/how-it-starts/index.html">
+<div class="thumbnail-image">
+
+</div>
+</a><p><a href="./archives/2014/05/22/how-it-starts/index.html"></a></p>
+</div>
+<div class="body">
+<a href="./archives/2014/05/22/how-it-starts/index.html">
+<h3 class="no-anchor listing-title">
+How It Starts
+</h3>
+<div class="listing-subtitle">
+
+</div>
+<div class="listing-description">
+Tomorrow is Aron Pilhofer’s last day at The New York Times.
+</div>
+</a>
+</div>
+<div class="metadata">
+<a href="./archives/2014/05/22/how-it-starts/index.html">
+<div class="listing-date">
+May 22, 2014
+</div>
+<div class="listing-author">
+Derek Willis
+</div>
+</a>
+</div>
+</div>
+<div class="quarto-post image-right" data-index="11" data-listing-date-sort="1381291200000" data-listing-file-modified-sort="1672335858564" data-listing-reading-time-sort="3.255">
+<div class="thumbnail">
+<a href="./archives/2013/10/09/data-journalism-student-media-edition/index.html">
+<div class="thumbnail-image">
+
+</div>
+</a><p><a href="./archives/2013/10/09/data-journalism-student-media-edition/index.html"></a></p>
+</div>
+<div class="body">
+<a href="./archives/2013/10/09/data-journalism-student-media-edition/index.html">
+<h3 class="no-anchor listing-title">
+Data Journalism, Student Media Edition
+</h3>
+<div class="listing-subtitle">
+
+</div>
+<div class="listing-description">
+I had the privilege of speaking to students (and some faculty) at Duke University on Monday, and it was inspiring to see so many people come out to listen to a very geeky talk, to say nothing of the speaker. Afterwards, several students came up to ask…
+</div>
+</a>
+</div>
+<div class="metadata">
+<a href="./archives/2013/10/09/data-journalism-student-media-edition/index.html">
+<div class="listing-date">
+Oct 9, 2013
+</div>
+<div class="listing-author">
+Derek Willis
+</div>
+</a>
+</div>
+</div>
+<div class="quarto-post image-right" data-index="12" data-listing-date-sort="1380600000000" data-listing-file-modified-sort="1672335941953" data-listing-reading-time-sort="8.34">
+<div class="thumbnail">
+<a href="./archives/2013/10/01/the-natives-arent-restless-enough/index.html">
+<div class="thumbnail-image">
+
+</div>
+</a><p><a href="./archives/2013/10/01/the-natives-arent-restless-enough/index.html"></a></p>
+</div>
+<div class="body">
+<a href="./archives/2013/10/01/the-natives-arent-restless-enough/index.html">
+<h3 class="no-anchor listing-title">
+The Natives Aren’t Restless Enough
+</h3>
+<div class="listing-subtitle">
+
+</div>
+<div class="listing-description">
+A couple of points to start with, in the hopes of not wasting readers’ time and preparing for some reactions:
+</div>
+</a>
+</div>
+<div class="metadata">
+<a href="./archives/2013/10/01/the-natives-arent-restless-enough/index.html">
+<div class="listing-date">
+Oct 1, 2013
+</div>
+<div class="listing-author">
+Derek Willis
+</div>
+</a>
+</div>
+</div>
+<div class="quarto-post image-right" data-index="13" data-listing-date-sort="1377144000000" data-listing-file-modified-sort="1672363606231" data-listing-reading-time-sort="6.49">
+<div class="thumbnail">
+<a href="./archives/2013/08/22/teaching-hospitals-journalism-education-and-a-hatchet-job/index.html">
+<div class="thumbnail-image">
+
+</div>
+</a><p><a href="./archives/2013/08/22/teaching-hospitals-journalism-education-and-a-hatchet-job/index.html"></a></p>
+</div>
+<div class="body">
+<a href="./archives/2013/08/22/teaching-hospitals-journalism-education-and-a-hatchet-job/index.html">
+<h3 class="no-anchor listing-title">
+Teaching Hospitals, Journalism Education and a Hatchet Job
+</h3>
+<div class="listing-subtitle">
+
+</div>
+<div class="listing-description">
+Donica Mensing and David Ryfe from the Reynolds School of Journalism at the University of Nevada, Reno, have published a paper that attempts to argue that recent…
+</div>
+</a>
+</div>
+<div class="metadata">
+<a href="./archives/2013/08/22/teaching-hospitals-journalism-education-and-a-hatchet-job/index.html">
+<div class="listing-date">
+Aug 22, 2013
+</div>
+<div class="listing-author">
+Derek Willis
+</div>
+</a>
+</div>
+</div>
+<div class="quarto-post image-right" data-index="14" data-listing-date-sort="1373947200000" data-listing-file-modified-sort="1672363580368" data-listing-reading-time-sort="3.785">
+<div class="thumbnail">
+<a href="./archives/2013/07/16/why-develop-in-the-newsroom/index.html">
+<div class="thumbnail-image">
+
+</div>
+</a><p><a href="./archives/2013/07/16/why-develop-in-the-newsroom/index.html"></a></p>
+</div>
+<div class="body">
+<a href="./archives/2013/07/16/why-develop-in-the-newsroom/index.html">
+<h3 class="no-anchor listing-title">
+Why Develop in the Newsroom?
+</h3>
+<div class="listing-subtitle">
+
+</div>
+<div class="listing-description">
+Nearly a decade ago, I sat…
+</div>
+</a>
+</div>
+<div class="metadata">
+<a href="./archives/2013/07/16/why-develop-in-the-newsroom/index.html">
+<div class="listing-date">
+Jul 16, 2013
+</div>
+<div class="listing-author">
+Derek Willis
+</div>
+</a>
+</div>
+</div>
+<div class="quarto-post image-right" data-index="15" data-listing-date-sort="1372737600000" data-listing-file-modified-sort="1672363823630" data-listing-reading-time-sort="2.82">
+<div class="thumbnail">
+<a href="./archives/2013/07/02/what-good-is-dat/index.html">
+<div class="thumbnail-image">
+
+</div>
+</a><p><a href="./archives/2013/07/02/what-good-is-dat/index.html"></a></p>
+</div>
+<div class="body">
+<a href="./archives/2013/07/02/what-good-is-dat/index.html">
+<h3 class="no-anchor listing-title">
+What Good is Dat?
+</h3>
+<div class="listing-subtitle">
+
+</div>
+<div class="listing-description">
+Max Ogden, a one-man band of interesting civic (and other) coding, has a new project called <code>dat</code>. <code>Dat</code> is “a new initiative that seeks to increase the traction of the open…<code></code>
+</div>
+</a>
+</div>
+<div class="metadata">
+<a href="./archives/2013/07/02/what-good-is-dat/index.html">
+<div class="listing-date">
+Jul 2, 2013
+</div>
+<div class="listing-author">
+Derek Willis
+</div>
+</a>
+</div>
+</div>
+<div class="quarto-post image-right" data-index="16" data-listing-date-sort="1370318400000" data-listing-file-modified-sort="1672363905378" data-listing-reading-time-sort="10.525">
+<div class="thumbnail">
+<a href="./archives/2013/06/04/lessons-from-data-crunched-democracy/index.html">
+<div class="thumbnail-image">
+
+</div>
+</a><p><a href="./archives/2013/06/04/lessons-from-data-crunched-democracy/index.html"></a></p>
+</div>
+<div class="body">
+<a href="./archives/2013/06/04/lessons-from-data-crunched-democracy/index.html">
+<h3 class="no-anchor listing-title">
+Lessons from ‘Data-Crunched Democracy’
+</h3>
+<div class="listing-subtitle">
+
+</div>
+<div class="listing-description">
+Last Friday I traveled to Philadelphia for Data-Crunched Democracy, a conference drawing together political consultants, data analysis and targeting professionals, academics and journalists to discuss the impacts of “big data” on…
+</div>
+</a>
+</div>
+<div class="metadata">
+<a href="./archives/2013/06/04/lessons-from-data-crunched-democracy/index.html">
+<div class="listing-date">
+Jun 4, 2013
+</div>
+<div class="listing-author">
+Derek Willis
+</div>
+</a>
+</div>
+</div>
+<div class="quarto-post image-right" data-index="17" data-listing-date-sort="1369108800000" data-listing-file-modified-sort="1672368280154" data-listing-reading-time-sort="3.315">
+<div class="thumbnail">
+<a href="./archives/2013/05/21/what-they-say-about-us/index.html">
+<div class="thumbnail-image">
+
+</div>
+</a><p><a href="./archives/2013/05/21/what-they-say-about-us/index.html"></a></p>
+</div>
+<div class="body">
+<a href="./archives/2013/05/21/what-they-say-about-us/index.html">
+<h3 class="no-anchor listing-title">
+What They Say About Us
+</h3>
+<div class="listing-subtitle">
+
+</div>
+<div class="listing-description">
+As journalism buzzwords go these days, analytics has a lot going for it. The term is broad enough to encompass a wide range of ideas, ranging from the “dark side” where the application of analytics leads to bad and banal writing to the use of…
+</div>
+</a>
+</div>
+<div class="metadata">
+<a href="./archives/2013/05/21/what-they-say-about-us/index.html">
+<div class="listing-date">
+May 21, 2013
+</div>
+<div class="listing-author">
+Derek Willis
+</div>
+</a>
+</div>
+</div>
+<div class="quarto-post image-right" data-index="18" data-listing-date-sort="1367121600000" data-listing-file-modified-sort="1672368339475" data-listing-reading-time-sort="9.285">
+<div class="thumbnail">
+<a href="./archives/2013/04/28/academy-fight-song/index.html">
+<div class="thumbnail-image">
+
+</div>
+</a><p><a href="./archives/2013/04/28/academy-fight-song/index.html"></a></p>
+</div>
+<div class="body">
+<a href="./archives/2013/04/28/academy-fight-song/index.html">
+<h3 class="no-anchor listing-title">
+Academy Fight Song
+</h3>
+<div class="listing-subtitle">
+
+</div>
+<div class="listing-description">
+<em>What’s that I hear</em><br>
+<em>The sound of marching feet</em><br>
+<em>It has a strange allure</em><br>
+<em>Has a strange allure</em><br>
+Mission of Burma, “Academy Fight Song”
+</div>
+</a>
+</div>
+<div class="metadata">
+<a href="./archives/2013/04/28/academy-fight-song/index.html">
+<div class="listing-date">
+Apr 28, 2013
+</div>
+<div class="listing-author">
+Derek Willis
+</div>
+</a>
+</div>
+</div>
+<div class="quarto-post image-right" data-index="19" data-listing-date-sort="1366776000000" data-listing-file-modified-sort="1672411763372" data-listing-reading-time-sort="2.515">
+<div class="thumbnail">
+<a href="./archives/2013/04/24/the-itemizer/index.html">
+<div class="thumbnail-image">
+
+</div>
+</a><p><a href="./archives/2013/04/24/the-itemizer/index.html"></a></p>
+</div>
+<div class="body">
+<a href="./archives/2013/04/24/the-itemizer/index.html">
+<h3 class="no-anchor listing-title">
+The Itemizer
+</h3>
+<div class="listing-subtitle">
+
+</div>
+<div class="listing-description">
+Here’s a little secret about me: I love campaign finance data.
+</div>
+</a>
+</div>
+<div class="metadata">
+<a href="./archives/2013/04/24/the-itemizer/index.html">
+<div class="listing-date">
+Apr 24, 2013
+</div>
+<div class="listing-author">
+Derek Willis
+</div>
+</a>
+</div>
+</div>
+<div class="quarto-post image-right" data-index="20" data-listing-date-sort="1363658160000" data-listing-file-modified-sort="1672442323138" data-listing-reading-time-sort="2.075">
+<div class="thumbnail">
+<a href="./archives/2013/03/18/steve-coll/index.html">
+<div class="thumbnail-image">
+
+</div>
+</a><p><a href="./archives/2013/03/18/steve-coll/index.html"></a></p>
+</div>
+<div class="body">
+<a href="./archives/2013/03/18/steve-coll/index.html">
+<h3 class="no-anchor listing-title">
+Steve Coll
+</h3>
+<div class="listing-subtitle">
+
+</div>
+<div class="listing-description">
+I have a ton of respect for Steve Coll, who was named dean of the Columbia…
+</div>
+</a>
+</div>
+<div class="metadata">
+<a href="./archives/2013/03/18/steve-coll/index.html">
+<div class="listing-date">
+Mar 18, 2013
+</div>
+<div class="listing-author">
+Derek Willis
+</div>
+</a>
+</div>
+</div>
+<div class="quarto-post image-right" data-index="21" data-listing-date-sort="1362200400000" data-listing-file-modified-sort="1672411820478" data-listing-reading-time-sort="3.9">
+<div class="thumbnail">
+<a href="./archives/2013/03/02/mobile-apps-where-the-data-lives/index.html">
+<div class="thumbnail-image">
+
+</div>
+</a><p><a href="./archives/2013/03/02/mobile-apps-where-the-data-lives/index.html"></a></p>
+</div>
+<div class="body">
+<a href="./archives/2013/03/02/mobile-apps-where-the-data-lives/index.html">
+<h3 class="no-anchor listing-title">
+Mobile Apps - Where the data lives
+</h3>
+<div class="listing-subtitle">
+
+</div>
+<div class="listing-description">
+At first glance, I wasn’t sure how useful a mobile app for presidential documents would be. After all, it’s not too…
+</div>
+</a>
+</div>
+<div class="metadata">
+<a href="./archives/2013/03/02/mobile-apps-where-the-data-lives/index.html">
+<div class="listing-date">
+Mar 2, 2013
+</div>
+<div class="listing-author">
+Derek Willis
+</div>
+</a>
+</div>
+</div>
+<div class="quarto-post image-right" data-index="22" data-listing-date-sort="1358991900000" data-listing-file-modified-sort="1672415636250" data-listing-reading-time-sort="2.06">
+<div class="thumbnail">
+<a href="./archives/2013/01/23/magic-removal/index.html">
+<div class="thumbnail-image">
+
+</div>
+</a><p><a href="./archives/2013/01/23/magic-removal/index.html"></a></p>
+</div>
+<div class="body">
+<a href="./archives/2013/01/23/magic-removal/index.html">
+<h3 class="no-anchor listing-title">
+Magic Removal
+</h3>
+<div class="listing-subtitle">
+
+</div>
+<div class="listing-description">
+Few may remember this, but Aaron Swartz kickstarted Django’s magic-removal effort years ago. Django is 1000x better thanks to his feedback. — Adrian Holovaty (<span class="citation" data-cites="adrianholovaty">@adrianholovaty</span>) January 12…
+</div>
+</a>
+</div>
+<div class="metadata">
+<a href="./archives/2013/01/23/magic-removal/index.html">
+<div class="listing-date">
+Jan 23, 2013
+</div>
+<div class="listing-author">
+Derek Willis
+</div>
+</a>
+</div>
+</div>
+<div class="quarto-post image-right" data-index="23" data-listing-date-sort="1358129700000" data-listing-file-modified-sort="1672415753314" data-listing-reading-time-sort="4.49">
+<div class="thumbnail">
+<a href="./archives/2013/01/13/on-aaron-swartz/index.html">
+<div class="thumbnail-image">
+
+</div>
+</a><p><a href="./archives/2013/01/13/on-aaron-swartz/index.html"></a></p>
+</div>
+<div class="body">
+<a href="./archives/2013/01/13/on-aaron-swartz/index.html">
+<h3 class="no-anchor listing-title">
+On Aaron Swartz
+</h3>
+<div class="listing-subtitle">
+
+</div>
+<div class="listing-description">
+After trading some emails with Aaron Swartz in 2004 and 2005 about building a congressional…
+</div>
+</a>
+</div>
+<div class="metadata">
+<a href="./archives/2013/01/13/on-aaron-swartz/index.html">
+<div class="listing-date">
+Jan 13, 2013
+</div>
+<div class="listing-author">
+Derek Willis
+</div>
+</a>
+</div>
+</div>
+<div class="quarto-post image-right" data-index="24" data-listing-date-sort="1356498000000" data-listing-file-modified-sort="1672411906586" data-listing-reading-time-sort="3.855">
+<div class="thumbnail">
+<a href="./archives/2012/2012-12-26-the-data-driven-congressional-reporter/index.html">
+<div class="thumbnail-image">
+
+</div>
+</a><p><a href="./archives/2012/2012-12-26-the-data-driven-congressional-reporter/index.html"></a></p>
+</div>
+<div class="body">
+<a href="./archives/2012/2012-12-26-the-data-driven-congressional-reporter/index.html">
+<h3 class="no-anchor listing-title">
+The Data-Driven Congressional Reporter
+</h3>
+<div class="listing-subtitle">
+
+</div>
+<div class="listing-description">
+Washington is full of reporters who excel at finding and building sources, or at knowing which documents to look for and when.…
+</div>
+</a>
+</div>
+<div class="metadata">
+<a href="./archives/2012/2012-12-26-the-data-driven-congressional-reporter/index.html">
+<div class="listing-date">
+Dec 26, 2012
+</div>
+<div class="listing-author">
+Derek Willis
+</div>
+</a>
+</div>
+</div>
+<div class="quarto-post image-right" data-index="25" data-listing-date-sort="1355604360000" data-listing-file-modified-sort="1672415783733" data-listing-reading-time-sort="2.985">
+<div class="thumbnail">
+<a href="./archives/2012/2012-12-15-on-vengeance/index.html">
+<div class="thumbnail-image">
+
+</div>
+</a><p><a href="./archives/2012/2012-12-15-on-vengeance/index.html"></a></p>
+</div>
+<div class="body">
+<a href="./archives/2012/2012-12-15-on-vengeance/index.html">
+<h3 class="no-anchor listing-title">
+On Vengeance
+</h3>
+<div class="listing-subtitle">
+
+</div>
+<div class="listing-description">
+I was 23 years old when I saw someone die, and my first thought about it is that I don’t recommend the experience.
+</div>
+</a>
+</div>
+<div class="metadata">
+<a href="./archives/2012/2012-12-15-on-vengeance/index.html">
+<div class="listing-date">
+Dec 15, 2012
+</div>
+<div class="listing-author">
+Derek Willis
+</div>
+</a>
+</div>
+</div>
+<div class="quarto-post image-right" data-index="26" data-listing-date-sort="1354540123000" data-listing-file-modified-sort="1672415828452" data-listing-reading-time-sort="4.875">
+<div class="thumbnail">
+<a href="./archives/2012/2012-12-03-thoughts-on-newsfoo/index.html">
+<div class="thumbnail-image">
+
+</div>
+</a><p><a href="./archives/2012/2012-12-03-thoughts-on-newsfoo/index.html"></a></p>
+</div>
+<div class="body">
+<a href="./archives/2012/2012-12-03-thoughts-on-newsfoo/index.html">
+<h3 class="no-anchor listing-title">
+Thoughts on NewsFoo
+</h3>
+<div class="listing-subtitle">
+
+</div>
+<div class="listing-description">
+In NewsFoo style, a brief introduction to this post:
+</div>
+</a>
+</div>
+<div class="metadata">
+<a href="./archives/2012/2012-12-03-thoughts-on-newsfoo/index.html">
+<div class="listing-date">
+Dec 3, 2012
+</div>
+<div class="listing-author">
+Derek Willis
+</div>
+</a>
+</div>
+</div>
+<div class="quarto-post image-right" data-index="27" data-listing-date-sort="1354048080000" data-listing-file-modified-sort="1672415861404" data-listing-reading-time-sort="8.88">
+<div class="thumbnail">
+<a href="./archives/2012/2012-11-27-how-i-got-here/index.html">
+<div class="thumbnail-image">
+
+</div>
+</a><p><a href="./archives/2012/2012-11-27-how-i-got-here/index.html"></a></p>
+</div>
+<div class="body">
+<a href="./archives/2012/2012-11-27-how-i-got-here/index.html">
+<h3 class="no-anchor listing-title">
+How I Got Here
+</h3>
+<div class="listing-subtitle">
+
+</div>
+<div class="listing-description">
+I meant to finish this by Thanksgiving, as a way of acknowledging the key role that female mentors have played in my career. Better late than never.
+</div>
+</a>
+</div>
+<div class="metadata">
+<a href="./archives/2012/2012-11-27-how-i-got-here/index.html">
+<div class="listing-date">
+Nov 27, 2012
+</div>
+<div class="listing-author">
+Derek Willis
+</div>
+</a>
+</div>
+</div>
+<div class="quarto-post image-right" data-index="28" data-listing-date-sort="1352491560000" data-listing-file-modified-sort="1545598640436" data-listing-reading-time-sort="1.515">
+<div class="thumbnail">
+<a href="./archives/2012/2012-11-09-what-ive-been-up-to-lately/index.html">
+<div class="thumbnail-image">
+
+</div>
+</a><p><a href="./archives/2012/2012-11-09-what-ive-been-up-to-lately/index.html"></a></p>
+</div>
+<div class="body">
+<a href="./archives/2012/2012-11-09-what-ive-been-up-to-lately/index.html">
+<h3 class="no-anchor listing-title">
+What I’ve Been Up To Lately
+</h3>
+<div class="listing-subtitle">
+
+</div>
+<div class="listing-description">
+A link dump of election-related work that I’ve contributed to as part of The New York Times’ coverage of the final months of the campaign. In every instance these involved…
+</div>
+</a>
+</div>
+<div class="metadata">
+<a href="./archives/2012/2012-11-09-what-ive-been-up-to-lately/index.html">
+<div class="listing-date">
+Nov 9, 2012
+</div>
+</a>
+</div>
+</div>
+<div class="quarto-post image-right" data-index="29" data-listing-date-sort="1350273600000" data-listing-file-modified-sort="1672413100730" data-listing-reading-time-sort="2.275">
+<div class="thumbnail">
+<a href="./archives/2012/2012-10-15-congressional-data-github/index.html">
+<div class="thumbnail-image">
+
+</div>
+</a><p><a href="./archives/2012/2012-10-15-congressional-data-github/index.html"></a></p>
+</div>
+<div class="body">
+<a href="./archives/2012/2012-10-15-congressional-data-github/index.html">
+<h3 class="no-anchor listing-title">
+Congressional Data on GitHub - A Way Forward
+</h3>
+<div class="listing-subtitle">
+
+</div>
+<div class="listing-description">
+Two years ago, there was a round of blog posts touched off by Clay Johnson that asked, “Why shouldn’t there be a GitHub for data?” My own view at the time was that availability of the data wasn’t as much an issue as smart usage…
+</div>
+</a>
+</div>
+<div class="metadata">
+<a href="./archives/2012/2012-10-15-congressional-data-github/index.html">
+<div class="listing-date">
+Oct 15, 2012
+</div>
+<div class="listing-author">
+Derek Willis
+</div>
+</a>
+</div>
+</div>
+<div class="quarto-post image-right" data-index="30" data-listing-date-sort="1343966400000" data-listing-file-modified-sort="1672413147406" data-listing-reading-time-sort="2.57">
+<div class="thumbnail">
+<a href="./archives/2012/2012-08-03-share-your-knowledge/index.html">
+<div class="thumbnail-image">
+
+</div>
+</a><p><a href="./archives/2012/2012-08-03-share-your-knowledge/index.html"></a></p>
+</div>
+<div class="body">
+<a href="./archives/2012/2012-08-03-share-your-knowledge/index.html">
+<h3 class="no-anchor listing-title">
+Share Your Knowledge
+</h3>
+<div class="listing-subtitle">
+
+</div>
+<div class="listing-description">
+Unlike my friends at The Chicago Tribune, I have no logo to display, but my message here is as important as “Show Your Work”: Share Your Knowledge. In fact, it’s hard to do one…
+</div>
+</a>
+</div>
+<div class="metadata">
+<a href="./archives/2012/2012-08-03-share-your-knowledge/index.html">
+<div class="listing-date">
+Aug 3, 2012
+</div>
+<div class="listing-author">
+Derek Willis
+</div>
+</a>
+</div>
+</div>
+<div class="quarto-post image-right" data-index="31" data-listing-date-sort="1338177600000" data-listing-file-modified-sort="1672413211053" data-listing-reading-time-sort="3.12">
+<div class="thumbnail">
+<a href="./archives/2012/2012-05-28-finding-new-money/index.html">
+<div class="thumbnail-image">
+
+</div>
+</a><p><a href="./archives/2012/2012-05-28-finding-new-money/index.html"></a></p>
+</div>
+<div class="body">
+<a href="./archives/2012/2012-05-28-finding-new-money/index.html">
+<h3 class="no-anchor listing-title">
+Finding New Money
+</h3>
+<div class="listing-subtitle">
+
+</div>
+<div class="listing-description">
+My colleague…
+</div>
+</a>
+</div>
+<div class="metadata">
+<a href="./archives/2012/2012-05-28-finding-new-money/index.html">
+<div class="listing-date">
+May 28, 2012
+</div>
+<div class="listing-author">
+Derek Willis
+</div>
+</a>
+</div>
+</div>
+<div class="quarto-post image-right" data-index="32" data-listing-date-sort="1336881600000" data-listing-file-modified-sort="1672413286524" data-listing-reading-time-sort="5.35">
+<div class="thumbnail">
+<a href="./archives/2012/2012-05-13-lost-in-the-weeds/index.html">
+<div class="thumbnail-image">
+
+</div>
+</a><p><a href="./archives/2012/2012-05-13-lost-in-the-weeds/index.html"></a></p>
+</div>
+<div class="body">
+<a href="./archives/2012/2012-05-13-lost-in-the-weeds/index.html">
+<h3 class="no-anchor listing-title">
+Lost in the Weeds
+</h3>
+<div class="listing-subtitle">
+
+</div>
+<div class="listing-description">
+The indefatigable Alex Howard posted a link today about a draft academic paper on open source and journalism by Nikki Usher of George Washington University and Seth Lewis of the University of Minnesota-Twin Cities. Alex’s…
+</div>
+</a>
+</div>
+<div class="metadata">
+<a href="./archives/2012/2012-05-13-lost-in-the-weeds/index.html">
+<div class="listing-date">
+May 13, 2012
+</div>
+<div class="listing-author">
+Derek Willis
+</div>
+</a>
+</div>
+</div>
+<div class="quarto-post image-right" data-index="33" data-listing-date-sort="1335844800000" data-listing-file-modified-sort="1672413476469" data-listing-reading-time-sort="2.4">
+<div class="thumbnail">
+<a href="./archives/2012/2012-05-01-our-mark-knoller-problem/index.html">
+<div class="thumbnail-image">
+
+</div>
+</a><p><a href="./archives/2012/2012-05-01-our-mark-knoller-problem/index.html"></a></p>
+</div>
+<div class="body">
+<a href="./archives/2012/2012-05-01-our-mark-knoller-problem/index.html">
+<h3 class="no-anchor listing-title">
+Our Mark Knoller Problem
+</h3>
+<div class="listing-subtitle">
+
+</div>
+<div class="listing-description">
+My colleagues at The Times (and other folks I know who cover the White House) tell me that Mark Knoller, the CBS Radio reporter who reports on the president, is a genuinely nice man and someone who has always been extraordinarily generous about sharing what he knows with…
+</div>
+</a>
+</div>
+<div class="metadata">
+<a href="./archives/2012/2012-05-01-our-mark-knoller-problem/index.html">
+<div class="listing-date">
+May 1, 2012
+</div>
+<div class="listing-author">
+Derek Willis
+</div>
+</a>
+</div>
+</div>
+<div class="quarto-post image-right" data-index="34" data-listing-date-sort="1328331600000" data-listing-file-modified-sort="1672413524212" data-listing-reading-time-sort="5.11">
+<div class="thumbnail">
+<a href="./archives/2012/2012-02-04-on-legislative-data-transparency/index.html">
+<div class="thumbnail-image">
+
+</div>
+</a><p><a href="./archives/2012/2012-02-04-on-legislative-data-transparency/index.html"></a></p>
+</div>
+<div class="body">
+<a href="./archives/2012/2012-02-04-on-legislative-data-transparency/index.html">
+<h3 class="no-anchor listing-title">
+On Legislative Data Transparency
+</h3>
+<div class="listing-subtitle">
+
+</div>
+<div class="listing-description">
+This week I was honored to speak at at the Legislative Data and Transparency Conference put on by the Committee on House Administration. If you’re so inclined, the videos of the presentations are online at the conference site, although I must warn you that they contain heavy doses of XML references and…
+</div>
+</a>
+</div>
+<div class="metadata">
+<a href="./archives/2012/2012-02-04-on-legislative-data-transparency/index.html">
+<div class="listing-date">
+Feb 4, 2012
+</div>
+<div class="listing-author">
+Derek Willis
+</div>
+</a>
+</div>
+</div>
+<div class="quarto-post image-right" data-index="35" data-listing-date-sort="1318824000000" data-listing-file-modified-sort="1672413664864" data-listing-reading-time-sort="4.48">
+<div class="thumbnail">
+<a href="./archives/2011/2011-08-10-in-defense-of-building-tools/index.html">
+<div class="thumbnail-image">
+
+</div>
+</a><p><a href="./archives/2011/2011-08-10-in-defense-of-building-tools/index.html"></a></p>
+</div>
+<div class="body">
+<a href="./archives/2011/2011-08-10-in-defense-of-building-tools/index.html">
+<h3 class="no-anchor listing-title">
+In Defense of Building Tools
+</h3>
+<div class="listing-subtitle">
+
+</div>
+<div class="listing-description">
+My first job in Web development was as a member of washingtonpost.com’s “Tools Team.” I was, in title if not in practice, a Tool.
+</div>
+</a>
+</div>
+<div class="metadata">
+<a href="./archives/2011/2011-08-10-in-defense-of-building-tools/index.html">
+<div class="listing-date">
+Oct 17, 2011
+</div>
+<div class="listing-author">
+Derek Willis
+</div>
+</a>
+</div>
+</div>
+<div class="quarto-post image-right" data-index="36" data-listing-date-sort="1318824000000" data-listing-file-modified-sort="1672413573790" data-listing-reading-time-sort="5.655">
+<div class="thumbnail">
+<a href="./archives/2011/2011-10-17-what-we-dont-know-about-elections/index.html">
+<div class="thumbnail-image">
+
+</div>
+</a><p><a href="./archives/2011/2011-10-17-what-we-dont-know-about-elections/index.html"></a></p>
+</div>
+<div class="body">
+<a href="./archives/2011/2011-10-17-what-we-dont-know-about-elections/index.html">
+<h3 class="no-anchor listing-title">
+What We Don’t Know About Elections
+</h3>
+<div class="listing-subtitle">
+
+</div>
+<div class="listing-description">
+If you happened to be at the recent Online News Association conference in Boston and happened to attend the session on covering the 2012 elections, then a good bit of this will be repetitive. Since there wasn’t a ton of time to expand on what I said, and I don’t want to leave the impression that I’m critical of all…
+</div>
+</a>
+</div>
+<div class="metadata">
+<a href="./archives/2011/2011-10-17-what-we-dont-know-about-elections/index.html">
+<div class="listing-date">
+Oct 17, 2011
+</div>
+<div class="listing-author">
+Derek Willis
+</div>
+</a>
+</div>
+</div>
+<div class="quarto-post image-right" data-index="37" data-listing-date-sort="1311739200000" data-listing-file-modified-sort="1672413703879" data-listing-reading-time-sort="2.575">
+<div class="thumbnail">
+<a href="./archives/2011/2011-07-27-why-teach-sql/index.html">
+<div class="thumbnail-image">
+
+</div>
+</a><p><a href="./archives/2011/2011-07-27-why-teach-sql/index.html"></a></p>
+</div>
+<div class="body">
+<a href="./archives/2011/2011-07-27-why-teach-sql/index.html">
+<h3 class="no-anchor listing-title">
+Why Teach SQL?
+</h3>
+<div class="listing-subtitle">
+
+</div>
+<div class="listing-description">
+There was an interesting discussion on the NICAR-L…
+</div>
+</a>
+</div>
+<div class="metadata">
+<a href="./archives/2011/2011-07-27-why-teach-sql/index.html">
+<div class="listing-date">
+Jul 27, 2011
+</div>
+<div class="listing-author">
+Derek Willis
+</div>
+</a>
+</div>
+</div>
+<div class="quarto-post image-right" data-index="38" data-listing-date-sort="1304222400000" data-listing-file-modified-sort="1672413766072" data-listing-reading-time-sort="3.595">
+<div class="thumbnail">
+<a href="./archives/2011/2011-05-01-interviewing-data/index.html">
+<div class="thumbnail-image">
+
+</div>
+</a><p><a href="./archives/2011/2011-05-01-interviewing-data/index.html"></a></p>
+</div>
+<div class="body">
+<a href="./archives/2011/2011-05-01-interviewing-data/index.html">
+<h3 class="no-anchor listing-title">
+Interviewing Data
+</h3>
+<div class="listing-subtitle">
+
+</div>
+<div class="listing-description">
+To my mother’s regret, I was never the literature lover she is. And I am not remotely the writer I might have been expected to be, given that my parents both taught English…
+</div>
+</a>
+</div>
+<div class="metadata">
+<a href="./archives/2011/2011-05-01-interviewing-data/index.html">
+<div class="listing-date">
+May 1, 2011
+</div>
+<div class="listing-author">
+Derek Willis
+</div>
+</a>
+</div>
+</div>
+<div class="quarto-post image-right" data-index="39" data-listing-date-sort="1299387600000" data-listing-file-modified-sort="1672414041032" data-listing-reading-time-sort="3.235">
+<div class="thumbnail">
+<a href="./archives/2011/2011-03-06-what-apis-mean-for-data-journalists/index.html">
+<div class="thumbnail-image">
+
+</div>
+</a><p><a href="./archives/2011/2011-03-06-what-apis-mean-for-data-journalists/index.html"></a></p>
+</div>
+<div class="body">
+<a href="./archives/2011/2011-03-06-what-apis-mean-for-data-journalists/index.html">
+<h3 class="no-anchor listing-title">
+What APIs Mean for Data Journalists
+</h3>
+<div class="listing-subtitle">
+
+</div>
+<div class="listing-description">
+Anthony DeBarros of USA Today and I talked about APIs at this year’s CAR conference in Raleigh. We got a…
+</div>
+</a>
+</div>
+<div class="metadata">
+<a href="./archives/2011/2011-03-06-what-apis-mean-for-data-journalists/index.html">
+<div class="listing-date">
+Mar 6, 2011
+</div>
+<div class="listing-author">
+Derek Willis
+</div>
+</a>
+</div>
+</div>
+<div class="quarto-post image-right" data-index="40" data-listing-date-sort="1291698000000" data-listing-file-modified-sort="1672414080227" data-listing-reading-time-sort="4.435">
+<div class="thumbnail">
+<a href="./archives/2010/2010-12-07-why-students-should-come-to-the-car-conference/index.html">
+<div class="thumbnail-image">
+
+</div>
+</a><p><a href="./archives/2010/2010-12-07-why-students-should-come-to-the-car-conference/index.html"></a></p>
+</div>
+<div class="body">
+<a href="./archives/2010/2010-12-07-why-students-should-come-to-the-car-conference/index.html">
+<h3 class="no-anchor listing-title">
+Why Students Should Come to the CAR Conference
+</h3>
+<div class="listing-subtitle">
+
+</div>
+<div class="listing-description">
+<em>Update: the student price for the conference, $100, does not include IRE membership. That’s $25. Both are bargains.</em>
+</div>
+</a>
+</div>
+<div class="metadata">
+<a href="./archives/2010/2010-12-07-why-students-should-come-to-the-car-conference/index.html">
+<div class="listing-date">
+Dec 7, 2010
+</div>
+<div class="listing-author">
+Derek Willis
+</div>
+</a>
+</div>
+</div>
+<div class="quarto-post image-right" data-index="41" data-listing-date-sort="1284436800000" data-listing-file-modified-sort="1672414129513" data-listing-reading-time-sort="3.38">
+<div class="thumbnail">
+<a href="./archives/2010/2010-09-14-hard-problems/index.html">
+<div class="thumbnail-image">
+
+</div>
+</a><p><a href="./archives/2010/2010-09-14-hard-problems/index.html"></a></p>
+</div>
+<div class="body">
+<a href="./archives/2010/2010-09-14-hard-problems/index.html">
+<h3 class="no-anchor listing-title">
+Hard Problems
+</h3>
+<div class="listing-subtitle">
+
+</div>
+<div class="listing-description">
+I wasn’t going to respond to Ellen Miller’s comments on my previous post, mostly because I thought I had said what I wanted to. But now that O’Reilly has picked up on things, I figure it might be worth one last attempt on my part. Your experience, of course, may argue against…
+</div>
+</a>
+</div>
+<div class="metadata">
+<a href="./archives/2010/2010-09-14-hard-problems/index.html">
+<div class="listing-date">
+Sep 14, 2010
+</div>
+<div class="listing-author">
+Derek Willis
+</div>
+</a>
+</div>
+</div>
+<div class="quarto-post image-right" data-index="42" data-listing-date-sort="1284177600000" data-listing-file-modified-sort="1672414176659" data-listing-reading-time-sort="2.9">
+<div class="thumbnail">
+<a href="./archives/2010/2010-09-11-how-far-weve-come/index.html">
+<div class="thumbnail-image">
+
+</div>
+</a><p><a href="./archives/2010/2010-09-11-how-far-weve-come/index.html"></a></p>
+</div>
+<div class="body">
+<a href="./archives/2010/2010-09-11-how-far-weve-come/index.html">
+<h3 class="no-anchor listing-title">
+How Far We’ve Come
+</h3>
+<div class="listing-subtitle">
+
+</div>
+<div class="listing-description">
+There’s been a bit of discussion lately in the open…
+</div>
+</a>
+</div>
+<div class="metadata">
+<a href="./archives/2010/2010-09-11-how-far-weve-come/index.html">
+<div class="listing-date">
+Sep 11, 2010
+</div>
+<div class="listing-author">
+Derek Willis
+</div>
+</a>
+</div>
+</div>
+<div class="quarto-post image-right" data-index="43" data-listing-date-sort="1280548800000" data-listing-file-modified-sort="1672414211376" data-listing-reading-time-sort="1.835">
+<div class="thumbnail">
+<a href="./archives/2010/2010-07-31-a-github-for-data/index.html">
+<div class="thumbnail-image">
+
+</div>
+</a><p><a href="./archives/2010/2010-07-31-a-github-for-data/index.html"></a></p>
+</div>
+<div class="body">
+<a href="./archives/2010/2010-07-31-a-github-for-data/index.html">
+<h3 class="no-anchor listing-title">
+A GitHub for Data?
+</h3>
+<div class="listing-subtitle">
+
+</div>
+<div class="listing-description">
+Clay…
+</div>
+</a>
+</div>
+<div class="metadata">
+<a href="./archives/2010/2010-07-31-a-github-for-data/index.html">
+<div class="listing-date">
+Jul 31, 2010
+</div>
+<div class="listing-author">
+Derek Willis
+</div>
+</a>
+</div>
+</div>
+<div class="quarto-post image-right" data-index="44" data-listing-date-sort="1278907200000" data-listing-file-modified-sort="1672414504946" data-listing-reading-time-sort="2.785">
+<div class="thumbnail">
+<a href="./archives/2010/2010-07-12-how-apis-help-the-newsroom/index.html">
+<div class="thumbnail-image">
+
+</div>
+</a><p><a href="./archives/2010/2010-07-12-how-apis-help-the-newsroom/index.html"></a></p>
+</div>
+<div class="body">
+<a href="./archives/2010/2010-07-12-how-apis-help-the-newsroom/index.html">
+<h3 class="no-anchor listing-title">
+How APIs Help the Newsroom
+</h3>
+<div class="listing-subtitle">
+
+</div>
+<div class="listing-description">
+As nice as it is to get praised for the civic-mindedness of your work, the not-so-secret secret about APIs at The Times is that we’re the biggest…
+</div>
+</a>
+</div>
+<div class="metadata">
+<a href="./archives/2010/2010-07-12-how-apis-help-the-newsroom/index.html">
+<div class="listing-date">
+Jul 12, 2010
+</div>
+<div class="listing-author">
+Derek Willis
+</div>
+</a>
+</div>
+</div>
+<div class="quarto-post image-right" data-index="45" data-listing-date-sort="1273550400000" data-listing-file-modified-sort="1672414743974" data-listing-reading-time-sort="2.55">
+<div class="thumbnail">
+<p><a href="./archives/2010/2010-05-11-using-the-nyt-congress-api-with-excel/index.html"> <img data-src="./archives/images/key_signup.png" class="thumnail-image"> </a></p>
+</div>
+<div class="body">
+<a href="./archives/2010/2010-05-11-using-the-nyt-congress-api-with-excel/index.html">
+<h3 class="no-anchor listing-title">
+Using the NYT Congress API with … Excel?
+</h3>
+<div class="listing-subtitle">
+
+</div>
+<div class="listing-description">
+It’s true that Excel has been a decreasing part of my toolkit for several years now, and that I never quite had the…
+</div>
+</a>
+</div>
+<div class="metadata">
+<a href="./archives/2010/2010-05-11-using-the-nyt-congress-api-with-excel/index.html">
+<div class="listing-date">
+May 11, 2010
+</div>
+<div class="listing-author">
+Derek Willis
+</div>
+</a>
+</div>
+</div>
+<div class="quarto-post image-right" data-index="46" data-listing-date-sort="1266901200000" data-listing-file-modified-sort="1672414878345" data-listing-reading-time-sort="2.41">
+<div class="thumbnail">
+<a href="./archives/2010/2010-02-23-a-gentle-introduction-to-google-app-engine/index.html">
+<div class="thumbnail-image">
+
+</div>
+</a><p><a href="./archives/2010/2010-02-23-a-gentle-introduction-to-google-app-engine/index.html"></a></p>
+</div>
+<div class="body">
+<a href="./archives/2010/2010-02-23-a-gentle-introduction-to-google-app-engine/index.html">
+<h3 class="no-anchor listing-title">
+A Gentle Introduction to Google App Engine
+</h3>
+<div class="listing-subtitle">
+
+</div>
+<div class="listing-description">
+As part of our roll-out of version 3 of the NYT Congress API, I was tasked with coming up…
+</div>
+</a>
+</div>
+<div class="metadata">
+<a href="./archives/2010/2010-02-23-a-gentle-introduction-to-google-app-engine/index.html">
+<div class="listing-date">
+Feb 23, 2010
+</div>
+<div class="listing-author">
+Derek Willis
+</div>
+</a>
+</div>
+</div>
+<div class="quarto-post image-right" data-index="47" data-listing-date-sort="1266469200000" data-listing-file-modified-sort="1672415163858" data-listing-reading-time-sort="0.795">
+<div class="thumbnail">
+<a href="./archives/2010/2010-02-18-lightning-talks-at-nicar/index.html">
+<div class="thumbnail-image">
+
+</div>
+</a><p><a href="./archives/2010/2010-02-18-lightning-talks-at-nicar/index.html"></a></p>
+</div>
+<div class="body">
+<a href="./archives/2010/2010-02-18-lightning-talks-at-nicar/index.html">
+<h3 class="no-anchor listing-title">
+Lightning Talks at NICAR
+</h3>
+<div class="listing-subtitle">
+
+</div>
+<div class="listing-description">
+This year’s computer-assisted reporting conference in Phoenix has a couple of new sessions on the schedule. One of them is…
+</div>
+</a>
+</div>
+<div class="metadata">
+<a href="./archives/2010/2010-02-18-lightning-talks-at-nicar/index.html">
+<div class="listing-date">
+Feb 18, 2010
+</div>
+<div class="listing-author">
+Derek Willis
+</div>
+</a>
+</div>
+</div>
+<div class="quarto-post image-right" data-index="48" data-listing-date-sort="1261717200000" data-listing-file-modified-sort="1672416011353" data-listing-reading-time-sort="2.01">
+<div class="thumbnail">
+<a href="./archives/2009/2009-12-25-the-gift-of-data/index.html">
+<div class="thumbnail-image">
+
+</div>
+</a><p><a href="./archives/2009/2009-12-25-the-gift-of-data/index.html"></a></p>
+</div>
+<div class="body">
+<a href="./archives/2009/2009-12-25-the-gift-of-data/index.html">
+<h3 class="no-anchor listing-title">
+The Gift of Data
+</h3>
+<div class="listing-subtitle">
+
+</div>
+<div class="listing-description">
+One of the more challenging and interesting projects at work lately has been the work we’ve done on the Toxic Waters series by Charles Duhigg. Since the stories have explored water quality throughout the United States, the web component accompanying some of the stories have been national…
+</div>
+</a>
+</div>
+<div class="metadata">
+<a href="./archives/2009/2009-12-25-the-gift-of-data/index.html">
+<div class="listing-date">
+Dec 25, 2009
+</div>
+<div class="listing-author">
+Derek Willis
+</div>
+</a>
+</div>
+</div>
+<div class="quarto-post image-right" data-index="49" data-listing-date-sort="1259470800000" data-listing-file-modified-sort="1672416078957" data-listing-reading-time-sort="3.235">
+<div class="thumbnail">
+<a href="./archives/2009/2009-11-29-the-future-of-ire-training/index.html">
+<div class="thumbnail-image">
+
+</div>
+</a><p><a href="./archives/2009/2009-11-29-the-future-of-ire-training/index.html"></a></p>
+</div>
+<div class="body">
+<a href="./archives/2009/2009-11-29-the-future-of-ire-training/index.html">
+<h3 class="no-anchor listing-title">
+The Future of IRE Training
+</h3>
+<div class="listing-subtitle">
+
+</div>
+<div class="listing-description">
+Anyone in journalism who knows me knows how much of a debt I owe to an organization called Investigative Reporters and Editors. Sure, I liked playing with data before I found out about IRE, but the knowledge and support that I’ve received from IRE training, conferences and members has…
+</div>
+</a>
+</div>
+<div class="metadata">
+<a href="./archives/2009/2009-11-29-the-future-of-ire-training/index.html">
+<div class="listing-date">
+Nov 29, 2009
+</div>
+<div class="listing-author">
+Derek Willis
+</div>
+</a>
+</div>
+</div>
+<div class="quarto-post image-right" data-index="50" data-listing-date-sort="1258779600000" data-listing-file-modified-sort="1672416133654" data-listing-reading-time-sort="3.995">
+<div class="thumbnail">
+<a href="./archives/2009/2009-11-21-a-question-of-emphasis/index.html">
+<div class="thumbnail-image">
+
+</div>
+</a><p><a href="./archives/2009/2009-11-21-a-question-of-emphasis/index.html"></a></p>
+</div>
+<div class="body">
+<a href="./archives/2009/2009-11-21-a-question-of-emphasis/index.html">
+<h3 class="no-anchor listing-title">
+A Question of Emphasis
+</h3>
+<div class="listing-subtitle">
+
+</div>
+<div class="listing-description">
+The job cuts at the Washington Post on Friday have produced a round of comments, broadly summed up by Steve Yelvington earlier today. They certainly begged the question that occurred to me as a former employee of both the Post and WPNI, its soon-to-be…
+</div>
+</a>
+</div>
+<div class="metadata">
+<a href="./archives/2009/2009-11-21-a-question-of-emphasis/index.html">
+<div class="listing-date">
+Nov 21, 2009
+</div>
+<div class="listing-author">
+Derek Willis
+</div>
+</a>
+</div>
+</div>
+<div class="quarto-post image-right" data-index="51" data-listing-date-sort="1257742800000" data-listing-file-modified-sort="1672416158903" data-listing-reading-time-sort="3.155">
+<div class="thumbnail">
+<a href="./archives/2009/2009-11-09-buying-into-computational-journalism/index.html">
+<div class="thumbnail-image">
+
+</div>
+</a><p><a href="./archives/2009/2009-11-09-buying-into-computational-journalism/index.html"></a></p>
+</div>
+<div class="body">
+<a href="./archives/2009/2009-11-09-buying-into-computational-journalism/index.html">
+<h3 class="no-anchor listing-title">
+Buying Into Computational Journalism
+</h3>
+<div class="listing-subtitle">
+
+</div>
+<div class="listing-description">
+The intriguing title of a recent report from scholars at Duke is “Accountability Through Algorithm: Developing the Field of Computational Journalism”. Semi-related to CAR, Computational Journalism is defined as “the combination of algorithms, data, and knowledge from the social sciences to supplement the accountability function of…
+</div>
+</a>
+</div>
+<div class="metadata">
+<a href="./archives/2009/2009-11-09-buying-into-computational-journalism/index.html">
+<div class="listing-date">
+Nov 9, 2009
+</div>
+<div class="listing-author">
+Derek Willis
+</div>
+</a>
+</div>
+</div>
+<div class="quarto-post image-right" data-index="52" data-listing-date-sort="1256702400000" data-listing-file-modified-sort="1672417232183" data-listing-reading-time-sort="2.055">
+<div class="thumbnail">
+<a href="./archives/2009/2009-10-28-the-fecs-disclosure-data-catalog/index.html">
+<div class="thumbnail-image">
+
+</div>
+</a><p><a href="./archives/2009/2009-10-28-the-fecs-disclosure-data-catalog/index.html"></a></p>
+</div>
+<div class="body">
+<a href="./archives/2009/2009-10-28-the-fecs-disclosure-data-catalog/index.html">
+<h3 class="no-anchor listing-title">
+The FEC’s Disclosure Data Catalog
+</h3>
+<div class="listing-subtitle">
+
+</div>
+<div class="listing-description">
+The good folks at the Federal Election Commission launched a disclosure data catalog recently, continuing the federal government data catalog trend. And while there are few (if any) people better at explaining campaign finance data than…
+</div>
+</a>
+</div>
+<div class="metadata">
+<a href="./archives/2009/2009-10-28-the-fecs-disclosure-data-catalog/index.html">
+<div class="listing-date">
+Oct 28, 2009
+</div>
+<div class="listing-author">
+Derek Willis
+</div>
+</a>
+</div>
+</div>
+<div class="quarto-post image-right" data-index="53" data-listing-date-sort="1248408000000" data-listing-file-modified-sort="1672417220772" data-listing-reading-time-sort="1.685">
+<div class="thumbnail">
+<a href="./archives/2009/2009-07-24-one-way-to-encourage-innovation/index.html">
+<div class="thumbnail-image">
+
+</div>
+</a><p><a href="./archives/2009/2009-07-24-one-way-to-encourage-innovation/index.html"></a></p>
+</div>
+<div class="body">
+<a href="./archives/2009/2009-07-24-one-way-to-encourage-innovation/index.html">
+<h3 class="no-anchor listing-title">
+One Way to Encourage Innovation
+</h3>
+<div class="listing-subtitle">
+
+</div>
+<div class="listing-description">
+Innovation. We’re told over and over (often by people who don’t actually do much more than talk, but that’s another story) that our industry needs it. So, you ask, how I can get me some of that…
+</div>
+</a>
+</div>
+<div class="metadata">
+<a href="./archives/2009/2009-07-24-one-way-to-encourage-innovation/index.html">
+<div class="listing-date">
+Jul 24, 2009
+</div>
+<div class="listing-author">
+Derek Willis
+</div>
+</a>
+</div>
+</div>
+<div class="quarto-post image-right" data-index="54" data-listing-date-sort="1245902400000" data-listing-file-modified-sort="1672417205426" data-listing-reading-time-sort="2.105">
+<div class="thumbnail">
+<a href="./archives/2009/2009-06-25-the-fundamental-training-need/index.html">
+<div class="thumbnail-image">
+
+</div>
+</a><p><a href="./archives/2009/2009-06-25-the-fundamental-training-need/index.html"></a></p>
+</div>
+<div class="body">
+<a href="./archives/2009/2009-06-25-the-fundamental-training-need/index.html">
+<h3 class="no-anchor listing-title">
+The Fundamental Training Need
+</h3>
+<div class="listing-subtitle">
+
+</div>
+<div class="listing-description">
+It’s good to see recent writings on the importance of training and skill development for journalists.
+</div>
+</a>
+</div>
+<div class="metadata">
+<a href="./archives/2009/2009-06-25-the-fundamental-training-need/index.html">
+<div class="listing-date">
+Jun 25, 2009
+</div>
+<div class="listing-author">
+Derek Willis
+</div>
+</a>
+</div>
+</div>
+<div class="quarto-post image-right" data-index="55" data-listing-date-sort="1243915200000" data-listing-file-modified-sort="1672417190893" data-listing-reading-time-sort="4.45">
+<div class="thumbnail">
+<a href="./archives/2009/2009-06-02-the-case-against-teaching-access/index.html">
+<div class="thumbnail-image">
+
+</div>
+</a><p><a href="./archives/2009/2009-06-02-the-case-against-teaching-access/index.html"></a></p>
+</div>
+<div class="body">
+<a href="./archives/2009/2009-06-02-the-case-against-teaching-access/index.html">
+<h3 class="no-anchor listing-title">
+The Case Against Teaching Access
+</h3>
+<div class="listing-subtitle">
+
+</div>
+<div class="listing-description">
+I’ve been at the Medill School of Journalism at Northwestern University since last week, talking to faculty members about using data management and analysis tools (spreadsheets, databases, mapping) in their courses.…
+</div>
+</a>
+</div>
+<div class="metadata">
+<a href="./archives/2009/2009-06-02-the-case-against-teaching-access/index.html">
+<div class="listing-date">
+Jun 2, 2009
+</div>
+<div class="listing-author">
+Derek Willis
+</div>
+</a>
+</div>
+</div>
+<div class="quarto-post image-right" data-index="56" data-listing-date-sort="1237953600000" data-listing-file-modified-sort="1672417176112" data-listing-reading-time-sort="2.7">
+<div class="thumbnail">
+<a href="./archives/2009/2009-03-25-no-really-show-us-the-data/index.html">
+<div class="thumbnail-image">
+
+</div>
+</a><p><a href="./archives/2009/2009-03-25-no-really-show-us-the-data/index.html"></a></p>
+</div>
+<div class="body">
+<a href="./archives/2009/2009-03-25-no-really-show-us-the-data/index.html">
+<h3 class="no-anchor listing-title">
+No, Really, Show Us The Data
+</h3>
+<div class="listing-subtitle">
+
+</div>
+<div class="listing-description">
+When it first appeared I was really excited to see Show Us The Data, which gave visitors a chance to list and vote for their “Most Requested Documents” that should be more readily available from the federal government. Sure enough, there…
+</div>
+</a>
+</div>
+<div class="metadata">
+<a href="./archives/2009/2009-03-25-no-really-show-us-the-data/index.html">
+<div class="listing-date">
+Mar 25, 2009
+</div>
+<div class="listing-author">
+Derek Willis
+</div>
+</a>
+</div>
+</div>
+<div class="quarto-post image-right" data-index="57" data-listing-date-sort="1229662800000" data-listing-file-modified-sort="1672417159242" data-listing-reading-time-sort="2.15">
+<div class="thumbnail">
+<a href="./archives/2008/2008-12-19-represent-and-geodjango/index.html">
+<div class="thumbnail-image">
+
+</div>
+</a><p><a href="./archives/2008/2008-12-19-represent-and-geodjango/index.html"></a></p>
+</div>
+<div class="body">
+<a href="./archives/2008/2008-12-19-represent-and-geodjango/index.html">
+<h3 class="no-anchor listing-title">
+Represent and GeoDjango
+</h3>
+<div class="listing-subtitle">
+
+</div>
+<div class="listing-description">
+<em>For more details on Represent, see our post on the NYT’s Open blog.</em>
+</div>
+</a>
+</div>
+<div class="metadata">
+<a href="./archives/2008/2008-12-19-represent-and-geodjango/index.html">
+<div class="listing-date">
+Dec 19, 2008
+</div>
+<div class="listing-author">
+Derek Willis
+</div>
+</a>
+</div>
+</div>
+<div class="quarto-post image-right" data-index="58" data-listing-date-sort="1222142400000" data-listing-file-modified-sort="1672417145358" data-listing-reading-time-sort="0.415">
+<div class="thumbnail">
+<a href="./archives/2008/2008-09-23-white-house-beat-feature-request/index.html">
+<div class="thumbnail-image">
+
+</div>
+</a><p><a href="./archives/2008/2008-09-23-white-house-beat-feature-request/index.html"></a></p>
+</div>
+<div class="body">
+<a href="./archives/2008/2008-09-23-white-house-beat-feature-request/index.html">
+<h3 class="no-anchor listing-title">
+White House Beat Feature Request
+</h3>
+<div class="listing-subtitle">
+
+</div>
+<div class="listing-description">
+Ok, I love the fact that CBS Radio’s Mark Knoller keeps such good tabs on presidential travel, but can somebody please come up with a backup plan in case, heaven forbid, Knoller gets hit by a bus or something? Is this too much to ask of WH reporters? This is the…
+</div>
+</a>
+</div>
+<div class="metadata">
+<a href="./archives/2008/2008-09-23-white-house-beat-feature-request/index.html">
+<div class="listing-date">
+Sep 23, 2008
+</div>
+<div class="listing-author">
+Derek Willis
+</div>
+</a>
+</div>
+</div>
+<div class="quarto-post image-right" data-index="59" data-listing-date-sort="1221969600000" data-listing-file-modified-sort="1672417127137" data-listing-reading-time-sort="1.23">
+<div class="thumbnail">
+<a href="./archives/2008/2008-09-21-the-difference/index.html">
+<div class="thumbnail-image">
+
+</div>
+</a><p><a href="./archives/2008/2008-09-21-the-difference/index.html"></a></p>
+</div>
+<div class="body">
+<a href="./archives/2008/2008-09-21-the-difference/index.html">
+<h3 class="no-anchor listing-title">
+The Difference
+</h3>
+<div class="listing-subtitle">
+
+</div>
+<div class="listing-description">
+One of the things I try to stress to students in my computer-assisted reporting class…
+</div>
+</a>
+</div>
+<div class="metadata">
+<a href="./archives/2008/2008-09-21-the-difference/index.html">
+<div class="listing-date">
+Sep 21, 2008
+</div>
+<div class="listing-author">
+Derek Willis
+</div>
+</a>
+</div>
+</div>
+<div class="quarto-post image-right" data-index="60" data-listing-date-sort="1216699200000" data-listing-file-modified-sort="1672417110788" data-listing-reading-time-sort="2.76">
+<div class="thumbnail">
+<a href="./archives/2008/2008-07-22-the-birth-of-quadruplets-or-understanding-the-process/index.html">
+<div class="thumbnail-image">
+
+</div>
+</a><p><a href="./archives/2008/2008-07-22-the-birth-of-quadruplets-or-understanding-the-process/index.html"></a></p>
+</div>
+<div class="body">
+<a href="./archives/2008/2008-07-22-the-birth-of-quadruplets-or-understanding-the-process/index.html">
+<h3 class="no-anchor listing-title">
+The Birth of Quadruplets, or Understanding the Process
+</h3>
+<div class="listing-subtitle">
+
+</div>
+<div class="listing-description">
+My friend Dave Gulliver had a fascinating piece in his paper on Sunday about the birth of quadruplets in a Sarasota hospital. It’s a great story, but what makes it greater is that it was written by somebody with a certain amount of expertise on the subject of difficult premature multiple births.…
+</div>
+</a>
+</div>
+<div class="metadata">
+<a href="./archives/2008/2008-07-22-the-birth-of-quadruplets-or-understanding-the-process/index.html">
+<div class="listing-date">
+Jul 22, 2008
+</div>
+<div class="listing-author">
+Derek Willis
+</div>
+</a>
+</div>
+</div>
+<div class="quarto-post image-right" data-index="61" data-listing-date-sort="1214712000000" data-listing-file-modified-sort="1672417084563" data-listing-reading-time-sort="2.86">
+<div class="thumbnail">
+<a href="./archives/2008/2008-06-29-caspios-lessons/index.html">
+<div class="thumbnail-image">
+
+</div>
+</a><p><a href="./archives/2008/2008-06-29-caspios-lessons/index.html"></a></p>
+</div>
+<div class="body">
+<a href="./archives/2008/2008-06-29-caspios-lessons/index.html">
+<h3 class="no-anchor listing-title">
+Caspio’s Lessons
+</h3>
+<div class="listing-subtitle">
+
+</div>
+<div class="listing-description">
+Been awhile since I wrote about Caspio, and…<em></em>
+</div>
+</a>
+</div>
+<div class="metadata">
+<a href="./archives/2008/2008-06-29-caspios-lessons/index.html">
+<div class="listing-date">
+Jun 29, 2008
+</div>
+<div class="listing-author">
+Derek Willis
+</div>
+</a>
+</div>
+</div>
+<div class="quarto-post image-right" data-index="62" data-listing-date-sort="1213848000000" data-listing-file-modified-sort="1672417070175" data-listing-reading-time-sort="4.365">
+<div class="thumbnail">
+<a href="./archives/2008/2008-06-19-the-future-of-news-libraries/index.html">
+<div class="thumbnail-image">
+
+</div>
+</a><p><a href="./archives/2008/2008-06-19-the-future-of-news-libraries/index.html"></a></p>
+</div>
+<div class="body">
+<a href="./archives/2008/2008-06-19-the-future-of-news-libraries/index.html">
+<h3 class="no-anchor listing-title">
+The Future of News Libraries
+</h3>
+<div class="listing-subtitle">
+
+</div>
+<div class="listing-description">
+At the recently-completed SLA conference in Seattle, Nora Paul led a session on the “future of news libraries” that asked the attendees to imagine 2012, when librarians (or news researchers, or whatever you want to call them) are…
+</div>
+</a>
+</div>
+<div class="metadata">
+<a href="./archives/2008/2008-06-19-the-future-of-news-libraries/index.html">
+<div class="listing-date">
+Jun 19, 2008
+</div>
+<div class="listing-author">
+Derek Willis
+</div>
+</a>
+</div>
+</div>
+<div class="quarto-post image-right" data-index="63" data-listing-date-sort="1211601600000" data-listing-file-modified-sort="1672417050435" data-listing-reading-time-sort="5.805">
+<div class="thumbnail">
+<a href="./archives/2008/2008-05-24-on-bomb-throwing/index.html">
+<div class="thumbnail-image">
+
+</div>
+</a><p><a href="./archives/2008/2008-05-24-on-bomb-throwing/index.html"></a></p>
+</div>
+<div class="body">
+<a href="./archives/2008/2008-05-24-on-bomb-throwing/index.html">
+<h3 class="no-anchor listing-title">
+On Bomb-Throwing
+</h3>
+<div class="listing-subtitle">
+
+</div>
+<div class="listing-description">
+<em>Note to visitors coming via Jay Rosen’s Twitter feed: Nowhere here do I say that…</em>
+</div>
+</a>
+</div>
+<div class="metadata">
+<a href="./archives/2008/2008-05-24-on-bomb-throwing/index.html">
+<div class="listing-date">
+May 24, 2008
+</div>
+<div class="listing-author">
+Derek Willis
+</div>
+</a>
+</div>
+</div>
+<div class="quarto-post image-right" data-index="64" data-listing-date-sort="1195102800000" data-listing-file-modified-sort="1672417037185" data-listing-reading-time-sort="2.96">
+<div class="thumbnail">
+<a href="./archives/2007/2007-11-15-of-the-web-vs-on-the-web/index.html">
+<div class="thumbnail-image">
+
+</div>
+</a><p><a href="./archives/2007/2007-11-15-of-the-web-vs-on-the-web/index.html"></a></p>
+</div>
+<div class="body">
+<a href="./archives/2007/2007-11-15-of-the-web-vs-on-the-web/index.html">
+<h3 class="no-anchor listing-title">
+Of the Web vs.&nbsp;On the Web
+</h3>
+<div class="listing-subtitle">
+
+</div>
+<div class="listing-description">
+News organizations spend a lot of time talking about what they’re doing “on the Web,” but there’s another phrase that’s more important from a long-term perspective: “of the…
+</div>
+</a>
+</div>
+<div class="metadata">
+<a href="./archives/2007/2007-11-15-of-the-web-vs-on-the-web/index.html">
+<div class="listing-date">
+Nov 15, 2007
+</div>
+<div class="listing-author">
+Derek Willis
+</div>
+</a>
+</div>
+</div>
+<div class="quarto-post image-right" data-index="65" data-listing-date-sort="1194325200000" data-listing-file-modified-sort="1672417022919" data-listing-reading-time-sort="3.08">
+<div class="thumbnail">
+<a href="./archives/2007/2007-11-06-innovation-belongs-in-the-newsroom/index.html">
+<div class="thumbnail-image">
+
+</div>
+</a><p><a href="./archives/2007/2007-11-06-innovation-belongs-in-the-newsroom/index.html"></a></p>
+</div>
+<div class="body">
+<a href="./archives/2007/2007-11-06-innovation-belongs-in-the-newsroom/index.html">
+<h3 class="no-anchor listing-title">
+Innovation Belongs in the Newsroom
+</h3>
+<div class="listing-subtitle">
+
+</div>
+<div class="listing-description">
+There’s quite a bit of useful discussion about the recent big moves in the social networking space and what it means, if anything, for the news industry. Ste…
+</div>
+</a>
+</div>
+<div class="metadata">
+<a href="./archives/2007/2007-11-06-innovation-belongs-in-the-newsroom/index.html">
+<div class="listing-date">
+Nov 6, 2007
+</div>
+<div class="listing-author">
+Derek Willis
+</div>
+</a>
+</div>
+</div>
+<div class="quarto-post image-right" data-index="66" data-listing-date-sort="1192507200000" data-listing-file-modified-sort="1672417009404" data-listing-reading-time-sort="1.505">
+<div class="thumbnail">
+<a href="./archives/2007/2007-10-16-the-times/index.html">
+<div class="thumbnail-image">
+
+</div>
+</a><p><a href="./archives/2007/2007-10-16-the-times/index.html"></a></p>
+</div>
+<div class="body">
+<a href="./archives/2007/2007-10-16-the-times/index.html">
+<h3 class="no-anchor listing-title">
+The Times
+</h3>
+<div class="listing-subtitle">
+
+</div>
+<div class="listing-description">
+I originally tried to write something about this with the weightiness I felt it deserves, but it turned out to…
+</div>
+</a>
+</div>
+<div class="metadata">
+<a href="./archives/2007/2007-10-16-the-times/index.html">
+<div class="listing-date">
+Oct 16, 2007
+</div>
+<div class="listing-author">
+Derek Willis
+</div>
+</a>
+</div>
+</div>
+<div class="quarto-post image-right" data-index="67" data-listing-date-sort="1191124800000" data-listing-file-modified-sort="1672416991299" data-listing-reading-time-sort="2.41">
+<div class="thumbnail">
+<a href="./archives/2007/2007-09-30-teaching-data-on-the-web/index.html">
+<div class="thumbnail-image">
+
+</div>
+</a><p><a href="./archives/2007/2007-09-30-teaching-data-on-the-web/index.html"></a></p>
+</div>
+<div class="body">
+<a href="./archives/2007/2007-09-30-teaching-data-on-the-web/index.html">
+<h3 class="no-anchor listing-title">
+Teaching Data on the Web
+</h3>
+<div class="listing-subtitle">
+
+</div>
+<div class="listing-description">
+Matt’s advice (the latest in the series kicked off by Paul Bradshaw) is excellent: “Learn how to put data on the web.”…
+</div>
+</a>
+</div>
+<div class="metadata">
+<a href="./archives/2007/2007-09-30-teaching-data-on-the-web/index.html">
+<div class="listing-date">
+Sep 30, 2007
+</div>
+<div class="listing-author">
+Derek Willis
+</div>
+</a>
+</div>
+</div>
+<div class="quarto-post image-right" data-index="68" data-listing-date-sort="1189569600000" data-listing-file-modified-sort="1672416974161" data-listing-reading-time-sort="2.65">
+<div class="thumbnail">
+<a href="./archives/2007/2007-09-12-on-trials-software-and-otherwise/index.html">
+<div class="thumbnail-image">
+
+</div>
+</a><p><a href="./archives/2007/2007-09-12-on-trials-software-and-otherwise/index.html"></a></p>
+</div>
+<div class="body">
+<a href="./archives/2007/2007-09-12-on-trials-software-and-otherwise/index.html">
+<h3 class="no-anchor listing-title">
+On Trials, Software and Otherwise
+</h3>
+<div class="listing-subtitle">
+
+</div>
+<div class="listing-description">
+So in response to several commenters on my previous post, I went to caspio.com to see about a free 14-day trial in order to test things out. Then I read the Terms of Service, which contains this sentence: “In addition, you may…
+</div>
+</a>
+</div>
+<div class="metadata">
+<a href="./archives/2007/2007-09-12-on-trials-software-and-otherwise/index.html">
+<div class="listing-date">
+Sep 12, 2007
+</div>
+<div class="listing-author">
+Derek Willis
+</div>
+</a>
+</div>
+</div>
+<div class="quarto-post image-right" data-index="69" data-listing-date-sort="1189137600000" data-listing-file-modified-sort="1672416933042" data-listing-reading-time-sort="5.445">
+<div class="thumbnail">
+<a href="./archives/2007/2007-09-07-outsourcing-database-development-or-the-caspio-issue/index.html">
+<div class="thumbnail-image">
+
+</div>
+</a><p><a href="./archives/2007/2007-09-07-outsourcing-database-development-or-the-caspio-issue/index.html"></a></p>
+</div>
+<div class="body">
+<a href="./archives/2007/2007-09-07-outsourcing-database-development-or-the-caspio-issue/index.html">
+<h3 class="no-anchor listing-title">
+Outsourcing Database Development, or the Caspio Issue
+</h3>
+<div class="listing-subtitle">
+
+</div>
+<div class="listing-description">
+<em>Updated: Caspio’s David Milliron responds in the comments.</em>
+</div>
+</a>
+</div>
+<div class="metadata">
+<a href="./archives/2007/2007-09-07-outsourcing-database-development-or-the-caspio-issue/index.html">
+<div class="listing-date">
+Sep 7, 2007
+</div>
+<div class="listing-author">
+Derek Willis
+</div>
+</a>
+</div>
+</div>
+<div class="quarto-post image-right" data-index="70" data-listing-date-sort="1185854400000" data-listing-file-modified-sort="1672416918918" data-listing-reading-time-sort="2.055">
+<div class="thumbnail">
+<a href="./archives/2007/2007-07-31-django-ical-vobject/index.html">
+<div class="thumbnail-image">
+
+</div>
+</a><p><a href="./archives/2007/2007-07-31-django-ical-vobject/index.html"></a></p>
+</div>
+<div class="body">
+<a href="./archives/2007/2007-07-31-django-ical-vobject/index.html">
+<h3 class="no-anchor listing-title">
+Django, iCal and vObject
+</h3>
+<div class="listing-subtitle">
+
+</div>
+<div class="listing-description">
+For one of our Django applications at work we received a request to add iCal feeds to accompany the RSS feeds available for each candidate’s page (example here). I first thought about doing this using a…
+</div>
+</a>
+</div>
+<div class="metadata">
+<a href="./archives/2007/2007-07-31-django-ical-vobject/index.html">
+<div class="listing-date">
+Jul 31, 2007
+</div>
+<div class="listing-author">
+Derek Willis
+</div>
+</a>
+</div>
+</div>
+<div class="quarto-post image-right" data-index="71" data-listing-date-sort="1184126400000" data-listing-file-modified-sort="1672416904276" data-listing-reading-time-sort="2.73">
+<div class="thumbnail">
+<a href="./archives/2007/2007-07-11-the-original-and-future-facebook/index.html">
+<div class="thumbnail-image">
+
+</div>
+</a><p><a href="./archives/2007/2007-07-11-the-original-and-future-facebook/index.html"></a></p>
+</div>
+<div class="body">
+<a href="./archives/2007/2007-07-11-the-original-and-future-facebook/index.html">
+<h3 class="no-anchor listing-title">
+The Original (and Future?) Facebook
+</h3>
+<div class="listing-subtitle">
+
+</div>
+<div class="listing-description">
+So the people who run newspapers are probably looking at Facebook, which is enjoying traffic…
+</div>
+</a>
+</div>
+<div class="metadata">
+<a href="./archives/2007/2007-07-11-the-original-and-future-facebook/index.html">
+<div class="listing-date">
+Jul 11, 2007
+</div>
+<div class="listing-author">
+Derek Willis
+</div>
+</a>
+</div>
+</div>
+<div class="quarto-post image-right" data-index="72" data-listing-date-sort="1181793600000" data-listing-file-modified-sort="1672416889436" data-listing-reading-time-sort="1.255">
+<div class="thumbnail">
+<a href="./archives/2007/2007-06-14-the-new-competition/index.html">
+<div class="thumbnail-image">
+
+</div>
+</a><p><a href="./archives/2007/2007-06-14-the-new-competition/index.html"></a></p>
+</div>
+<div class="body">
+<a href="./archives/2007/2007-06-14-the-new-competition/index.html">
+<h3 class="no-anchor listing-title">
+The New Competition
+</h3>
+<div class="listing-subtitle">
+
+</div>
+<div class="listing-description">
+Back when we launched the Congress Votes Database in late 2005, it had only a few contemporaries, including the excellent GovTrack. Now the field is getting pretty crowded, and that’s a good thing for readers interested…
+</div>
+</a>
+</div>
+<div class="metadata">
+<a href="./archives/2007/2007-06-14-the-new-competition/index.html">
+<div class="listing-date">
+Jun 14, 2007
+</div>
+<div class="listing-author">
+Derek Willis
+</div>
+</a>
+</div>
+</div>
+<div class="quarto-post image-right" data-index="73" data-listing-date-sort="1181620800000" data-listing-file-modified-sort="1672416872914" data-listing-reading-time-sort="2.095">
+<div class="thumbnail">
+<a href="./archives/2007/2007-06-12-finding-enterprise-reporting/index.html">
+<div class="thumbnail-image">
+
+</div>
+</a><p><a href="./archives/2007/2007-06-12-finding-enterprise-reporting/index.html"></a></p>
+</div>
+<div class="body">
+<a href="./archives/2007/2007-06-12-finding-enterprise-reporting/index.html">
+<h3 class="no-anchor listing-title">
+Finding Enterprise Reporting
+</h3>
+<div class="listing-subtitle">
+
+</div>
+<div class="listing-description">
+During our train ride this morning a colleague and I talked about a common problem that has some real implications: the difficulty in finding enterprise and public service…
+</div>
+</a>
+</div>
+<div class="metadata">
+<a href="./archives/2007/2007-06-12-finding-enterprise-reporting/index.html">
+<div class="listing-date">
+Jun 12, 2007
+</div>
+<div class="listing-author">
+Derek Willis
+</div>
+</a>
+</div>
+</div>
+<div class="quarto-post image-right" data-index="74" data-listing-date-sort="1180411200000" data-listing-file-modified-sort="1672416856795" data-listing-reading-time-sort="4.665">
+<div class="thumbnail">
+<a href="./archives/2007/2007-05-29-shoot-the-google/index.html">
+<div class="thumbnail-image">
+
+</div>
+</a><p><a href="./archives/2007/2007-05-29-shoot-the-google/index.html"></a></p>
+</div>
+<div class="body">
+<a href="./archives/2007/2007-05-29-shoot-the-google/index.html">
+<h3 class="no-anchor listing-title">
+Shoot the Google
+</h3>
+<div class="listing-subtitle">
+
+</div>
+<div class="listing-description">
+Pieces like the one Neil Henry, formerly of the Washington Post, wrote in today’s San Francisco Chronicle, annoy me to no end. They are written by passionate, intelligent people who have become so disheartened by challenges to their beloved institutions that they feel the need…
+</div>
+</a>
+</div>
+<div class="metadata">
+<a href="./archives/2007/2007-05-29-shoot-the-google/index.html">
+<div class="listing-date">
+May 29, 2007
+</div>
+<div class="listing-author">
+Derek Willis
+</div>
+</a>
+</div>
+</div>
+<div class="quarto-post image-right" data-index="75" data-listing-date-sort="1170565200000" data-listing-file-modified-sort="1672416842157" data-listing-reading-time-sort="1.52">
+<div class="thumbnail">
+<a href="./archives/2007/2007-02-04-why-the-web/index.html">
+<div class="thumbnail-image">
+
+</div>
+</a><p><a href="./archives/2007/2007-02-04-why-the-web/index.html"></a></p>
+</div>
+<div class="body">
+<a href="./archives/2007/2007-02-04-why-the-web/index.html">
+<h3 class="no-anchor listing-title">
+Why The Web
+</h3>
+<div class="listing-subtitle">
+
+</div>
+<div class="listing-description">
+Friday was my last day as an employee of The Washington Post newspaper.…<em></em>
+</div>
+</a>
+</div>
+<div class="metadata">
+<a href="./archives/2007/2007-02-04-why-the-web/index.html">
+<div class="listing-date">
+Feb 4, 2007
+</div>
+<div class="listing-author">
+Derek Willis
+</div>
+</a>
+</div>
+</div>
+<div class="quarto-post image-right" data-index="76" data-listing-date-sort="1133758800000" data-listing-file-modified-sort="1672416827593" data-listing-reading-time-sort="0.635">
+<div class="thumbnail">
+<a href="./archives/2005/2005-12-05-congressional-vote-database/index.html">
+<div class="thumbnail-image">
+
+</div>
+</a><p><a href="./archives/2005/2005-12-05-congressional-vote-database/index.html"></a></p>
+</div>
+<div class="body">
+<a href="./archives/2005/2005-12-05-congressional-vote-database/index.html">
+<h3 class="no-anchor listing-title">
+Congressional Vote Database
+</h3>
+<div class="listing-subtitle">
+
+</div>
+<div class="listing-description">
+So…
+</div>
+</a>
+</div>
+<div class="metadata">
+<a href="./archives/2005/2005-12-05-congressional-vote-database/index.html">
+<div class="listing-date">
+Dec 5, 2005
+</div>
+<div class="listing-author">
+Derek Willis
+</div>
+</a>
+</div>
+</div>
+<div class="quarto-post image-right" data-index="77" data-listing-date-sort="1116388800000" data-listing-file-modified-sort="1672416810507" data-listing-reading-time-sort="2.605">
+<div class="thumbnail">
+<a href="./archives/2005/2005-05-18-xpdf-on-the-mac/index.html">
+<div class="thumbnail-image">
+
+</div>
+</a><p><a href="./archives/2005/2005-05-18-xpdf-on-the-mac/index.html"></a></p>
+</div>
+<div class="body">
+<a href="./archives/2005/2005-05-18-xpdf-on-the-mac/index.html">
+<h3 class="no-anchor listing-title">
+Xpdf on the Mac
+</h3>
+<div class="listing-subtitle">
+
+</div>
+<div class="listing-description">
+Last year I wrote a piece for Uplink on using Xpdf to convert PDF documents into text…
+</div>
+</a>
+</div>
+<div class="metadata">
+<a href="./archives/2005/2005-05-18-xpdf-on-the-mac/index.html">
+<div class="listing-date">
+May 18, 2005
+</div>
+<div class="listing-author">
+Derek Willis
+</div>
+</a>
+</div>
+</div>
+<div class="quarto-post image-right" data-index="78" data-listing-date-sort="1017032400000" data-listing-file-modified-sort="1672416796741" data-listing-reading-time-sort="2.91">
+<div class="thumbnail">
+<a href="./archives/2002/2002-03-25-the-long-bet/index.html">
+<div class="thumbnail-image">
+
+</div>
+</a><p><a href="./archives/2002/2002-03-25-the-long-bet/index.html"></a></p>
+</div>
+<div class="body">
+<a href="./archives/2002/2002-03-25-the-long-bet/index.html">
+<h3 class="no-anchor listing-title">
+The Long Bet
+</h3>
+<div class="listing-subtitle">
+
+</div>
+<div class="listing-description">
+It’s Dave Winer vs.&nbsp;the New York Times in a bet over, well, it’s not exactly clear. Dave says it’s about “which will be authoritative,” although that’s not what the question itself says - or what the answer to the question will reveal. In fact, I’m quite…
+</div>
+</a>
+</div>
+<div class="metadata">
+<a href="./archives/2002/2002-03-25-the-long-bet/index.html">
+<div class="listing-date">
+Mar 25, 2002
+</div>
+<div class="listing-author">
+Derek Willis
+</div>
+</a>
+</div>
+</div>
+</div>
+<div class="listing-no-matching d-none">
+No matching items
+</div>
+<nav id="listing-pagination" class="listing-pagination" aria-label="Page Navigation">
+  <ul class="pagination"></ul>
+</nav>
+</div></main> <!-- /main -->
+<script id="quarto-html-after-body" type="application/javascript">
+window.document.addEventListener("DOMContentLoaded", function (event) {
+  const toggleBodyColorMode = (bsSheetEl) => {
+    const mode = bsSheetEl.getAttribute("data-mode");
+    const bodyEl = window.document.querySelector("body");
+    if (mode === "dark") {
+      bodyEl.classList.add("quarto-dark");
+      bodyEl.classList.remove("quarto-light");
+    } else {
+      bodyEl.classList.add("quarto-light");
+      bodyEl.classList.remove("quarto-dark");
+    }
+  }
+  const toggleBodyColorPrimary = () => {
+    const bsSheetEl = window.document.querySelector("link#quarto-bootstrap");
+    if (bsSheetEl) {
+      toggleBodyColorMode(bsSheetEl);
+    }
+  }
+  toggleBodyColorPrimary();  
+  const icon = "";
+  const anchorJS = new window.AnchorJS();
+  anchorJS.options = {
+    placement: 'right',
+    icon: icon
+  };
+  anchorJS.add('.anchored');
+  const clipboard = new window.ClipboardJS('.code-copy-button', {
+    target: function(trigger) {
+      return trigger.previousElementSibling;
+    }
+  });
+  clipboard.on('success', function(e) {
+    // button target
+    const button = e.trigger;
+    // don't keep focus
+    button.blur();
+    // flash "checked"
+    button.classList.add('code-copy-button-checked');
+    var currentTitle = button.getAttribute("title");
+    button.setAttribute("title", "Copied!");
+    let tooltip;
+    if (window.bootstrap) {
+      button.setAttribute("data-bs-toggle", "tooltip");
+      button.setAttribute("data-bs-placement", "left");
+      button.setAttribute("data-bs-title", "Copied!");
+      tooltip = new bootstrap.Tooltip(button, 
+        { trigger: "manual", 
+          customClass: "code-copy-button-tooltip",
+          offset: [0, -8]});
+      tooltip.show();    
+    }
+    setTimeout(function() {
+      if (tooltip) {
+        tooltip.hide();
+        button.removeAttribute("data-bs-title");
+        button.removeAttribute("data-bs-toggle");
+        button.removeAttribute("data-bs-placement");
+      }
+      button.setAttribute("title", currentTitle);
+      button.classList.remove('code-copy-button-checked');
+    }, 1000);
+    // clear code selection
+    e.clearSelection();
+  });
+  function tippyHover(el, contentFn) {
+    const config = {
+      allowHTML: true,
+      content: contentFn,
+      maxWidth: 500,
+      delay: 100,
+      arrow: false,
+      appendTo: function(el) {
+          return el.parentElement;
+      },
+      interactive: true,
+      interactiveBorder: 10,
+      theme: 'quarto',
+      placement: 'bottom-start'
+    };
+    window.tippy(el, config); 
+  }
+  const noterefs = window.document.querySelectorAll('a[role="doc-noteref"]');
+  for (var i=0; i<noterefs.length; i++) {
+    const ref = noterefs[i];
+    tippyHover(ref, function() {
+      // use id or data attribute instead here
+      let href = ref.getAttribute('data-footnote-href') || ref.getAttribute('href');
+      try { href = new URL(href).hash; } catch {}
+      const id = href.replace(/^#\/?/, "");
+      const note = window.document.getElementById(id);
+      return note.innerHTML;
+    });
+  }
+  const findCites = (el) => {
+    const parentEl = el.parentElement;
+    if (parentEl) {
+      const cites = parentEl.dataset.cites;
+      if (cites) {
+        return {
+          el,
+          cites: cites.split(' ')
+        };
+      } else {
+        return findCites(el.parentElement)
+      }
+    } else {
+      return undefined;
+    }
+  };
+  var bibliorefs = window.document.querySelectorAll('a[role="doc-biblioref"]');
+  for (var i=0; i<bibliorefs.length; i++) {
+    const ref = bibliorefs[i];
+    const citeInfo = findCites(ref);
+    if (citeInfo) {
+      tippyHover(citeInfo.el, function() {
+        var popup = window.document.createElement('div');
+        citeInfo.cites.forEach(function(cite) {
+          var citeDiv = window.document.createElement('div');
+          citeDiv.classList.add('hanging-indent');
+          citeDiv.classList.add('csl-entry');
+          var biblioDiv = window.document.getElementById('ref-' + cite);
+          if (biblioDiv) {
+            citeDiv.innerHTML = biblioDiv.innerHTML;
+          }
+          popup.appendChild(citeDiv);
+        });
+        return popup.innerHTML;
+      });
+    }
+  }
+});
+</script>
+</div> <!-- /content -->
+<footer class="footer">
+  <div class="nav-footer">
+    <div class="nav-footer-left">© Copyright 2022 Derek Willis. Published using Quarto.</div>   
+  </div>
+</footer>
+
+
+
+</body></html>

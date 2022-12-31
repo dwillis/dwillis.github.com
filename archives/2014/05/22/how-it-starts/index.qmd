@@ -1,0 +1,32 @@
+---
+title: How It Starts
+date: "2014-05-22"
+author: "Derek Willis"
+format:
+  html:
+    df-print: paged
+    toc: true
+engine: knitr
+---
+
+Tomorrow is Aron Pilhofer's last day at The New York Times.
+
+Aron joined The Times in 2005, first working with the computer-assisted reporting desk then headed by Tom Torok. In the summer of 2007, I was working at washingtonpost.com doing things that other newsrooms weren't doing. And then Aron started talking about this team he would be building at The Times. It was a compelling pitch, even though washingtonpost.com was ahead of the pack. "You should have a blast," he wrote in one email.
+
+Thanks to Aron, it has been one hell of a ride.
+
+It's instructive to look back at the beginnings of Interactive News at The Times, when we had five or six people, a charge of developing web applications and literally no infrastructure of our own. Our initial 2008 presidential primary app ran off a Windows box belonging to CAR. One person could "login" to it at a time and if you think that Rails runs slowly on Windows now, you should have seen it then. Sometimes, the Windows box needed to be rebooted by CAR. We used the same user names and passwords because a) there were so few of us and b) it was easier to create one account than five. Which led to emails like this one from Ben Koski in June 2008, during a presidential primary: "Tonight my newsweb password expired promptly at 8pm, perhaps one of the most inopportune moments for a password change."
+
+We were parasites. We squatted on whatever servers we could get access to, which once resulted in a box we used being literally unplugged and moved to a different data center - a totally scheduled thing - that we were completely unaware of until we tried to ssh to it. The migration took a couple of days. We cooled our jets, and developed a plan where we could publish election results off Ben's laptop if need be. It was not a frivolous plan; there was a non-zero chance it would be needed.
+
+Aron "acquired" some hardware we could actually see - the late, lamented server he called "jeffvader". The prototype for [Represent](http://www.j-lab.org/about/press-releases/new-york-times-wins-top-knight-batten-award-for-innovations-in-journalism/) first lived on jeffvader. Lots of things lived on jeffvader. We ran *Django* on jeffvader, for goodness sake. Jeffvader was in use until at least mid-2010.
+
+But Aron kept pushing and pushing for us to get access to Amazon's cloud offerings, kept pushing for us to have access to ports that were not widely available, pushed to make sure that, whatever the obstacle, we'd figure it out. It was rarely a thing a beauty, but then anyone who makes something new knows that not every day is a work of art.
+
+Once we got access to EC2 servers, we just started spinning them up for stuff. We'd get emails from Aron periodically asking, "Does anyone know what is running on (random Amazon IP address)?" It wasn't a scolding thing; it was basically housekeeping duties. He was (usually) patient as we all stumbled around in the dark, trying to figure this thing out.
+
+We switched from using Subversion to using Git, saw each other through Rails upgrades, database meltdowns (mostly caused by me) and near-calamities on production servers. Only once did I feel any sort of anxiety from Aron; on election night in 2008, he warmed us up by smiling and saying, basically, "If this doesn't go right, don't come in tomorrow." We had that sort of nervous laughter, but if it had failed - if we had failed - it might have been the end of INT, which was barely a year old. But we didn't fail.
+
+All of this is worth mentioning not just to recognize what Aron has done at The Times in building Interactive News, but to suggest that this sort of change doesn't come easily and isn't handed to you. You have to make a play for it, and that involves sticking your neck out and trusting that your colleagues will do the same. It requires selling everyone - perspective employees, current colleagues and higher-ups - on something that isn't quite there yet.
+
+None of us knew what we were doing - not in the way we do today, when there are habits and practices and traditions. We had no idea where we might end up. But we had a guide, and we found the way. Thanks, Aron.

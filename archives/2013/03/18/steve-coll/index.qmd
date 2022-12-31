@@ -1,0 +1,25 @@
+---
+title: Steve Coll
+date: '2013-03-18T21:56:00-04:00'
+author: "Derek Willis"
+format:
+  html:
+    df-print: paged
+    toc: true
+engine: knitr
+tags:
+- washington post
+---
+I have a ton of respect for Steve Coll, who was named dean of the Columbia Journalism School on Monday. He was the managing editor of The Washington Post when I started there, and was thoughtful, smart and not given to exercising authority for its own sake.
+
+What I remember most about Steve Coll is the first time that we met. Around 4 p.m. on October 4, 2004, I was ushered into a “north wall” office at The Post - the top editors had their offices along the north wall of the building. Inside were Steve and Len Downie, the paper’s executive editor. A joint interview was somewhat unnerving.
+
+Both Steve and Len were very polite, even if they didn’t know exactly what I was being hired to do - something with data, basically. They asked me about my background and my work, and then asked if I had any questions for them. And I did, based on discussions I had with friends and colleagues and my experience as a Hill reporter. What I had heard, and had been told quite a bit, was that The Post was a “destination” place for journalism, and that I’d be stupid not to jump at an offer. But I also was told in no uncertain terms that The Post could be a difficult place to work. That some people there were extraordinarily competitive and, to put it bluntly, not very nice.
+
+So gently, trying to be very respectful, I asked about this. “I’ve heard from people that I trust that The Post can be … uh, a little mean.”
+
+There was a brief pause. I thought for an instant that I had blown it. And then Steve looked at me and acknowledged that it was an issue, but that “I think that you’ll find that it’s a much friendlier place than it has been in the past.”
+
+And I thought to myself, “He’s the managing editor of The Washington Post. He could have basically told me to stick it - they didn’t need me.” But he didn’t - he was honest and upbeat at the same time. He seemed to care that his paper was a good place to work.
+
+Now, I’m pretty sure that I would have taken The Post’s offer whatever his answer had been. But that one exchange really put me at ease, and made it possible for me to really believe that this not only was a destination, but it was a place for me. Thanks, Steve. And good luck.

@@ -1,0 +1,32 @@
+---
+title: Magic Removal
+date: '2013-01-23T20:45:00-05:00'
+author: "Derek Willis"
+format:
+  html:
+    df-print: paged
+    toc: true
+engine: knitr
+tags:
+- aaronsw
+---
+
+
+Few may remember this, but Aaron Swartz kickstarted Django’s magic-removal effort years ago. Django is 1000x better thanks to his feedback.
+— Adrian Holovaty (@adrianholovaty) January 12, 2013
+
+After Aaron Swartz’s death earlier this month, my friend Adrian wrote that on Twitter as a way of explaining what kind of software developer Aaron was. The ticket that Aaron filed that led to removing the magic from Django is classic Swartz:
+
+
+My biggest issue with Django right now is that it’s so hard and heavy to get started….Imagine how many more people would just start using Django, instead of putting it off or giving up. Imagine how people would start using bits and pieces of Django everywhere, instead of just their website.
+
+
+Not all of Aaron’s suggestions made it into the “magic-removal” branch of Django, and eventually into the main codebase. But his goals - simplicity, a closer understanding between programmer and tool - were enormously influential, as Adrian says.
+
+My friend and colleague Dan Chudnov, a library hacker who met Aaron back in 2001, brought up the magic removal example today at an event he organized to talk about Aaron’s life and work. It struck me, sitting there, just how appropriate the phrase was. When you think about it, much of Aaron’s work involved removing the magic.
+
+We live in a complex time, with more complicated structures and procedures and relationships. There are so many things that we do not understand that we could, if the barriers in the way could be taken down. If we could only remove the magic that keeps us from understanding how things work. I think Aaron tried to do that, by making as much information as possible public information, and by making it easier to organize and share that information.
+
+I’d like to think there’s a parallel to journalism, too. Good journalism - especially good public service journalism - is all about magic removal, about putting the reader in a position to understand why and how decisions are made, and to be able to put herself squarely into the conversation. The best feature writers can demystify just about anything, no matter how unknowable it seems on the surface. I think Aaron was working on the same thing, albeit in a different way.
+
+To the list of descriptions we’ve seen of Aaron in the past two weeks: hacker, writer, thinker, activist, prodigy, friend and son, let’s add one more: magic remover. And let’s think about how we can remove some of the magic that remains.

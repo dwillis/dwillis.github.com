@@ -1,0 +1,57 @@
+---
+title: How I Got Here
+date: '2012-11-27T15:28:00-05:00'
+tags: []
+author: "Derek Willis"
+format:
+  html:
+    df-print: paged
+    toc: true
+engine: knitr
+---
+I meant to finish this by Thanksgiving, as a way of acknowledging the key role that female mentors have played in my career. Better late than never.
+
+A resume is a fairly terrible way of summing up professional experience, particularly since it attempts to impose a uniform structure over stories of wide variety. If you look at mine, it would show that I started in journalism at The Palm Beach Post, moved to Washington, D.C. to join Congressional Quarterly and then onto The Center for Public Integrity. From there, I was fortunate enough to work at The Washington Post and now The New York Times.
+
+My resume, like others, might suggest that I have made my own "luck", as it were. There's no place on a resume to assign a percentage of personal responsibility, say, or a figure to the help of others. Perhaps there should be. When I consider the start of my career - the steps that put me on the path to where I am now - there is no escaping the conclusion that at key moments, when someone had to take a chance on me and see something that wasn't entirely there, five women did so. I don't for a moment believe this is a coincidence.
+
+***Gainesville, 1995***
+
+Towards the end of my graduate work at the University of Florida, I began sending out applications for reporting internships to various papers, mostly in the state. I had done some high school sports stringing for the Jacksonville and Orlando papers and had assisted the Orlando Sentinel with coverage of the Danny Rolling trial. I covered Florida sports teams for the Alligator and occasionally wrote other pieces. But my clips were not particularly impressive. No one offered an internship (I still have most of the rejection letters, of course), and I began to worry.
+
+At the journalism school one day I saw a flyer advertising an internship at The Palm Beach Post as a research librarian. I had been serving as sort of an unofficial librarian for the Alligator (I actually enjoyed cutting clips) and thought, maybe I could do that. It was something. I was not a library student, nor was I even sure what a research librarian did beyond "look up stuff".
+
+Then I met Mary Kate Leming, who ran the library at The Post. She came up to Gainesville (a non-trivial trip) to interview me for the internship. Whatever I might have thought about the image of librarians, Mary Kate wiped away almost instantly. The way she described it, research librarians at The Post hunted down the news. They were part reporters, part detectives. It sounded pretty cool to me, and I got the internship.
+Mary Kate took a chance on me, and set me on my course. She's now the executive editor of The Coastal Star, a local newspaper for beach communities in southern Palm Beach County.
+
+***West Palm Beach, 1995***
+
+At The Post I was introduced to Michelle Quigley, a librarian, and told to learn how to do what she did. Michelle spent most of her time fielding questions from the newsroom, ranging from "So-and-so got arrested, his DOB is such-and-such, can I get a criminal history and an address for him?" to "My source mentioned a court case in Nebraska from 5 years ago, I think. Can you find it?" and beyond. In the paper's internal messaging system (yay, ATEX!), the person who got all the questions was known as "REF". So, you messaged REF with your query, and at some point you hopefully got an answer.
+
+A former law librarian, Quig was the best researcher I've ever seen. Reporters loved her, because she thought like a reporter; indeed, sometimes she thought better than they did. I could not imagine a better mentor. This was still in the early days of general Internet access, so search engines weren't all that useful and certainly not for what we'd call "real-time" results. I learned how to construct queries on dial-up systems like Dialog and a dozen others. We had a microfiche collection of Florida driver's licenses. It was like working in a candy store, except the candy consisted of facts. The problems changed every day. It was awesome.
+
+There's one story I'll never forget: a sports reporter had gotten a tip that the Florida Marlins would be hiring a new coach (it might have been the manager, Jim Leyland, or an important position coach, I'm not sure a former colleague says it was the hiring of Leyland, and our reporter, Dan Graziano, was looking for a club official to confirm it). The reporter was trying to get a phone number for the guy, and had struck out. Could REF help? Michelle established that the fellow lived down a rural road in Ohio and had an unlisted phone number. Seemingly a dead end. But then she found the numbers of his closest neighbors, and the reporter convinced one of them to run over to the guy's house and ask if he'd get on the phone. Now that's some creative problem-solving.
+
+And yet Michelle and Mary Kate must have known at some level that I wanted to get out at some point and do more reporting. Still, they trained me and spent hours answering my ridiculous questions. And then they let me go, off to build a newsroom intranet and work on CAR projects and cover some small towns. They took a risk on me, one that had limited benefits to them in the long run, and changed my life.
+
+Michelle still works at The Post, hunting down the news. I'm not sure where I'd be without her example. I knew I wasn't a great writer, but in her I saw how you could have a huge impact on the news without writing every day.
+
+***Washington, 1998***
+
+I came to D.C. to work at Congressional Quarterly at the end of 1997, ostensibly to work on a reference book on political action committees and to do some CAR stuff whenever I could find the time. Kinsey Wilson and Dan Gainor hired me, and did much to get me integrated into the organization, but I worked for the "New Media" department, which didn't have a lot in common with the traditional side of CQ. Maybe a month into my work there, CQ held its annual meeting at a nearby hotel. We all went to listen to various executives talk about the company. It wasn't the most exciting thing.
+
+Then I heard a speaker mention my name. It wasn't Dan, or Kinsey, or anyone else that I really dealt with much. It was Martha Angle, a veteran journalist and editor of CQ's "Pulse of Congress" column, which sought to bring to light exclusive inside baseball-type stories. Martha is a D.C. reporting institution, a fighter and someone who loves the job. And she had just singled me out as someone who she thought would help CQ. Then she helped make it happen.
+
+I moved to the politics group after the book project was done, then to working on CQ's annual vote studies and finally to covering House leadership and writing Pulse pieces for Martha. I knew next to nothing about how the House actually worked, but I learned from the best. Martha championed my work to the point of encouraging me to set up a Blogger.com account (this was 2000 at the time) that got i-framed into cq.com, which I think was one of the first examples of a D.C. publication using a blog for its coverage. She was a demanding editor but one who would go to the wall for her reporters. I still don't know exactly what she thought she saw in me, but she, too, took a chance on me and changed my life. She made it possible for me to take my interest in data and my interest in Congress and make a thing of it.
+
+***Washington, 2004***
+
+I was doing a training at the National Press Club on campaign finance data (what else?) in the summer of 2004 when one of the "students" stayed around after one of the sessions to ask some questions. These were mostly D.C. reporters and some editors who were trying to figure out how this data stuff could help with election coverage, or reminding themselves where to find things on the F.E.C. website since the last time they looked.
+
+Bridget Roeber said that she ran the library at The Washington Post and that they might be looking for someone to do data work for reporters, some training and other tasks, and that I might be a good fit. Me: "….uh…yeah!" We had a lunch soon after, followed by an interview lunch and meetings with some of the other researchers. It all seemed way too fast to me; I couldn't believe that this is how you get to The Post. I was at a non-profit, The Center for Public Integrity, spending my days buried in data on 527 political committees. I remember asking friends, "Should I do this?", which was a ridiculous question. I was probably trying to ask, "Is this actually happening?"
+
+Still, this was a risk for Bridget. The Post was losing Margot Williams, an incredibly talented and hard-working researcher who had credentials and experiences far beyond mine. As far as I could see, it wasn't an even replacement, except that they would be getting someone much geekier. Margot was a known quantity to the newsroom; I spent a single year as a professional researcher, and that was in 1995-96. It would have been easy for Bridget to hire someone else with more experience and a library background. There was no shortage of candidates. Still, she hired me, and made me feel like she had no doubts about it.
+
+Bridget and her successor, Lucy Shackelford, encouraged me to do things beyond my job description, even when it wasn't in their interest to do so. Lucy once drove me to a Special Libraries Association conference and introduced me at the start of a 7:30 a.m. session, saying something like: "I'm not totally sure what Derek does," which is what every employee longs to hear from his boss. But she defended me to other managers more times than she should have had to and made my job easier. That's how I wound up at washingtonpost.com and now at The Times.
+
+There were no shortage of men who helped me, encouraged me and smoothed out mistakes of mine along the way. Some of them took some risks, too. But I am so incredibly grateful to these women who made my career possible, even when I didn't always see it or in spite of my own efforts. Each of them, in different ways, are the kind of role model I want for our daughter.

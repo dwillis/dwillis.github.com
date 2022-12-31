@@ -1,0 +1,18 @@
+{
+  "hash": "366c3e93c2d8492e0cfecd0880670d3d",
+  "result": {
+    "markdown": "---\ntitle: White House Beat Feature Request\ndate: 2008-09-23\nauthor: \"Derek Willis\"\nformat:\n  html:\n    df-print: paged\n    toc: true\nengine: knitr\n---\n\n\nOk, I love the fact that CBS Radio's [Mark Knoller](http://www.cbsnews.com/team/mark-knoller/) keeps such [good tabs on presidential travel](http://thecaucus.blogs.nytimes.com/2007/01/12/counting-the-days-bush-stays-at-camp-david/), but can somebody please come up with a backup plan in case, heaven forbid, Knoller gets hit by a bus or something? Is this too much to ask of WH reporters? This is the kind of thing where somebody out there is going to do a better job of gathering and displaying this data on the Web. And it should be us, cause it's our job.\n",
+    "supporting": [],
+    "filters": [
+      "rmarkdown/pagebreak.lua"
+    ],
+    "includes": {
+      "include-in-header": [
+        "<link href=\"../../../site_libs/pagedtable-1.1/css/pagedtable.css\" rel=\"stylesheet\" />\n<script src=\"../../../site_libs/pagedtable-1.1/js/pagedtable.js\"></script>\n"
+      ]
+    },
+    "engineDependencies": {},
+    "preserve": {},
+    "postProcess": true
+  }
+}

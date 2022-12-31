@@ -1,0 +1,18 @@
+---
+title: One Way to Encourage Innovation
+date: 2009-07-24
+author: "Derek Willis"
+format:
+  html:
+    df-print: paged
+    toc: true
+engine: knitr
+---
+
+Innovation. We're told over and over (often by people who don't actually do much more than talk, but that's another story) that our industry needs it. So, you ask, [how I can get me some of that innovation stuff](http://web.archive.org/web/20090904023809/http://www.knightdigitalmediacenter.org/leadership_blog/let_the_early_birds_soar/)? In my experience, there's only so much that a single person (or a small group of people) can do inside a larger organization to develop new ideas and see them thrive. You need help, often from the very structures that new ideas might seem to be challenging.
+
+So here's an idea: reward innovation with concrete responses. Yesterday, J-Lab at American University [announced the winners of its annual Knight-Batten Award for innovations in journalism](http://web.archive.org/web/20090826032516/http://www.j-lab.org/about/press_releases/2009_knight_batten_release/), and [my employer](http://www.nytimes.com/) won the grand prize for a body of work that included [Represent](http://projects.nytimes.com/represent), an app that my colleague Andrei Scheinkman and I built along with Stephan Weitburg. The honor and attention from that award is really great, and a cash reward doesn't hurt, either. But we didn't build Represent with Knight-Batten in mind.
+
+We built Represent because The Times gave us the incentive and motivation, via a company-wide technology challenge designed to solicit working prototypes or applications for nytimes.com. Winners get a cash bonus (always a good incentive to enter) but also the resources to see their ideas come to life on the site (or internally, since internal apps also qualify). The former is a very nice thing indeed, but the latter is more important in the long-term, since people like to see their work showcased. Our contest is open to all employees of the company, and can be built in pretty much anything, which means that technology itself is an enabler of progress, not a barrier.
+
+The key here is that for a small investment, the Times got some of its employees to work on projects that they were personally interested in, _on their own time_. The winners and the company benefit from new ideas, and the prospect of winning helps bring more people into the process. Does your news organization do this? Why not?

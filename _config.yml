@@ -1,4 +1,0 @@
----
-highlighter: rouge
-permalink: "/archives/:categories/:year/:month/:day/:title/"
-markdown: kramdown

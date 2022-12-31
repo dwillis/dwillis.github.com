@@ -1,0 +1,18 @@
+{
+  "hash": "5ee8980770ad5dd02c1217dad0fe111f",
+  "result": {
+    "markdown": "---\ntitle: The Fundamental Training Need\ndate: 2009-06-25\nauthor: \"Derek Willis\"\nformat:\n  html:\n    df-print: paged\n    toc: true\nengine: knitr\n---\n\n\nIt's good to see recent writings on the importance of [training](http://mindymcadams.com/tojou/2009/teaching-students-to-integrate-multimedia-tools-storytelling/) and [skill development](http://www.mediabistro.com/10000words/journalism-grads-30-things-you-should_b337) for journalists.\n\nOne of the common responses to such entreaties is exemplified in one of the comments to the 10000 Words piece, which includes this plea: \"I understand the need to bolster one's skill set. But what happened to the days when we actually, you know, worried about reporting rather than slavishly trying to master every piece of technology?”\n\nIf only that was the real problem.\n\nThe real problem is the way that we as journalists manage information, because that determines so much else: the kinds of stories we're able to envision and construct, the amount of context we're able to bring to bear in a short amount of time and our ability to connect the dots. In general, and this is my scientific conclusion, we suck at managing information.\n\nThat's nothing new, you might say, and you'd be right. But what has changed is that a lot of the people and institutions we cover are now getting smarter about this stuff, and are using better tools to help them manage information. From tracking crime to measuring customer loyalty, the sophisticated use of information is a crucial factor in many modern activities. Us? We're still knocking rocks around hoping to generate a spark.\n\nI'm not knocking learning skills like how to maintain a blog. I'm just saying that if all we do is teach new tools and skills, we're making the underlying problem _harder_ to solve, not easier, because we're just encouraging the production of even more separate and disconnected piles of information. More photos over here, more spreadsheets over there. We're still drowning in information and we can't figure out how to use it to our best advantage, like finding undiscovered patterns and coming up with definitive explanations instead of the ol' three-person anecdote story.\n\nSo yeah, teach those CAR and multimedia skills. Have everybody Twitter. But please, let's find a way to address the fact that for many journalists, Microsoft Word is the primary tool for organizing any and all kinds of information. Let's make sure that our silos of content (text archives, photo archives, databases, etc.) can at least be made to talk to each other, if not naturally, then through APIs or metadata or something. And let's start talking about how a news organization's information belongs to _the organization_, not just to individual reporters and editors, and how our products could be so much better if we adhered to that principle before a story/photo/slideshow is published, not just after.",
+    "supporting": [],
+    "filters": [
+      "rmarkdown/pagebreak.lua"
+    ],
+    "includes": {
+      "include-in-header": [
+        "<link href=\"../../site_libs/pagedtable-1.1/css/pagedtable.css\" rel=\"stylesheet\" />\n<script src=\"../../site_libs/pagedtable-1.1/js/pagedtable.js\"></script>\n"
+      ]
+    },
+    "engineDependencies": {},
+    "preserve": {},
+    "postProcess": true
+  }
+}

@@ -1,0 +1,48 @@
+project:
+  type: website
+  output-dir: docs
+  
+website:
+  site-url: "https://www.thescoop.org"
+  title: "Derek Willis"
+  description: "Academic and journalist"
+  twitter-card:
+     creator: "@derekwillis"
+  navbar:
+    background: dark
+    logo: "images/dwillis.png"
+    search: true
+    left:
+      - icon: rss
+        href: blog.xml
+        aria-label: feed
+  sidebar:
+    style: docked
+    tools:
+      - icon: twitter
+        href: "https://twitter.com/derekwillis"
+      - icon: mastodon
+        href: "https://newsie.social/@derekwillis"
+      - icon: github
+        href: "https://github.com/dwillis"
+    contents:
+      - text: "About"
+        href: about
+      - text: "Now"
+        href: now
+      - text: "Then"
+        href: then
+      - text: "Ways I Can Help"
+        href: help
+      - text: "The Fix"
+        href: thefix
+      - text: "Blog"
+        href: blog.html
+      - text: "Teaching"
+        href: teaching
+
+  page-footer: 
+    left: "© Copyright 2022 Derek Willis. Published using Quarto."
+format:
+  html:
+    theme: flatly

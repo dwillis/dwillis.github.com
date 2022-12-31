@@ -1,0 +1,24 @@
+---
+title: Data Journalism, Student Media Edition
+date: "2013-10-09"
+author: "Derek Willis"
+format:
+  html:
+    df-print: paged
+    toc: true
+engine: knitr
+---
+
+I had the privilege of [speaking to students (and some faculty) at Duke University](https://twitter.com/dukesanford/status/387608300600426496) on Monday, and it was inspiring to see so many people come out to listen to a very geeky talk, to say nothing of the speaker. Afterwards, several students came up to ask how they could start doing data journalism at a student newspaper, particularly at a private university not subject to most public records requests. If I'm going to encourage student journalists to embrace data journalism, it's only right that I try to provide some suggestions on how to do this in a university environment.
+
+First suggestion: as much as you'd like to address issues of national significance - and I totally did this when I worked at both The Pitt News and The Independent Florida Alligator - stick to what is right in front of you. Universities large and small are communities themselves, with often strange and interesting methods of governance and communication. They make for great stories. With that in mind, start with your university's [Institutional Research office](http://ir.provost.duke.edu/). It might be called something else, but nearly every school has something like it. The IR office's job is to collect information - data - about the school, its students and faculty, and to publish reports on the same. IR offices often conduct surveys, too, which can tell you what kinds of questions are important to the university (some even do [surveys of parents](http://web.mit.edu/surveys/parent2007/core/welcome.html)).
+
+Some are pretty good about publishing data as data, usually a spreadsheet. Other times it'll be a [PDF](http://ir.provost.duke.edu/facts/tuitionandfinaid/tuition%20history%20through%201213.pdf) or maybe even a Word doc. It doesn't matter - you'll want to build your own set of data about the university, and you won't want to restrict yourself to only what IR offices are interested in. Start with a spreadsheet - maybe Google spreadsheets, so multiple people can access or edit it. Consider this [a resource for your entire news organization](http://thescoop.org/thefix/the-information-gap/), not just you. When you leave, make sure someone else takes over the care and feeding of it. Make it so that your student paper or radio station is an expert in the demographics of the university.
+
+As you build up a collection of data, you'll be able to write actual trend stories about incoming classes or the number of full-time faculty at the school. Instead of having to recompile the same information over and over for different stories, you can do it once and use it all over the place. And it's not like the university can say that the data isn't correct; they can, but they'll need to correct it.
+
+Second suggestion: Follow the [research](http://research.duke.edu/) money. Higher education is now a complex combination of students, faculty, administrators and the funding that makes it all possible. Faculty members hope to bring in research money to pursue their interests and to enhance their profiles. While a not insignificant portion of that research is funded by private sources, the government pays for quite a lot of academic research. Student media outlets should know about it. After all, the [occasional story about a faculty research grant](http://www.dukechronicle.com/articles/2013/09/23/duke-professor-wins-award-advance-research) is a common thing for a lot of campus newspapers.
+
+(Note: were the federal government not shutdown at the moment, I'd provide some links to sources of research grant information and data. But you're journalists, you can find them.)
+
+Third suggestion: Decide what 2-3 things that your university does that makes it regionally or nationally known. This may include athletics. Figure out how to dive deep into those subjects, including collecting whatever data is available. If sports is on the table, then track plays or players or coaches or all of the above. If it's a particular school or department, gather up all the details on faculty, classes, students, etc. Ask students and faculty what they'd like to know about those things, or what they *think* they already know. Own your home court, basically. That should be something Duke students, at least, find familiar.
